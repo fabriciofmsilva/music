@@ -10,7 +10,7 @@ layout: home
 <h2>Guitarra</h2>
 
 <h3>
-  <a href="/guitar/fretboard/1-general/">Fluência no Braço</a>
+  <a href="guitar/fretboard/1-general/">Fluência no Braço</a>
 </h3>
 
 <h3>Técnica</h3>
