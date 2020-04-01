@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Aprenda Música"
-links:
-  - title: Guitarra
-    url: guitar
+title: "Palhetada Alternada"
+videos:
+  - title: "Palhetada alternada sobre harmonia | João Gaspar | Fica a Dica"
+    url: https://www.youtube.com/embed/qtbHQOD6NJ8
 ---

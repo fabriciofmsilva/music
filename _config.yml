@@ -29,32 +29,36 @@ url: "https://fabriciofmsilva.com.br" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header_pages:
+  - about
+  - portfolio
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
 # Collections
-collections_dir: _guitar
-collections:
-  fretboard:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
-  technique:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
-  read:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
-  harmony:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
-  improvisation:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
-  repertoire:
-    permalink: "/guitar/:collection/:name/"
-    output: "true"
+# collections_dir: _guitar
+# collections:
+#   fretboard:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
+#   technique:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
+#   read:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
+#   harmony:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
+#   improvisation:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
+#   repertoire:
+#     permalink: "/guitar/:collection/:name/"
+#     output: "true"
 
 
 # Exclude from processing.

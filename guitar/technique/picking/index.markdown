@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Aprenda Música"
+title: "Palhetada"
 links:
-  - title: Guitarra
-    url: guitar
+  - title: Alternada
+    url: alternate
 ---

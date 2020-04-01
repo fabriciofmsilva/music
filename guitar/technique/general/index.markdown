@@ -1,7 +1,5 @@
 ---
 layout: page
 title:  "Geral"
-categories: fretboard
+categories: technique
 ---
-
-Teste
