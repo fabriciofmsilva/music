@@ -1,6 +1,6 @@
 ---
 layout: linkpage
-title:  "Escala Menor Melódica"
+title:  "Escala Diatônica Menor Melódica"
 categories: fretboard
 videos:
   - title: "Escala lá menor melódica semínima | Leo Justen"

@@ -7,6 +7,14 @@ title: "Fluência no Braço"
 links:
   - title: Geral
     url: general
+  - title: Intervalos
+    url: interval
   - title: Escalas
     url: scales
+  - title: Modos
+    url: modes
+  - title: Arpejos
+    url: arpeggios
+  - title: Acordes
+    url: chords
 ---
