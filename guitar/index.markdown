@@ -17,4 +17,8 @@ links:
     url: improvisation
   - title: Repertório
     url: repertoire
+  - title: Equipamento
+    url: equipment
+  - title: Outros
+    url: misc
 ---

@@ -34,4 +34,7 @@ links:
     url: randy-rhoads
   - title: "Ritchie Blackmore"
     url: ritchie-blackmore
+videos:
+  - title: "Riffs | Kiko Loureiro"
+    url: https://www.youtube.com/embed/S3MxfbmdPmg
 ---

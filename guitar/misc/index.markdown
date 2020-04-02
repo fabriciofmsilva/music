@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Palhetada"
+title: "Outros"
 links:
-  - title: Alternada
-    url: alternate
-  - title: Sweep
-    url: sweep
+  - title: "Como estudar"
+    url: study
 ---

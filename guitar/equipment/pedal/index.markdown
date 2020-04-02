@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Palhetada"
-links:
-  - title: Alternada
-    url: alternate
-  - title: Sweep
-    url: sweep
+title: "Pedal"
+videos:
+  - title: "Fontes de pedais | Roberto Torao"
+    url: https://www.youtube.com/embed/MmmDR2AqJfU
 ---

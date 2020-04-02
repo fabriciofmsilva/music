@@ -3,10 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Palhetada"
+title: "Ligados"
+categories: technique
 links:
-  - title: Alternada
-    url: alternate
-  - title: Sweep
-    url: sweep
+  - title: Tapping
+    url: tapping
+videos:
+  - title: "Ligados | Kiko Loureiro"
+    url: https://www.youtube.com/embed/HMexic6pbnU
 ---

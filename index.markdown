@@ -7,4 +7,8 @@ title: "Aprenda Música"
 links:
   - title: Guitarra
     url: guitar
+  - title: Produção
+    url: production
+  - title: Como estudar
+    url: study
 ---
