@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Gary Moore"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Gary Moore style lick in E minor"
+    url: https://www.youtube.com/embed/b6Owh2m5lqw
+    lang: eng
 ---

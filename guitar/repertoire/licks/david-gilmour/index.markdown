@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "David Gilmour"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "David Gilmour style lick in B minor"
+    url: https://www.youtube.com/embed/3KrbQq96vjM
+    lang: eng
 ---

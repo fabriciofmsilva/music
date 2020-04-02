@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Eric Johnson"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Eric Johnson style lick in E minor"
+    url: https://www.youtube.com/embed/_DbX7ClGM
+    lang: eng
 ---

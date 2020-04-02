@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "B.B. King"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "B.B. King style lick in G"
+    url: https://www.youtube.com/embed/6Oev6qU1QPI
+    lang: eng
 ---

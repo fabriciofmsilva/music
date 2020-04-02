@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Randy Rhoads"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Randy Rhoads style lick in D minor"
+    url: https://www.youtube.com/embed/_XfQG8SdB8c
+    lang: eng
 ---

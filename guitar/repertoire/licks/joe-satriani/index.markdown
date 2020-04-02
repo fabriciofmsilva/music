@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Joe Satriani"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Joe Satriani style lick in B mixolydian"
+    url: https://www.youtube.com/embed/XPgt_P3gheo
+    lang: eng
 ---

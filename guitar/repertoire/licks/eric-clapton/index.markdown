@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Eric Clapton"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Eric Clapton style lick in E minor"
+    url: https://www.youtube.com/embed/XQvbiRk2MJY
+    lang: eng
 ---

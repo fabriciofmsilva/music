@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Kirk Hammett"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Kirk Hammett style lick in E minor"
+    url: https://www.youtube.com/embed/SL5lvAfE7-Q
+    lang: eng
 ---

@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Música"
 categories: repertorie
 links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+  - title: Rock
+    url: rock
 ---

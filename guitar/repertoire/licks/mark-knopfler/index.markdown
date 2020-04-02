@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Mark Knopfler"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Mark Knopfler style lick in D minor"
+    url: https://www.youtube.com/embed/Mww_p_p1lN4
+    lang: eng
 ---

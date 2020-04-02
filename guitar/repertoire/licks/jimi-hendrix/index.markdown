@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Repertório"
+title: "Jimi Hendrix"
 categories: repertorie
-links:
-  - title: Licks
-    url: licks
-  - title: Músicas
-    url: music
+videos:
+  - title: "Jimi Hendrix style lick in C minor"
+    url: https://www.youtube.com/embed/P7BpCeSfjTk
+    lang: eng
 ---
