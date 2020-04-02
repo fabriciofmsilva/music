@@ -5,6 +5,8 @@
 layout: linkpage
 title: "Como estudar"
 videos:
+  - title: "Dicas para o estudo diário | Nelson Faria"
+    url: https://www.youtube.com/embed/2kWmPuTb1Lk
   - title: "Dicas essenciais de como estudar guitarra | Roberto Barros"
     url: https://www.youtube.com/embed/aSEYObnRJbA
   - title: "Quantidade de horas de estudo | Roberto Barros"

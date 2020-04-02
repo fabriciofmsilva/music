@@ -5,6 +5,10 @@
 layout: linkpage
 title: "Equipamento"
 links:
+  - title: Guitarra
+    url: guitar
+  - title: Amplificador
+    url: amp
   - title: Pedal
     url: pedal
 ---

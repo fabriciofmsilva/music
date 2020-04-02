@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Produção de Vídeo"
+title: "Palhetada Alternada Postura"
 videos:
-  - title: "Como gravar videos com Fundo Preto | Michael Oliveira"
-    url: https://www.youtube.com/embed/6fYboRzy0cs
+  - title: "Ajustes e dicas | Roberto Barros"
+    url: https://www.youtube.com/embed/mz8YL2smY08
 ---

@@ -3,6 +3,10 @@ layout: linkpage
 title:  "Escalas"
 categories: fretboard
 links:
+  - title: Cromática
+    url: cromatic
+  - title: Menor
+    url: minor
   - title: Pentatônica
     url: pentatonic
 videos:

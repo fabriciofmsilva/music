@@ -1,8 +1,8 @@
 ---
 layout: linkpage
-title:  "Come as You Are | Nirvana"
+title:  "Paranoid | Black Sabbath"
 categories: repertorie
 videos:
   - title: "Riff | Marcos De Ros"
-    url: https://www.youtube.com/embed/m6rpO-I__3M
+    url: https://www.youtube.com/embed/oyGZW13oEdA
 ---

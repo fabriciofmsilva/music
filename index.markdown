@@ -7,6 +7,10 @@ title: "Aprenda Música"
 links:
   - title: Guitarra
     url: guitar
+  - title: Baixo
+    url: bass
+  - title: Bateria
+    url: drum
   - title: Produção
     url: production
   - title: Como estudar

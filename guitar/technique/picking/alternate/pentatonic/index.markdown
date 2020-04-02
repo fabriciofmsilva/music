@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Produção de Vídeo"
+title: "Palhetada Alternada Pentatônica"
 videos:
-  - title: "Como gravar videos com Fundo Preto | Michael Oliveira"
-    url: https://www.youtube.com/embed/6fYboRzy0cs
+  - title: "Palhetada alternada na pentatônica | João Gaspar"
+    url: https://www.youtube.com/embed/ts5Q8acpX1U
 ---

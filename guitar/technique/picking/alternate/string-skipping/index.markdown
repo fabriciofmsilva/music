@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Produção de Vídeo"
+title: "Palhetada Alternada com Salto de Corda"
 videos:
-  - title: "Como gravar videos com Fundo Preto | Michael Oliveira"
-    url: https://www.youtube.com/embed/6fYboRzy0cs
+  - title: "Salto de Corda | Kiko Loureiro"
+    url: https://www.youtube.com/embed/Qwx2vhnejuc
 ---

@@ -5,6 +5,8 @@
 layout: linkpage
 title: "Técnica"
 links:
+  - title: Geral
+    url: general
   - title: Postura
     url: posture
   - title: Rítmo
@@ -13,6 +15,10 @@ links:
     url: picking
   - title: Bend
     url: bend
+  - title: Vibrato
+    url: vibrato
   - title: Ligados
     url: legato
+  - title: Harmônicos
+    url: harmonic
 ---
