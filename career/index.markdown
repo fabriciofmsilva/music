@@ -3,12 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Palhetada"
-links:
-  - title: Alternada
-    url: alternate
-  - title: Sweep
-    url: sweep
-  - title: Rake
-    url: rake
+title: "Carreira"
+videos:
+  - title: "Empreendendo na música | Kiko Loureiro e Nelson Faria"
+    url: https://www.youtube.com/embed/ENCqgtwIfAg
 ---

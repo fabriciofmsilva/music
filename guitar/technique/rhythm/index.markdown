@@ -5,6 +5,6 @@
 layout: linkpage
 title: "Rítmo"
 videos:
-  - title: "Firmando as semicolcheias | Firmando Todas | Nelson Faria | Fica a Dica"
+  - title: "Firmando as semicolcheias | Firmando Todas | Nelson Faria"
     url: https://www.youtube.com/embed/v6F4_QpSE6o
 ---

@@ -11,4 +11,6 @@ links:
     url: production
   - title: Como estudar
     url: study
+  - title: Carreira
+    url: career
 ---

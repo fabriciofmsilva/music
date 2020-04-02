@@ -3,12 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Palhetada"
-links:
-  - title: Alternada
-    url: alternate
-  - title: Sweep
-    url: sweep
-  - title: Rake
-    url: rake
+title: "Palhetada Rake"
+videos:
+  - title: "RAKE | Gil Manoel"
+    url: https://www.youtube.com/embed/mXLvLdEjE7A
 ---

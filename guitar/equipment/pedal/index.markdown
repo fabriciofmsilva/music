@@ -7,4 +7,6 @@ title: "Pedal"
 videos:
   - title: "Fontes de pedais | Roberto Torao"
     url: https://www.youtube.com/embed/MmmDR2AqJfU
+  - title: "Como montar o seu pedalboard, ordem dos pedais | Marcos De Ros"
+    url: https://www.youtube.com/embed/qvjR6foyt0U
 ---

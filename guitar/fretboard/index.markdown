@@ -7,4 +7,6 @@ title: "Fluência no Braço"
 links:
   - title: Geral
     url: general
+  - title: Escalas
+    url: scales
 ---
