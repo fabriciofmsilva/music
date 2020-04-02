@@ -16,6 +16,8 @@ links:
   - title: Salto de Corda
     url: string-skipping
 videos:
+  - title: "Exercício 1,2,3,4 com palhetada alternada | Nelson Faria"
+    url: https://www.youtube.com/embed/M84XwL8GNnA
   - title: "Palhetada alternada, semínima | João Gaspar"
     url: https://www.youtube.com/embed/NY2CfBhFZdY
   - title: "Palhetada alternada, colcheia | João Gaspar"

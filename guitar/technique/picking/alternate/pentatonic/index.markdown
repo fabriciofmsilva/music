@@ -7,4 +7,6 @@ title: "Palhetada Alternada Pentatônica"
 videos:
   - title: "Palhetada alternada na pentatônica | João Gaspar"
     url: https://www.youtube.com/embed/ts5Q8acpX1U
+  - title: "Palhetada alternada na pentatônica | Leo Justen"
+    url: https://www.youtube.com/embed/fSqr6aRwl2s
 ---

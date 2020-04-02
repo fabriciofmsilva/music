@@ -9,6 +9,8 @@ links:
     url: guitar
   - title: Baixo
     url: bass
+  - title: Piano
+    url: piano
   - title: Bateria
     url: drum
   - title: Produção

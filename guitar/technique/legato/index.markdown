@@ -6,6 +6,8 @@ layout: linkpage
 title: "Ligados"
 categories: technique
 links:
+  - title: Pull-Off
+    url: pull-off
   - title: Tapping
     url: tapping
 videos:

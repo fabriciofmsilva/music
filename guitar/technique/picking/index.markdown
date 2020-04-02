@@ -11,4 +11,7 @@ links:
     url: sweep
   - title: Rake
     url: rake
+videos:
+  - title: "Palhetada Alternada vs Economy picking | Vilmar Gusberti"
+    url: https://www.youtube.com/embed/W_z5mJmdF_E
 ---

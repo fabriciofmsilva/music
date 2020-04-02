@@ -7,6 +7,8 @@ title: "Técnica"
 links:
   - title: Geral
     url: general
+  - title: Mão Digitadora
+    url: fret-hand
   - title: Postura
     url: posture
   - title: Rítmo
