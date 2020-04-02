@@ -13,4 +13,6 @@ links:
     url: led-zeppelin
   - title: Nirvana
     url: nirvana
+  - title: Yngwie Malmsteen
+    url: yngwie-malmsteen
 ---
