@@ -1,12 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: linkpage
 title: "Outros"
 links:
   - title: "Como estudar"
     url: study
+  - title: "Como tirar música de ouvido"
+    url: heard
 videos:
   - title: "10 levels of guitar │ Ichika Nito"
     url: https://www.youtube.com/embed/duqFO4wony8

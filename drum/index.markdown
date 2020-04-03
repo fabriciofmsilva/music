@@ -11,6 +11,10 @@ videos:
     url: https://www.youtube.com/embed/yIc5sNeNKwM
   - title: "Escondendo o pulso | Kiko Freitas"
     url: https://www.youtube.com/embed/vgqqitTExEg
+  - title: "Primeiro exercício para tempo interno | Kiko Freitas"
+    url: https://www.youtube.com/embed/RbFNpRWdSfg
   - title: "O tempo interno em qualquer instrumento | Kiko Freitas"
     url: https://www.youtube.com/embed/cLBDN9Jg88g
+  - title: "Estudos para qualquer instrumento | Kiko Freitas"
+    url: https://www.youtube.com/embed/aGh-BbGxq_g
 ---
