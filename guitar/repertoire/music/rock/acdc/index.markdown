@@ -3,6 +3,8 @@ layout: linkpage
 title:  "AC/DC"
 categories: repertorie
 links:
+  - title: Hells Bells
+    url: hells-bells
   - title: Highway To Hell
     url: highway-to-hell
   - title: Whole Lotta Rosie

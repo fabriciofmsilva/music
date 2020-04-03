@@ -3,6 +3,8 @@ layout: linkpage
 title:  "Deep Purple"
 categories: repertorie
 links:
+  - title: Black Night
+    url: black-night
   - title: Smoke on the Water
     url: smoke-on-the-water
 ---
