@@ -13,6 +13,8 @@ videos:
     url: https://www.youtube.com/embed/rN8o7yArBlE
   - title: "Palhetada alternada horizontal em 1 corda, sextina | João Gaspar"
     url: https://www.youtube.com/embed/vTWVuV2QaJA
+  - title: "Palhetada alternada horizontal em 1 corda, todas as figuras rítmicas | João Gaspar"
+    url: https://www.youtube.com/embed/h_kD4CrVy5U
   - title: "Palhetada alternada horizontal em 1 corda | João Gaspar"
     url: https://www.youtube.com/embed/x7qTgk3A8Ac
   - title: "Palhetada alternada horizontal em 2 cordas, semínima | João Gaspar"

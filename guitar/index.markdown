@@ -21,6 +21,8 @@ links:
     url: equipment
   - title: Outros
     url: misc
+  - title: Cursos
+    url: course
   - title: Guitarristas
     url: player
 ---
