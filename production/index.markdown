@@ -2,7 +2,7 @@
 layout: linkpage
 title: "Produção"
 links:
-  - title: "Aúdio"
+  - title: "Áudio"
     url: audio
   - title: "Vídeo"
     url: video

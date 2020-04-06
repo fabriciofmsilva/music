@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Produçao de Aúdio"
+title: "Produçao de Áudio"
 videos:
   - title: "Como gravar e afinar voz | Chrys Gringo"
     url: https://www.youtube.com/embed/gqJm3kUikco
+  - title: "Como programar bateria com free VST - MT Power Drum Kit 2, Ableton Live, EZDrummer 2 | Chrys Gringo"
+    url: https://www.youtube.com/embed/3eDQApcnn68
 ---
