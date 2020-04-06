@@ -19,6 +19,8 @@ links:
     url: dick-dale
   - title: Guns N'Roses
     url: guns-n-roses
+  - title: Imagine Dragons
+    url: imagine-dragons
   - title: Iron Maiden
     url: iron-maiden
   - title: Jethro Tull
@@ -53,6 +55,8 @@ links:
     url: roy-orbison
   - title: Rush
     url: rush
+  - title: Survivor
+    url: survivor
   - title: The Rolling Stones
     url: the-rolling-stones
   - title: Yngwie Malmsteen

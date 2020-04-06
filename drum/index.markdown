@@ -11,6 +11,8 @@ videos:
     url: https://www.youtube.com/embed/yIc5sNeNKwM
   - title: "Escondendo o pulso | Kiko Freitas"
     url: https://www.youtube.com/embed/vgqqitTExEg
+  - title: "A caça ao metrônomo | Kiko Freitas"
+    url: https://www.youtube.com/embed/0VaHxKe7YKA
   - title: "Primeiro exercício para tempo interno | Kiko Freitas"
     url: https://www.youtube.com/embed/RbFNpRWdSfg
   - title: "O tempo interno em qualquer instrumento | Kiko Freitas"

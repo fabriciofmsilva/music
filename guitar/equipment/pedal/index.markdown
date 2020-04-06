@@ -4,6 +4,9 @@
 
 layout: linkpage
 title: "Pedal"
+links:
+  - title: "Drives"
+    url: drives
 videos:
   - title: "Fontes de pedais | Roberto Torao"
     url: https://www.youtube.com/embed/MmmDR2AqJfU

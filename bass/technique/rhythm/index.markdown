@@ -7,4 +7,6 @@ title: "Rítmo"
 videos:
   - title: "O que é o mais importante? | Ney Conceição"
     url: https://www.youtube.com/embed/8tdLTpWgEPY
+  - title: "Dominando o tempo | Ney Conceição"
+    url: https://www.youtube.com/embed/Om-mzc6mJHw
 ---
