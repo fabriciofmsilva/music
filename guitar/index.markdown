@@ -19,10 +19,12 @@ links:
     url: repertoire
   - title: Equipamento
     url: equipment
-  - title: Outros
-    url: misc
   - title: Cursos
     url: course
   - title: Guitarristas
     url: player
+  - title: Luthieria
+    url: luthier
+  - title: Outros
+    url: misc
 ---

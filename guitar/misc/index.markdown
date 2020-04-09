@@ -16,4 +16,6 @@ videos:
     url: https://www.youtube.com/embed/twmr292NAYw
   - title: "Eu não conseguia fazer isso! | Conrado Paulino"
     url: https://www.youtube.com/embed/g-IRJIg7Hmc
+  - title: "Como dar aulas online | Chrys Gringo"
+    url: https://www.youtube.com/embed/fxK-B2DMEoo
 ---

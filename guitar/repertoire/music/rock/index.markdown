@@ -27,6 +27,8 @@ links:
     url: jethro-tull
   - title: Jimi Hendrix
     url: jimi-hendrix
+  - title: Joan Jett
+    url: joan-jett
   - title: Judas Priest
     url: judas-priest
   - title: Kansas
@@ -59,6 +61,8 @@ links:
     url: survivor
   - title: The Rolling Stones
     url: the-rolling-stones
+  - title: The White Stripes
+    url: the-white-stripes
   - title: Yngwie Malmsteen
     url: yngwie-malmsteen
   - title: ZZ Top

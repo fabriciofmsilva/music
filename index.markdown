@@ -7,6 +7,8 @@ title: "Aprenda Música"
 links:
   - title: Guitarra
     url: guitar
+  - title: Violão
+    url: guitar-acoustic
   - title: Baixo
     url: bass
   - title: Piano
