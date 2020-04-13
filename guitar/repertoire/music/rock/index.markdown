@@ -17,6 +17,8 @@ links:
     url: deep-purple
   - title: Dick Dale
     url: dick-dale
+  - title: Dio
+    url: dio
   - title: Guns N'Roses
     url: guns-n-roses
   - title: Imagine Dragons

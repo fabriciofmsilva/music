@@ -5,6 +5,9 @@ categories: fretboard
 videos:
   - title: "Mais de 700 shapes em 4 minutos | Conrado Paulino"
     url: https://www.youtube.com/embed/q7GJLpEW3yE
+  - title: "10 Levels of Emotional Chords | ichika Nito"
+    url: https://www.youtube.com/embed/koOAOFbRp5k
+    lang: eng
 ---
 
 Formação dos acordes

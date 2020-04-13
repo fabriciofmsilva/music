@@ -12,6 +12,8 @@ links:
     url: bb-king
   - title: "Brian May"
     url: brian-may
+  - title: "Cesário Filho"
+    url: cesario-filho
   - title: "David Gilmour"
     url: david-gilmour
   - title: "Eric Clapton"

@@ -18,4 +18,6 @@ videos:
     url: https://www.youtube.com/embed/g-IRJIg7Hmc
   - title: "Como dar aulas online | Chrys Gringo"
     url: https://www.youtube.com/embed/fxK-B2DMEoo
+  - title: "A voz da guitarra | Torcuato Mariano"
+    url: https://www.youtube.com/embed/9ywC_NNcKJU
 ---

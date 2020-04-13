@@ -3,14 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Luthieria"
-links:
-  - title: "Corpo"
-    url: body
-  - title: "Trastes"
-    url: fret
-  - title: "Guitarra"
-    url: full
-  - title: "Ferramentas"
-    url: tools
+title: "Cesário Filho"
+categories: repertorie
+videos:
+  - title: "Super Fast Shred Lick"
+    url: https://www.youtube.com/embed/RXzLRkkbbqE
+    lang: eng
 ---
