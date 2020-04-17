@@ -23,6 +23,8 @@ videos:
     url: https://www.youtube.com/embed/idk5GUcY9KI
   - title: "Palhetada alternada horizontal em 2 cordas, colcheia | João Gaspar"
     url: https://www.youtube.com/embed/Lr12ox5auTU
+  - title: "Palhetada alternada horizontal em 2 cordas, semicolcheia | João Gaspar"
+    url: https://www.youtube.com/embed/-mfeP-iHy-s
   - title: "Palhetada alternada horizontal em 2 cordas, tercina | João Gaspar"
     url: https://www.youtube.com/embed/ppj8CA6Xm6c
   - title: "Palhetada alternada horizontal em 2 cordas, todas as figuras rítmicas | João Gaspar"

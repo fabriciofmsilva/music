@@ -15,4 +15,8 @@ videos:
     url: https://www.youtube.com/embed/sOe0BC16Bbk
   - title: "Notas do arpejo de acordes dominantes, treine seu ouvido | Alexandre Carvalho"
     url: https://www.youtube.com/embed/4Ntv3sdoitE
+  - title: "Solo, Quarantine jam, Aula 1 | Roberto Barros"
+    url: https://www.youtube.com/embed/lcG_LEj-vMk
+  - title: "Numa repetição, varie! | Nelson Faria"
+    url: https://www.youtube.com/embed/94iVurB6Xhc
 ---

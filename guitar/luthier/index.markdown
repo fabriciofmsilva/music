@@ -13,4 +13,9 @@ links:
     url: full
   - title: "Ferramentas"
     url: tools
+videos:
+  - title: "Como Tirar Ferrugem dos Parafusos? (Guitarra e Baixo) | Sergio Grassi"
+    url: https://www.youtube.com/embed/8rRlU8XoORI
+  - title: "Como Limpar Potenciômetro de Guitarra (Sem Tirar o Escudo) | Sergio Grassi"
+    url: https://www.youtube.com/embed/ra3x6w8-xF4
 ---

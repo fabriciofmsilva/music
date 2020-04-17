@@ -9,6 +9,8 @@ links:
     url: alternate
   - title: Sweep
     url: sweep
+  - title: Economy
+    url: economy
   - title: Rake
     url: rake
 videos:

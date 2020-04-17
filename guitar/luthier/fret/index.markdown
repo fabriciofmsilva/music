@@ -32,4 +32,8 @@ videos:
     url: https://www.youtube.com/embed/42IgNbVEZco
   - title: "Alinhando os Trastes da Guitarra | Cordas e Música"
     url: https://www.youtube.com/embed/yId--CJpDWE
+  - title: "Melhor Maneira de Retirar Trastes | Dicas do Luthier"
+    url: https://www.youtube.com/embed/mldKGdiYzYM
+  - title: "Colando trastes | Luthieria de Banheiro"
+    url: https://www.youtube.com/embed/dq5YZ-uNkxw
 ---

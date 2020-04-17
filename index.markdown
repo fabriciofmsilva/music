@@ -15,6 +15,8 @@ links:
     url: piano
   - title: Bateria
     url: drum
+  - title: Vocal
+    url: vocal
   - title: Produção
     url: production
   - title: Como estudar

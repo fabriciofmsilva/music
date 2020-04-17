@@ -12,4 +12,7 @@ videos:
     url: https://www.youtube.com/embed/yMF1Xip_fPc
   - title: "Escala Pentatônica e tapping no Blues | Marcinho Eiras"
     url: https://www.youtube.com/embed/T_Xne-w7L9E
+  - title: "Bobby McFerrin Demonstrates the Power of the Pentatonic Scale | World Science Festival"
+    url: https://www.youtube.com/embed/ne6tB2KiZuk
+    lang: eng
 ---

@@ -19,4 +19,6 @@ videos:
     url: https://www.youtube.com/embed/cLBDN9Jg88g
   - title: "Estudos para qualquer instrumento | Kiko Freitas"
     url: https://www.youtube.com/embed/aGh-BbGxq_g
+  - title: "O que é quiáltera? | Kiko Freitas"
+    url: https://www.youtube.com/embed/LzJReJk-gko
 ---
