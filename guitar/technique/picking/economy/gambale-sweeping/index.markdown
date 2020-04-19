@@ -11,4 +11,7 @@ videos:
   - title: "Secrets of Gambale Sweeping, The Mystery of Alternate Picking + John McLaughlin | Troy Grady"
     url: https://www.youtube.com/embed/4bDohGbtwL8
     lang: eng
+  - title: "The Mechanics of Pick Attack (Pickslanting vs Picking Motion) | Troy Grady"
+    url: https://www.youtube.com/embed/sV8IeDOysp8
+    lang: eng
 ---

@@ -9,4 +9,6 @@ links:
     url: fear-of-the-dark
   - title: The Number Of The Beast
     url: the-number-of-the-beast
+  - title: The Trooper
+    url: the-trooper
 ---

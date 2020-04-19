@@ -32,4 +32,6 @@ videos:
     url: https://www.youtube.com/embed/FQX6mOBz2jE
   - title: "Palhetada alternada | João Gaspar"
     url: https://www.youtube.com/embed/noL9JLQRc7A
+  - title: "Arpejo C7M Semicolcheia | Leo Justen"
+    url: https://www.youtube.com/embed/gswFcB4mcUI
 ---

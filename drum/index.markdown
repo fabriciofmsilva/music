@@ -21,4 +21,6 @@ videos:
     url: https://www.youtube.com/embed/aGh-BbGxq_g
   - title: "O que é quiáltera? | Kiko Freitas"
     url: https://www.youtube.com/embed/LzJReJk-gko
+  - title: "Figuras rítmicas são mutáveis | Kiko Freitas"
+    url: https://www.youtube.com/embed/g4ghZW4KFQw
 ---
