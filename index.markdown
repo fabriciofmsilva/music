@@ -23,4 +23,6 @@ links:
     url: study
   - title: Carreira
     url: career
+  - title: Outros
+    url: others
 ---

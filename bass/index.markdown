@@ -12,4 +12,6 @@ videos:
     lang: eng
   - title: "Estude repertório! | Ney Conceição"
     url: https://www.youtube.com/embed/PG4jWVkch_M
+  - title: "Não se apegue aos shapes de escalas | Ney Conceição"
+    url: https://www.youtube.com/embed/wwuk8uo1RTA
 ---

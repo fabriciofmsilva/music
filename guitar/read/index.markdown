@@ -4,7 +4,7 @@
 
 layout: linkpage
 title: "Leitura"
-links:
-  - title: Geral
-    url: general
+videos:
+  - title: "Leitura, parte 1 | Nelson Faria"
+    url: https://www.youtube.com/embed/zmf4VN7bIHA
 ---

@@ -19,6 +19,8 @@ links:
     url: dick-dale
   - title: Dio
     url: dio
+  - title: Eric Clapton
+    url: eric-clapton
   - title: Guns N'Roses
     url: guns-n-roses
   - title: Imagine Dragons

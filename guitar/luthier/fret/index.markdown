@@ -36,4 +36,6 @@ videos:
     url: https://www.youtube.com/embed/mldKGdiYzYM
   - title: "Colando trastes | Luthieria de Banheiro"
     url: https://www.youtube.com/embed/dq5YZ-uNkxw
+  - title: "Ferramentas Luthier Para Troca de Traste | Guilherme Luthier"
+    url: https://www.youtube.com/embed/IzZ_Orv1d7Q
 ---
