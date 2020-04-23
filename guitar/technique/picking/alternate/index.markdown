@@ -34,4 +34,6 @@ videos:
     url: https://www.youtube.com/embed/noL9JLQRc7A
   - title: "Arpejo C7M Semicolcheia | Leo Justen"
     url: https://www.youtube.com/embed/gswFcB4mcUI
+  - title: "Arpejo C7M Quiáltera de Semínima | Leo Justen"
+    url: https://www.youtube.com/embed/DQvcb8DYXFI
 ---

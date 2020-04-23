@@ -9,4 +9,10 @@ videos:
     url: https://www.youtube.com/embed/BeNN9gUz0L8
   - title: "Lima para trastes | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/q6CekBxoWD4
+  - title: "Hand Tools for Electric Guitar Building | TomboLP"
+    url: https://www.youtube.com/embed/p7GXUUw5PIs
+    lang: eng
+  - title: "How Sharp is your Plane? | Paul Sellers"
+    url: https://www.youtube.com/embed/AFItd2yCA7o
+    lang: eng
 ---

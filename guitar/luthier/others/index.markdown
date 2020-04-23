@@ -20,6 +20,9 @@ videos:
   - title: "Making a DIY Pedalboard | Fabian's Tiny Workshop"
     url: https://www.youtube.com/embed/W14xAYy2_AY
     lang: eng
+  - title: "DIY Pedalboard Build | Twisted Woodshop"
+    url: https://www.youtube.com/embed/LWYR-EdDOIQ
+    lang: eng
   - title: "How To Make A Guitar Neck Rest On The Table Saw | Project Electric Guitar"
     url: https://www.youtube.com/embed/0MzK5YbvzVM
     lang: eng

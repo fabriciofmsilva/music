@@ -5,8 +5,10 @@
 layout: linkpage
 title: "Luthier"
 videos:
-  - title: "Baixo Inteiriço/Neck through body | Luthier em Ação"
+  - title: "Baixo Inteiriço/Neck through body, aula 1 | Luthier em Ação"
     url: https://www.youtube.com/embed/CZa0_X3kCA
+  - title: "Baixo Inteiriço/Neck through body, aula 2 | Luthier em Ação"
+    url: https://www.youtube.com/embed/hkVvp3Jnq58
   - title: "Transformando um Condor XB-12 em Headless (sem Headstock) | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/MwcfUdHY1yI
 ---

@@ -11,6 +11,12 @@ links:
     url: fret
   - title: "Guitarra"
     url: full
+  - title: "Regulagem"
+    url: adjustment
+  - title: "Pestana [Nut]"
+    url: nut
+  - title: "Palheta"
+    url: picks
   - title: "Ferramentas"
     url: tools
   - title: "Outros"

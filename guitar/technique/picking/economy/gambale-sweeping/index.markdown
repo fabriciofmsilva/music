@@ -14,4 +14,7 @@ videos:
   - title: "The Mechanics of Pick Attack (Pickslanting vs Picking Motion) | Troy Grady"
     url: https://www.youtube.com/embed/sV8IeDOysp8
     lang: eng
+  - title: "The Four Motions of Gambale Sweeping | Troy Grady"
+    url: https://www.youtube.com/embed/GhJNN7jgmdY
+    lang: eng
 ---

@@ -5,6 +5,23 @@
 layout: linkpage
 title: "Economy Picking"
 links:
-  - title: Gambale Sweeping
+  - title: Gambale Sweeping (Two-way Economy)
+    url: gambale-sweeping
+  - title: Gypsy Picking (One-way Economy)
     url: gambale-sweeping
 ---
+
+## DWPS
+
+* Downstroke Sweeping
+* Alternate String Change on Upstrokes
+
+## UWPS
+
+* Upstroke Sweeping
+* Alternate String Change on Downstrokes
+
+## Double Escape Mode
+
+* No Sweeping
+* Alternate String Change on Any Direction
