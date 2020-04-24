@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: linkpage
-title: "Trastes"
+title: "Guitarra"
 videos:
   - title: "Guitar Building, from Scratch | Tchiks Guitars"
     url: https://www.youtube.com/embed/-qyqcYeTaa4
@@ -31,5 +31,8 @@ videos:
     lang: eng
   - title: "Headstock decals for dark wood (Step By Step Waterslide Inkjet decals) | DIY Gene"
     url: https://www.youtube.com/embed/LxvNNmE8c9s
+    lang: eng
+  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 1 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/DF9rEdHAReU
     lang: eng
 ---

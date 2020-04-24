@@ -23,8 +23,6 @@ links:
     url: course
   - title: Guitarristas
     url: player
-  - title: Luthieria
-    url: luthier
   - title: Outros
     url: misc
 ---

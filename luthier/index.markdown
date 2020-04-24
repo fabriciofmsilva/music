@@ -5,14 +5,16 @@
 layout: linkpage
 title: "Luthieria"
 links:
+  - title: "Guitarra"
+    url: full
+  - title: "Baixo"
+    url: bass
+  - title: "Regulagem"
+    url: adjustment
   - title: "Corpo"
     url: body
   - title: "Trastes"
     url: fret
-  - title: "Guitarra"
-    url: full
-  - title: "Regulagem"
-    url: adjustment
   - title: "Pestana [Nut]"
     url: nut
   - title: "Palheta"

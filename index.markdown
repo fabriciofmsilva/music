@@ -23,6 +23,8 @@ links:
     url: study
   - title: Carreira
     url: career
+  - title: Luthieria
+    url: luthier
   - title: Outros
     url: others
 ---

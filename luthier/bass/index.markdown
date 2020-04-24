@@ -11,4 +11,7 @@ videos:
     url: https://www.youtube.com/embed/hkVvp3Jnq58
   - title: "Transformando um Condor XB-12 em Headless (sem Headstock) | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/MwcfUdHY1yI
+  - title: "How to Build a P-style Bass Guitar - a Tutorial Ep 1 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/_12Vs3p7bt4
+    lang: eng
 ---
