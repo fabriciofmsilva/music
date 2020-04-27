@@ -38,4 +38,7 @@ videos:
     url: https://www.youtube.com/embed/dq5YZ-uNkxw
   - title: "Ferramentas Luthier Para Troca de Traste | Guilherme Luthier"
     url: https://www.youtube.com/embed/IzZ_Orv1d7Q
+  - title: "Why You Should Level Frets Under String Tension | StewMac"
+    url: https://www.youtube.com/embed/ETobAGGHmoE
+    lang: eng
 ---

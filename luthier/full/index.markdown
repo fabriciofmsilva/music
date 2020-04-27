@@ -29,10 +29,19 @@ videos:
   - title: "How to Make an Acoustic Electric Tele-Style Guitar (Step by Step) | DIY Gene"
     url: https://www.youtube.com/embed/F0yEDpi_BHo
     lang: eng
+  - title: "Low cost DIY acoustic telecaster build | Scott Clem"
+    url: https://www.youtube.com/embed/cbjjMxtK2_4
+    lang: eng
   - title: "Headstock decals for dark wood (Step By Step Waterslide Inkjet decals) | DIY Gene"
     url: https://www.youtube.com/embed/LxvNNmE8c9s
     lang: eng
   - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 1 | Crimson Custom Guitars"
     url: https://www.youtube.com/embed/DF9rEdHAReU
+    lang: eng
+  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 2 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/AfXgGNaLqDY
+    lang: eng
+  - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
+    url: https://www.youtube.com/embed/gt2zIGVHdhQ
     lang: eng
 ---

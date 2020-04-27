@@ -26,4 +26,13 @@ videos:
   - title: "How To Make A Guitar Neck Rest On The Table Saw | Project Electric Guitar"
     url: https://www.youtube.com/embed/0MzK5YbvzVM
     lang: eng
+  - title: "Diy custom $12 pedalboard | Scott Breault"
+    url: https://www.youtube.com/embed/Z3NgVJH7vKU
+    lang: eng
+  - title: "Building a DIY Pedalboard from an IKEA Crate | Matt LeFevers"
+    url: https://www.youtube.com/embed/b4I8JXewbGs
+    lang: eng
+  - title: "How To Make A Pedaltrain Style Guitar Pedalboard In Under Ten Minutes And For Less Than $20 | Simon Smith"
+    url: https://www.youtube.com/embed/wTJne9GQMtw
+    lang: eng
 ---

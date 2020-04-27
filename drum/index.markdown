@@ -23,4 +23,6 @@ videos:
     url: https://www.youtube.com/embed/LzJReJk-gko
   - title: "Figuras rítmicas são mutáveis | Kiko Freitas"
     url: https://www.youtube.com/embed/g4ghZW4KFQw
+  - title: "Clave rítmica | Kiko Freitas"
+    url: https://www.youtube.com/embed/BR-nUQYJhFc
 ---

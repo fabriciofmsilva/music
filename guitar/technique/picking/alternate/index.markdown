@@ -36,4 +36,6 @@ videos:
     url: https://www.youtube.com/embed/gswFcB4mcUI
   - title: "Arpejo C7M Quiáltera de Semínima | Leo Justen"
     url: https://www.youtube.com/embed/DQvcb8DYXFI
+  - title: "Corda abafada Colcheia | Leo Justen"
+    url: https://www.youtube.com/embed/pPzk6ra9qgI
 ---

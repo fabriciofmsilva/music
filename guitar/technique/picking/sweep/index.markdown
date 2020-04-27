@@ -7,4 +7,6 @@ title: "Palhetada Sweep"
 videos:
   - title: "Palhetada Sweep | Kiko Loureiro"
     url: https://www.youtube.com/embed/UsHZCGu4rrc
+  - title: "Extreme Sweep Picking Lesson | Cesario Filho"
+    url: https://www.youtube.com/embed/wyBiY0H_6iI
 ---

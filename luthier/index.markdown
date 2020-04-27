@@ -7,6 +7,8 @@ title: "Luthieria"
 links:
   - title: "Guitarra"
     url: full
+  - title: "Violão"
+    url: guitar-acoustic
   - title: "Baixo"
     url: bass
   - title: "Regulagem"
