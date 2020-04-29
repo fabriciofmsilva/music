@@ -41,4 +41,7 @@ videos:
   - title: "Why You Should Level Frets Under String Tension | StewMac"
     url: https://www.youtube.com/embed/ETobAGGHmoE
     lang: eng
+  - title: "How to use glue for guitar frets | StewMac"
+    url: https://www.youtube.com/embed/4ZIMMAdDn3k
+    lang: eng
 ---

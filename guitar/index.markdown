@@ -25,4 +25,7 @@ links:
     url: player
   - title: Outros
     url: misc
+videos:
+  - title: "Pedal Point Patterns | Cesario Filho"
+    url: https://www.youtube.com/embed/T_pvlIE8sF0
 ---

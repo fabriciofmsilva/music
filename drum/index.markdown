@@ -25,4 +25,6 @@ videos:
     url: https://www.youtube.com/embed/g4ghZW4KFQw
   - title: "Clave rítmica | Kiko Freitas"
     url: https://www.youtube.com/embed/BR-nUQYJhFc
+  - title: "Gonzalo Rubalcaba é percussionista | Kiko Freitas"
+    url: https://www.youtube.com/embed/Zw31_x1nlYY
 ---

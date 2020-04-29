@@ -41,6 +41,9 @@ videos:
   - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 2 | Crimson Custom Guitars"
     url: https://www.youtube.com/embed/AfXgGNaLqDY
     lang: eng
+  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 3 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/jwhjafPTnT8
+    lang: eng
   - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
     url: https://www.youtube.com/embed/gt2zIGVHdhQ
     lang: eng

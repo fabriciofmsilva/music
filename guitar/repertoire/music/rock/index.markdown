@@ -7,6 +7,8 @@ links:
     url: acdc
   - title: Aerosmith
     url: aerosmith
+  - title: Arkariot
+    url: arkariot
   - title: Black Sabbath
     url: black-sabbath
   - title: Chuck Berry

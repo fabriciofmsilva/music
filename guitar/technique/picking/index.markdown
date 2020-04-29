@@ -11,6 +11,8 @@ links:
     url: sweep
   - title: Economy
     url: economy
+  - title: Híbrida
+    url: hybrid
   - title: Rake
     url: rake
 videos:

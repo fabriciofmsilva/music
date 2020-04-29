@@ -15,4 +15,7 @@ videos:
   - title: "How Sharp is your Plane? | Paul Sellers"
     url: https://www.youtube.com/embed/AFItd2yCA7o
     lang: eng
+  - title: "How To Make A Really Simple Fret Bending Jig | John Clothier"
+    url: https://www.youtube.com/embed/CHxR01iPfIk
+    lang: eng
 ---
