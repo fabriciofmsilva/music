@@ -6,9 +6,11 @@ layout: linkpage
 title: "Luthier"
 videos:
   - title: "Baixo Inteiriço/Neck through body, aula 1 | Luthier em Ação"
-    url: https://www.youtube.com/embed/CZa0_X3kCA
+    url: https://www.youtube.com/embed/-CZa0_X3kCA
   - title: "Baixo Inteiriço/Neck through body, aula 2 | Luthier em Ação"
     url: https://www.youtube.com/embed/hkVvp3Jnq58
+  - title: "Baixo Inteiriço/Neck through body, aula 3 | Luthier em Ação"
+    url: https://www.youtube.com/embed/C1D4hfIEew4
   - title: "Transformando um Condor XB-12 em Headless (sem Headstock) | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/MwcfUdHY1yI
   - title: "How to Build a P-style Bass Guitar - a Tutorial Ep 1 | Crimson Custom Guitars"
