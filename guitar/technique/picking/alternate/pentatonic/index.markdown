@@ -7,6 +7,8 @@ title: "Palhetada Alternada Pentatônica"
 videos:
   - title: "Palhetada alternada na pentatônica | João Gaspar"
     url: https://www.youtube.com/embed/ts5Q8acpX1U
+  - title: "Encadeando digitações (85 bpm) | Palhetada Alternada com Salto na Pentatônica | João Gaspar"
+    url: https://www.youtube.com/embed/QSp3Tg6Ng_A
   - title: "Palhetada alternada na pentatônica | Leo Justen"
     url: https://www.youtube.com/embed/fSqr6aRwl2s
 ---

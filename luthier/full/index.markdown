@@ -44,7 +44,12 @@ videos:
   - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 3 | Crimson Custom Guitars"
     url: https://www.youtube.com/embed/jwhjafPTnT8
     lang: eng
+  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 4 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/IvDgDYwCHT8
+    lang: eng
   - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
     url: https://www.youtube.com/embed/gt2zIGVHdhQ
     lang: eng
+  - title: "Projeto Alexandre, Quimera Tech e Malagoli - EP01 | Alexandre Cesar Luthier"
+    url: https://www.youtube.com/embed/dZn-7mB_wrs
 ---

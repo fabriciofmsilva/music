@@ -11,4 +11,6 @@ videos:
     url: https://www.youtube.com/embed/3eDQApcnn68
   - title: "Como gravar voz e violão no Cakewalk + Autotune | Chrys Gringo"
     url: https://www.youtube.com/embed/qxEFJ-i1qqQ
+  - title: "Como remover ruído de áudio | Chrys Gringo"
+    url: https://www.youtube.com/embed/_cTlUCdFo9I
 ---

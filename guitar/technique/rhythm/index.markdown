@@ -17,4 +17,6 @@ videos:
     url: https://www.youtube.com/embed/64-GXsg75Lo
   - title: "Estudo rítmico | João Gaspar"
     url: https://www.youtube.com/embed/DdE4ltxbSe8
+  - title: "Mão direita impressionante com Cacau Santos"
+    url: https://www.youtube.com/embed/dZYfRFNLfoE
 ---

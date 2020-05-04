@@ -27,4 +27,6 @@ videos:
     url: https://www.youtube.com/embed/BR-nUQYJhFc
   - title: "Gonzalo Rubalcaba é percussionista | Kiko Freitas"
     url: https://www.youtube.com/embed/Zw31_x1nlYY
+  - title: "Questione-se antes de tocar | Kiko Freitas"
+    url: https://www.youtube.com/embed/w5RLgGBamaA
 ---

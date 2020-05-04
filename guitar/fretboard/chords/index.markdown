@@ -8,6 +8,8 @@ videos:
   - title: "10 Levels of Emotional Chords | ichika Nito"
     url: https://www.youtube.com/embed/koOAOFbRp5k
     lang: eng
+  - title: "Notas de Tensão #1 | Turnaround | Nelson Faria"
+    url: https://www.youtube.com/embed/rZ4IDQ0ObHw
 ---
 
 Formação dos acordes
