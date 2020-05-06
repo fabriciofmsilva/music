@@ -14,4 +14,6 @@ videos:
     url: https://www.youtube.com/embed/wwuk8uo1RTA
   - title: "Não seja esse tipo de aluno! | Ney Conceição"
     url: https://www.youtube.com/embed/_CUgXCJIwOs
+  - title: "Aprendi com o violão | Ney Conceição"
+    url: https://www.youtube.com/embed/iSUcvMJ6C6s
 ---

@@ -38,4 +38,6 @@ videos:
     url: https://www.youtube.com/embed/DQvcb8DYXFI
   - title: "Corda abafada Colcheia | Leo Justen"
     url: https://www.youtube.com/embed/pPzk6ra9qgI
+  - title: "1 3 2 4 Salto de Corda | Quiáltera de Semínima | Leo Justen"
+    url: https://www.youtube.com/embed/dJ1vjVql5_4
 ---

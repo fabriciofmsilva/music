@@ -7,6 +7,8 @@ links:
     url: black-dog
   - title: Heartbreaker
     url: heartbreaker
+  - title: Immigrant Song
+    url: immigrant-song
   - title: Kashmir
     url: kashmir
   - title: Rock and Roll

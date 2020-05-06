@@ -11,4 +11,6 @@ links:
     url: the-number-of-the-beast
   - title: The Trooper
     url: the-trooper
+  - title: Wasted Years
+    url: wasted-years
 ---

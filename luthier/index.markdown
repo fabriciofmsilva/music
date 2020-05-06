@@ -25,6 +25,8 @@ links:
     url: tools
   - title: "Outros"
     url: others
+  - title: "Madeira"
+    url: wood
 videos:
   - title: "Como Tirar Ferrugem dos Parafusos? (Guitarra e Baixo) | Sergio Grassi"
     url: https://www.youtube.com/embed/8rRlU8XoORI

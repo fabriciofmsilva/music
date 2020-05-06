@@ -5,6 +5,9 @@
 layout: linkpage
 title: "Guitarra"
 videos:
+  - title: "Anatomy of the Electric Guitar | Fender"
+    url: https://www.youtube.com/embed/iE1Yf_82Vbo
+    lang: eng
   - title: "Guitar Building, from Scratch | Tchiks Guitars"
     url: https://www.youtube.com/embed/-qyqcYeTaa4
     lang: eng
@@ -46,6 +49,9 @@ videos:
     lang: eng
   - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 4 | Crimson Custom Guitars"
     url: https://www.youtube.com/embed/IvDgDYwCHT8
+    lang: eng
+  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 5 | Crimson Custom Guitars"
+    url: https://www.youtube.com/embed/JbhV4t9PbY0
     lang: eng
   - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
     url: https://www.youtube.com/embed/gt2zIGVHdhQ
