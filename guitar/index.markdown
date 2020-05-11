@@ -28,4 +28,6 @@ links:
 videos:
   - title: "Pedal Point Patterns | Cesario Filho"
     url: https://www.youtube.com/embed/T_pvlIE8sF0
+  - title: "As bases para o estudo musical | João Gaspar"
+    url: https://www.youtube.com/embed/gKH2e_AZ5kc
 ---

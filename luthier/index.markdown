@@ -19,6 +19,10 @@ links:
     url: fret
   - title: "Pestana [Nut]"
     url: nut
+  - title: "Captadores"
+    url: caps
+  - title: "Pintura"
+    url: painting
   - title: "Palheta"
     url: picks
   - title: "Ferramentas"

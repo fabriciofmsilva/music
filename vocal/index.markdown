@@ -7,4 +7,6 @@ title: "Vocal"
 videos:
   - title: "Respiração e Aquecimento | AlmaGuitars"
     url: https://www.youtube.com/embed/zMnRME-Eve4
+  - title: "Mudando de registro vocal | Fatima Guedes"
+    url: https://www.youtube.com/embed/AyW-UrlJ3dw
 ---

@@ -11,4 +11,9 @@ links:
     url: amp
   - title: Pedal
     url: pedal
+videos:
+  - title: "Torpedo Live, Cab Simulator | Ozielzinho"
+    url: https://www.youtube.com/embed/KvRQbuOAbvE
+  - title: "Um bom timbre de guitarra está na captação dos falantes! | Bruno Mello"
+    url: https://www.youtube.com/embed/st22Lqf6Avk
 ---

@@ -15,6 +15,8 @@ links:
     url: rhythm
   - title: Palhetada
     url: picking
+  - title: Slide
+    url: slide
   - title: Bend
     url: bend
   - title: Vibrato

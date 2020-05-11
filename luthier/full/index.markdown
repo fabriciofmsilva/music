@@ -58,4 +58,7 @@ videos:
     lang: eng
   - title: "Projeto Alexandre, Quimera Tech e Malagoli - EP01 | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/dZn-7mB_wrs
+  - title: "How to install a bold on Guitar Neck | Fabian's Tiny Workshop"
+    url: https://www.youtube.com/embed/8NS-MUfaac0
+    lang: eng
 ---

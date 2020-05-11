@@ -20,4 +20,6 @@ videos:
   - title: "How To Make A Really Simple Fret Bending Jig | John Clothier"
     url: https://www.youtube.com/embed/CHxR01iPfIk
     lang: eng
+  - title: "Solda correta e cuidados com o ferro | Luthieria de Banheiro"
+    url: https://www.youtube.com/embed/h4KtjXe0pMo
 ---

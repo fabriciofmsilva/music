@@ -29,4 +29,6 @@ videos:
     url: https://www.youtube.com/embed/Zw31_x1nlYY
   - title: "Questione-se antes de tocar | Kiko Freitas"
     url: https://www.youtube.com/embed/w5RLgGBamaA
+  - title: "Workshop de Tempo Interno | Kiko Freitas"
+    url: https://www.youtube.com/embed/aZzEF67OPgA
 ---
