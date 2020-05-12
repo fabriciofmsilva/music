@@ -17,4 +17,7 @@ links:
     url: arpeggios
   - title: Acordes
     url: chords
+videos:
+  - title: "Três áreas do estudo e tríades | Conrado Paulino"
+    url: https://www.youtube.com/embed/593eQtpaNEo
 ---

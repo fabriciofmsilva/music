@@ -4,6 +4,9 @@
 
 layout: linkpage
 title: "Guitarra"
+links:
+  - title: "Guitarra CYBERPUNK 2077"
+    url: cyberpunk-2077
 videos:
   - title: "Anatomy of the Electric Guitar | Fender"
     url: https://www.youtube.com/embed/iE1Yf_82Vbo
@@ -37,21 +40,6 @@ videos:
     lang: eng
   - title: "Headstock decals for dark wood (Step By Step Waterslide Inkjet decals) | DIY Gene"
     url: https://www.youtube.com/embed/LxvNNmE8c9s
-    lang: eng
-  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 1 | Crimson Custom Guitars"
-    url: https://www.youtube.com/embed/DF9rEdHAReU
-    lang: eng
-  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 2 | Crimson Custom Guitars"
-    url: https://www.youtube.com/embed/AfXgGNaLqDY
-    lang: eng
-  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 3 | Crimson Custom Guitars"
-    url: https://www.youtube.com/embed/jwhjafPTnT8
-    lang: eng
-  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 4 | Crimson Custom Guitars"
-    url: https://www.youtube.com/embed/IvDgDYwCHT8
-    lang: eng
-  - title: "Taking a Great KIT GUITAR and making it CYBERPUNK 2077, EP 5 | Crimson Custom Guitars"
-    url: https://www.youtube.com/embed/JbhV4t9PbY0
     lang: eng
   - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
     url: https://www.youtube.com/embed/gt2zIGVHdhQ

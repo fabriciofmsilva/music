@@ -28,3 +28,5 @@ links:
   - title: Outros
     url: others
 ---
+
+Vídeos do YouTube pra ajudar você a aprender a tocar, estou mais focado em guitarra então a maior parte do conteúdo será essa.

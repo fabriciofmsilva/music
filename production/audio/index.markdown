@@ -13,4 +13,6 @@ videos:
     url: https://www.youtube.com/embed/qxEFJ-i1qqQ
   - title: "Como remover ruído de áudio | Chrys Gringo"
     url: https://www.youtube.com/embed/_cTlUCdFo9I
+  - title: "Izotope você é inacreditável - Como mixar e masterizar com Visual Mixer, Nectar, Neutron e Ozone | Chrys Gringo"
+    url: https://www.youtube.com/embed/VvuClrtV7gU
 ---

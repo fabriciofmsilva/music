@@ -29,6 +29,8 @@ videos:
     url: https://www.youtube.com/embed/Zw31_x1nlYY
   - title: "Questione-se antes de tocar | Kiko Freitas"
     url: https://www.youtube.com/embed/w5RLgGBamaA
+  - title: "Enxergando as subdivisões | Kiko Freitas"
+    url: https://www.youtube.com/embed/9b4EKWgJhI0
   - title: "Workshop de Tempo Interno | Kiko Freitas"
     url: https://www.youtube.com/embed/aZzEF67OPgA
 ---
