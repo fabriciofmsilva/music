@@ -19,10 +19,6 @@ links:
   Conteúdo em constante atualização.
 </div>
 
-# Fluência no braço da guitarra
-
-É importante saber onde estão as notas e escalas na guitarra.
-
 * <span class="badge badge-primary">vídeo</span> [Isso vai fazer você dominar as notas do braço da guitarra](/music/2020/03/18/dominar-braco-guitarra/)
 * <span class="badge badge-primary">vídeo</span> [How to Master the Fretboard (and SHRED!)](/music/2020/03/29/master-fretboard-shred/)
 * <span class="badge badge-primary">vídeo</span> [Três áreas do estudo e tríades](/music/2019/09/02/estudo-triade/)
@@ -89,3 +85,17 @@ links:
 * Condução de vozes
 * Acordes em quartas
 * Acordes com corda solta
+
+## Livros
+
+* Acordes, arpejos e escalas para violão e guitarra | Nelson Faria
+* Artfull arpeggios | Don Mock
+* Chordy chemistry | Ted Greene
+* Modern chord progressions | Ted Greene
+* The advancing guitarrist | Mick Goodrick
+* Chord Phrases | Ron Eschete
+* Dicionário de acordes com cordas soltas | Jefferson Moreira
+* Dicionário de acordes cifrados | Almir Chediak
+* Guitar chords | Joe Pass
+* Reaching for the uncommon chord | Allan Holdsworth
+* Modern method for guitar | Willian G. Leavitt

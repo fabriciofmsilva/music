@@ -22,3 +22,26 @@ videos:
   - title: "Improvisar é como falar | Nelson Faria"
     url: https://www.youtube.com/embed/WTNH4YkXKWE
 ---
+
+* Improvisação por centros tonais
+* Improvisação por dominantes secundários e substitutos
+* Uso de escalas pentatônicas e blues
+* Uso de escalas simétricas
+* Notas de aproximação cromatica
+* Fraseado
+* Desenvolvimento de motivos
+* Construção de solos
+* Transcrições
+
+## Livros
+
+* A arte da improvisação | Nelson Faria
+* Intervalic designs | Joe Diorio
+* Fusion | Joe Diorio
+* The Advancing guitarist | Mick Goodrick
+* Solos for Jazz guitar | Carl Fischer
+* Jazz | Pat Martino
+* Jazz riffs for guitar | Richard Boukas
+* Jazz guitar | Mickey Baker
+* Jazz guitar | Ron Eschete
+* Omnibook | Charlie Parker
