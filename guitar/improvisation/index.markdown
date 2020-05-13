@@ -19,4 +19,6 @@ videos:
     url: https://www.youtube.com/embed/lcG_LEj-vMk
   - title: "Numa repetição, varie! | Nelson Faria"
     url: https://www.youtube.com/embed/94iVurB6Xhc
+  - title: "Improvisar é como falar | Nelson Faria"
+    url: https://www.youtube.com/embed/WTNH4YkXKWE
 ---

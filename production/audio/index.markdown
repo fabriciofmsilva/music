@@ -15,4 +15,8 @@ videos:
     url: https://www.youtube.com/embed/_cTlUCdFo9I
   - title: "Izotope você é inacreditável - Como mixar e masterizar com Visual Mixer, Nectar, Neutron e Ozone | Chrys Gringo"
     url: https://www.youtube.com/embed/VvuClrtV7gU
+  - title: "Qual o melhor microfone para Home Studio 2020 | Chrys Gringo"
+    url: https://www.youtube.com/embed/zyGYA4bp6xs
+  - title: "Microfone BM800 pra música REVIEW (Mic condensador Barato) | Chrys Gringo"
+    url: https://www.youtube.com/embed/mpnfzg8o6q8
 ---

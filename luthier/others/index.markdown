@@ -35,4 +35,6 @@ videos:
   - title: "How To Make A Pedaltrain Style Guitar Pedalboard In Under Ten Minutes And For Less Than $20 | Simon Smith"
     url: https://www.youtube.com/embed/wTJne9GQMtw
     lang: eng
+  - title: "Dica para proteger seu instrumento da umidade (Baixo custo) | Alexandre Cesar Luthier"
+    url: https://www.youtube.com/embed/SoUDTz4K1fA
 ---
