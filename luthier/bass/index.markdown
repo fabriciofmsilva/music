@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: linkpage
+layout: page
 title: "Luthier"
 videos:
   - title: "Baixo Inteiriço/Neck through body, aula 1 | Luthier em Ação"

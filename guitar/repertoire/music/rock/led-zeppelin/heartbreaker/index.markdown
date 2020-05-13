@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Heartbreaker | Led Zeppelin"
 categories: repertorie
 videos:

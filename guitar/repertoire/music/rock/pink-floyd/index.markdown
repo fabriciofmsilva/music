@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Pink Floyd"
 categories: repertorie
 links:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Cowboys From Hell | Pantera"
 categories: repertorie
 videos:

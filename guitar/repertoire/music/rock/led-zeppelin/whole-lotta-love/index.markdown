@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Whole Lotta Love | Led Zeppelin"
 categories: repertorie
 videos:

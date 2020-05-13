@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Hammer To Fall | Queen"
 categories: repertorie
 videos:

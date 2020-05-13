@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Backtrack"
 videos:
   - title: "[C#] Petrucci Style (86 bpm)"

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Enter Sandman | Metallica"
 categories: repertorie
 videos:

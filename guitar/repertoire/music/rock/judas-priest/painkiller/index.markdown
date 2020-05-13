@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Painkiller | Judas Priest"
 categories: repertorie
 videos:

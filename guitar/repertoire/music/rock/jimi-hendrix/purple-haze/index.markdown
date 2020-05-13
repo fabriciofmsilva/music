@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Purple Haze | Jimi Hendrix"
 categories: repertorie
 videos:

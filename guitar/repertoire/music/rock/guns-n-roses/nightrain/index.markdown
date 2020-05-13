@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Nightrain | Guns N'Roses"
 categories: repertorie
 videos:

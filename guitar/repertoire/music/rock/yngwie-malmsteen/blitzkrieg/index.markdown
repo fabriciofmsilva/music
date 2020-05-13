@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Blitzkrieg | Yngwie Malmsteen"
 categories: repertorie
 videos:

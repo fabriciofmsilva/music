@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Violão"
 videos:
   - title: "Como tocar 2 violões ao mesmo tempo | Nelson Faria"

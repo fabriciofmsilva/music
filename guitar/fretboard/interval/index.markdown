@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Intervalos"
 categories: fretboard
 videos:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Burn | Deep Purple"
 categories: repertorie
 videos:

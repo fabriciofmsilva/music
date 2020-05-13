@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Hiroshima Mon Amour | Yngwie Malmsteen"
 categories: repertorie
 videos:

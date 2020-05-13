@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Beat It | Michael Jackson"
 categories: repertorie
 videos:

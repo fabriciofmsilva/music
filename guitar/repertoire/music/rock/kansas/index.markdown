@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Kansas"
 categories: repertorie
 links:

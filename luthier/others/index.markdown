@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Outros"
 videos:
   - title: "How to make a modern guitar stand | DIY Modern"

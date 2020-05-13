@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Walk This Way | Aerosmith"
 categories: repertorie
 videos:

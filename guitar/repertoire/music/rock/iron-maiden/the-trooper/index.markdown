@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "The Trooper | Iron Maiden"
 categories: repertorie
 videos:

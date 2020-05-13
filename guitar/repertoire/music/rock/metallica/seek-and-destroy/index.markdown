@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Seek And Destroy | Metallica"
 categories: repertorie
 videos:

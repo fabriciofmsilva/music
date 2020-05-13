@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Trabalho com Madeira"
 videos:
   - title: "Which Woodworking Joint SHOULD YOU USE? | Matt Estlea"

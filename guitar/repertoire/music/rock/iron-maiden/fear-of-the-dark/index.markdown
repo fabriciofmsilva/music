@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Fear Of The Dark | Iron Maiden"
 categories: repertorie
 videos:

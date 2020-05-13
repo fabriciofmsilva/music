@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Red Hot Chili Peppers"
 categories: repertorie
 links:

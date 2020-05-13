@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Wield My Sword | Yngwie Malmsteen"
 categories: repertorie
 videos:

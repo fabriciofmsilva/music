@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Wasted Years | Iron Maiden"
 categories: repertorie
 videos:

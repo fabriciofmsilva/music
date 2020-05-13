@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Dust In The Wind | Kansas"
 categories: repertorie
 videos:

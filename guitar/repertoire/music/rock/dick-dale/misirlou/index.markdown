@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Misirlou | Dick Dale"
 categories: repertorie
 videos:

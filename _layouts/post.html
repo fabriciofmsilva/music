@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  {%- include pageheader.html -%}
+
+  <div class="post-content e-content container" itemprop="articleBody">
+    {%- if page.video -%}
+    <div class="video-container">
+      {%- if page.video.platform == "youtube" -%}
+      <iframe width="100%" height="315" src="{{ page.video.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      {%- endif -%}
+    </div>
+    {%- endif -%}
+
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Mão Digitadora"
 categories: technique
 videos:

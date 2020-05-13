@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Immigrant Song | Led Zeppelin"
 categories: repertorie
 videos:

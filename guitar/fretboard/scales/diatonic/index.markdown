@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Escala Diatônica"
 categories: fretboard
 links:

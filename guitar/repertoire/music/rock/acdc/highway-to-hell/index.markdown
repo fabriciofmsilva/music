@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Highway To Hell | AC/DC"
 categories: repertorie
 videos:

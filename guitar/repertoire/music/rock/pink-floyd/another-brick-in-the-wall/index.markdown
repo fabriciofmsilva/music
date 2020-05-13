@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Another Brick In The Wall | Pink Floyd"
 categories: repertorie
 videos:

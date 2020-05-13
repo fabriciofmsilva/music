@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Jimi Hendrix"
 categories: repertorie
 links:

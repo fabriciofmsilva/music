@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "The Spirit Of Radio | Rush"
 categories: repertorie
 videos:

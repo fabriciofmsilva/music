@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Smoke on the Water | Deep Purple"
 categories: repertorie
 videos:

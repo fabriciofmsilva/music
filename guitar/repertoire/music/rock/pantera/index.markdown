@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Pantera"
 categories: repertorie
 links:

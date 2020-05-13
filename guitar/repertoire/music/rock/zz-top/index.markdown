@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "ZZ Top"
 categories: repertorie
 links:

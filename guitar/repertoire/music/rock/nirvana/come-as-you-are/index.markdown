@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Come as You Are | Nirvana"
 categories: repertorie
 videos:

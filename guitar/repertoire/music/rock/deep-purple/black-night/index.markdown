@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Black Night | Deep Purple"
 categories: repertorie
 videos:

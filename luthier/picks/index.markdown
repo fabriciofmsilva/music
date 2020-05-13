@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: linkpage
+layout: page
 title: "Palheta"
 videos:
   - title: "How Do You Make A Wooden Guitar Pick? | Zebrano Wood Craft"

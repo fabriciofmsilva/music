@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Escalas"
 categories: fretboard
 links:

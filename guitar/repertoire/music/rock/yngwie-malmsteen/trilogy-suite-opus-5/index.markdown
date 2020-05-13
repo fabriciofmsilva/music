@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Trilogy Suite Opus 5 | Yngwie Malmsteen"
 categories: repertorie
 videos:

@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<!-- <nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+    <li class="breadcrumb-item"><a href="/music/">Home</a></li>
+  {% for crumb in crumbs offset: 1 %}
+    {% if forloop.last %}
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    {% else %}
+      <li class="breadcrumb-item"><a href="/music{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ol>
+</nav> -->
+
+<article class="post">
+
+{%- include pageheader.html -%}
+
+  <div class="container">
+    {{ content }}
+
+    {%- if page.links -%}
+    <div class="list-group">
+      {% for item in page.links %}
+      <a class="list-group-item list-group-item-action" href="{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+    {%- endif -%}
+
+    {%- if page.videos -%}
+    {% for video in page.videos %}
+    <h2 class="video-title">
+      {%- if video.lang -%}[{{ video.lang }}]&nbsp;{%- endif -%}{{ video.title }}
+    </h2>
+    {%- if video.description -%}<p>{{ video.description }}</p>{%- endif -%}
+    <div class="video-container">
+      <iframe width="100%" height="315" src="{{ video.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    {% endfor %}
+    {%- endif -%}
+  </div>
+</article>

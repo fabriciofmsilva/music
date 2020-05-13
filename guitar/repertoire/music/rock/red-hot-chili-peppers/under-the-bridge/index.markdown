@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Under The Bridge | Red Hot Chili Peppers"
 categories: repertorie
 videos:

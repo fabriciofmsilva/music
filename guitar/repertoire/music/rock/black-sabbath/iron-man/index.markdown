@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Iron Man | Black Sabbath"
 categories: repertorie
 videos:

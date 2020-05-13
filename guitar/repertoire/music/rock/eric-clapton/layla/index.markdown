@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Layla | Eric Clapton"
 categories: repertorie
 videos:

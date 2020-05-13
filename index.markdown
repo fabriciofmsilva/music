@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: linkpage
-title: "Aprenda Música"
+layout: home
+title: "Aprenda música"
+lead: "Guia com materias para aprender música em diferentes instrumentos"
 links:
   - title: Guitarra
     url: guitar

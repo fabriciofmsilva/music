@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Outros"
 videos:
   - title: "Eu não entendia nada de internet! | Nelson Faria"

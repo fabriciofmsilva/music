@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Wish You Were Here | Pink Floyd"
 categories: repertorie
 videos:

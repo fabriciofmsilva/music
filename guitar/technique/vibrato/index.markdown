@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Vibrato"
 categories: technique
 videos:

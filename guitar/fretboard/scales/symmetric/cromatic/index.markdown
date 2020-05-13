@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Escala Cromática"
 categories: fretboard
 videos:

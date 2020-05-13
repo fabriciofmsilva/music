@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Guns N'Roses"
 categories: repertorie
 links:

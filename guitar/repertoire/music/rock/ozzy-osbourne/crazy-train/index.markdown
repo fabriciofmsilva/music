@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Crazy Train | Ozzy Osbourne"
 categories: repertorie
 videos:

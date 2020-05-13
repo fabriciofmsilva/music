@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Big Foot | Yngwie Malmsteen"
 categories: repertorie
 videos:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Arkariot"
 categories: repertorie
 links:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Thunderstruck | AC/DC"
 categories: repertorie
 videos:

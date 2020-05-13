@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Acordes"
 categories: fretboard
 links:

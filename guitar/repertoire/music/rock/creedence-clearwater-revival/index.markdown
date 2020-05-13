@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Creedence Clearwater Revival"
 categories: repertorie
 links:

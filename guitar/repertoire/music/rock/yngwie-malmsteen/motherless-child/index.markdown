@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Motherless Child | Yngwie Malmsteen"
 categories: repertorie
 videos:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Judas Priest"
 categories: repertorie
 links:

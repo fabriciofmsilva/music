@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Whole Lotta Rosie | AC/DC"
 categories: repertorie
 videos:

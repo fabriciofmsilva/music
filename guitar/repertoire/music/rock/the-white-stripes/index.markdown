@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "The White Stripes"
 categories: repertorie
 links:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "La Grange | ZZ Top"
 categories: repertorie
 videos:

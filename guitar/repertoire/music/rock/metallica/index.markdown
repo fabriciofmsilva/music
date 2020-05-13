@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Metallica"
 categories: repertorie
 links:

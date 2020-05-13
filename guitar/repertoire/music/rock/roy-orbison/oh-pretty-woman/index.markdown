@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Oh, Pretty Woman | Roy Orbison"
 categories: repertorie
 videos:

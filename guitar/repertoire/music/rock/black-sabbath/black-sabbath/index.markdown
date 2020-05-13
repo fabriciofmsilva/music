@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Black Sabbath | Black Sabbath"
 categories: repertorie
 videos:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Deep Purple"
 categories: repertorie
 links:

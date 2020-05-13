@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Sweet Child O'Mine | Guns N'Roses"
 categories: repertorie
 videos:

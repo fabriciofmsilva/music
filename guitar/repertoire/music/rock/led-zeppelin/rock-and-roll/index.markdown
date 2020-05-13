@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Rock And Roll | Led Zeppelin"
 categories: repertorie
 videos:

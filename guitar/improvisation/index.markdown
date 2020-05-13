@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Improvisação"
 links:
   - title: Backtrack

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Start Me Up | The Rolling Stones"
 categories: repertorie
 videos:

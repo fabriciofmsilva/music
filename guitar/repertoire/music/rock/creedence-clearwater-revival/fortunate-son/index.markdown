@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Fortunate Son | Creedence Clearwater Revival"
 categories: repertorie
 videos:

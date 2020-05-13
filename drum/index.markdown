@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Bateria"
 videos:
   - title: "10 levels of drumming | Adam Tuminaro"

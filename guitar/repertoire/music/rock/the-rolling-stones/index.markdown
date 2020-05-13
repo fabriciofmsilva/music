@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "The Rolling Stones"
 categories: repertorie
 links:

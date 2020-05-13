@@ -1,0 +1,44 @@
+<header class="page-header">
+  <div class="container">
+    <p class="post-meta">
+      {%- if page.author -%}
+      {% for author in page.author %}
+        {%- if author.url -%}
+        <a href="{{ author.url }}" itemprop="author" itemscope itemtype="http://schema.org/Person" target="_blank">
+          <span class="p-author h-card" itemprop="name">{{ author.name }}</span>
+        </a>
+        {%- else -%}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ author.name }}</span>
+        </span>
+        {%- endif -%}
+      {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+      ·
+      {%- endif -%}
+
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        ~
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+    </p>
+
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    {%- if page.lead -%}
+    <p class="post-lead">{{ page.lead }}</p>
+    {%- endif -%}
+
+    {%- if page.tags -%}
+    {% for tag in page.tags %}
+    <span class="badge badge-primary">{{ tag }}</span>
+    {% endfor %}
+    {%- endif -%}
+  </div>
+</header>

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Paranoid | Black Sabbath"
 categories: repertorie
 videos:

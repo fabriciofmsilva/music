@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Iron Maiden"
 categories: repertorie
 links:

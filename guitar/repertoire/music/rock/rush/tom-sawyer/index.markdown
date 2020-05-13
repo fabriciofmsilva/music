@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Tom Sawyer | Rush"
 categories: repertorie
 videos:

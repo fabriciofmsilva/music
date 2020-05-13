@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Chuck Berry"
 categories: repertorie
 links:

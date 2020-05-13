@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Black Sabbath"
 categories: repertorie
 links:

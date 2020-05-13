@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "The Number Of The Beast | Iron Maiden"
 categories: repertorie
 videos:

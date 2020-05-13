@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Holy Dive | Dio"
 categories: repertorie
 videos:

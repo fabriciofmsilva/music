@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Sangue do Povo | Arkariot"
 categories: repertorie
 videos:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Modos"
 categories: fretboard
 links:

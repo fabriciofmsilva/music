@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Escala Pentatônica Menor"
 categories: fretboard
 videos:

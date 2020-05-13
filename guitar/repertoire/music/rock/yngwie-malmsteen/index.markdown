@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Yngwie Malmsteen"
 categories: repertorie
 links:

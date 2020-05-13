@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Pestana [Nut]"
 videos:
   - title: "Como Tirar Trastejamento das Cordas Soltas | Como Tirar Trastejamento das Cordas Soltas | Sergio Grassi Luthier"

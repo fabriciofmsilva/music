@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Mama I'm Coming Home | Ozzy Osbourne"
 categories: repertorie
 videos:

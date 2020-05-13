@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Como estudar"
 videos:
   - title: "Dicas para o estudo diário | Nelson Faria"

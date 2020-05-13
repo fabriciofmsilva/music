@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Queen"
 categories: repertorie
 links:

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Hells Bells | AC/DC"
 categories: repertorie
 videos:

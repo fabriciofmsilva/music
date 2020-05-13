@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Seven Nation Army | The White Stripes"
 categories: repertorie
 videos:

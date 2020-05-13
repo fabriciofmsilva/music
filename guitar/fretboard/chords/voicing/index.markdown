@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Condução de vozes"
 categories: fretboard
 videos:

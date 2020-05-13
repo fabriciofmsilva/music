@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Bohemian Rhapsody | Queen"
 categories: repertorie
 videos:

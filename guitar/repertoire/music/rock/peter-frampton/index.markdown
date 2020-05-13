@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Peter Frampton"
 categories: repertorie
 links:

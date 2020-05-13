@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Johnny B. Goode | Chuck Berry"
 categories: repertorie
 videos:

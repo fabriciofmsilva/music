@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Overture 1622 | Yngwie Malmsteen"
 categories: repertorie
 videos:

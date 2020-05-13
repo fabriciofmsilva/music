@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Up Around The Bend | Creedence Clearwater Revival"
 categories: repertorie
 videos:

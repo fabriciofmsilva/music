@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Gambale Sweeping | Economy Picking"
 videos:
   - title: "Secrets of Gambale Sweeping, Introduction | Troy Grady"

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Breaking All The Rules | Peter Frampton"
 categories: repertorie
 videos:

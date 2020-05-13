@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "For Whom the Bell Tolls | Metallica"
 categories: repertorie
 videos:

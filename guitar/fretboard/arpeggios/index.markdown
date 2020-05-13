@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Arpejos"
 categories: fretboard
 ---

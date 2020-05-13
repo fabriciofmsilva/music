@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "I Love Rock 'n' Roll | Joan Jett"
 categories: repertorie
 videos:

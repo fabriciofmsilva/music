@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Believer | Imagine Dragons"
 categories: repertorie
 videos:

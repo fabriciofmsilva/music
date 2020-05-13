@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "AC/DC"
 categories: repertorie
 links:

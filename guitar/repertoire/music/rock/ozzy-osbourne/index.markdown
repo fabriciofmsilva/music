@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Ozzy Osbourne"
 categories: repertorie
 links:

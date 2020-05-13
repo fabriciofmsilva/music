@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Aqualung | Jethro Tull"
 categories: repertorie
 videos:

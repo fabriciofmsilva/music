@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Baixo"
 links:
   - title: Técnica

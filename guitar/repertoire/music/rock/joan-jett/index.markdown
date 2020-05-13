@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Joan Jett"
 categories: repertorie
 links:

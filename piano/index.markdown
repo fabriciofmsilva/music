@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Piano"
 videos:
   - title: "Pluralidade de acordes | Gilson Peranzzetta"

@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Eric Clapton"
 categories: repertorie
 links:

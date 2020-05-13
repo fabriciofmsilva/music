@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "2 Minutes To Midnight | Iron Maiden"
 categories: repertorie
 videos:

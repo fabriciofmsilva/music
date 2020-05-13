@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Little Savage | Yngwie Malmsteen"
 categories: repertorie
 videos:

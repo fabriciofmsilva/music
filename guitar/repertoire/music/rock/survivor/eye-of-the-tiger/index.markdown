@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Eye Of The Tiger - Survivor"
 categories: repertorie
 videos:

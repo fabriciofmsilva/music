@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "No More Tears - Ozzy Osbourne"
 categories: repertorie
 videos:

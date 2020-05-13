@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title:  "Kashmir | Led Zeppelin"
 categories: repertorie
 videos:

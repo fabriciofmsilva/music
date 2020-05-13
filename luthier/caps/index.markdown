@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: page
 title: "Captadores"
 videos:
   - title: "Troca de captadores: tutorial completo | Luthieria de Banheiro"
