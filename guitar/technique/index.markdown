@@ -63,6 +63,6 @@ links:
 
 ## Livros
 
-* The Frank Gambale technique book | Frank Gambale
-* Speed Picking | Frank Gambale
-* Ritmica | José Eduardo Gramani
+* The Frank Gambale technique book - Frank Gambale
+* Speed Picking - Frank Gambale
+* Ritmica - José Eduardo Gramani

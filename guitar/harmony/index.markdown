@@ -29,10 +29,10 @@ links:
 
 ## Livros
 
-* Harmônia e Improvisação vol 1 e 2 | Almir Chediak
-* Funções estruturais na harmonia | A. Schoenberg
-* Exercícios preliminares em contraponto | A. Schoenberg
-* Harmonia e estilos | Antonio Adolfo
-* O livro do músico | Antonio Adolfo
-* The lydian cromatic concept | George Russel
-* A chromatic approach to jazz harmony and melody | David Liebman
+* Harmônia e Improvisação vol 1 e 2 - Almir Chediak
+* Funções estruturais na harmonia - A. Schoenberg
+* Exercícios preliminares em contraponto - A. Schoenberg
+* Harmonia e estilos - Antonio Adolfo
+* O livro do músico - Antonio Adolfo
+* The lydian cromatic concept - George Russel
+* A chromatic approach to jazz harmony and melody - David Liebman

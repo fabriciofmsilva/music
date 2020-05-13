@@ -88,14 +88,14 @@ links:
 
 ## Livros
 
-* Acordes, arpejos e escalas para violão e guitarra | Nelson Faria
-* Artfull arpeggios | Don Mock
-* Chordy chemistry | Ted Greene
-* Modern chord progressions | Ted Greene
-* The advancing guitarrist | Mick Goodrick
-* Chord Phrases | Ron Eschete
-* Dicionário de acordes com cordas soltas | Jefferson Moreira
-* Dicionário de acordes cifrados | Almir Chediak
-* Guitar chords | Joe Pass
-* Reaching for the uncommon chord | Allan Holdsworth
-* Modern method for guitar | Willian G. Leavitt
+* Acordes, arpejos e escalas para violão e guitarra - Nelson Faria
+* Artfull arpeggios - Don Mock
+* Chordy chemistry - Ted Greene
+* Modern chord progressions - Ted Greene
+* The advancing guitarrist - Mick Goodrick
+* Chord Phrases - Ron Eschete
+* Dicionário de acordes com cordas soltas - Jefferson Moreira
+* Dicionário de acordes cifrados - Almir Chediak
+* Guitar chords - Joe Pass
+* Reaching for the uncommon chord - Allan Holdsworth
+* Modern method for guitar - Willian G. Leavitt
