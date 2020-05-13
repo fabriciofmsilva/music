@@ -20,4 +20,6 @@ videos:
     url: https://www.youtube.com/embed/fxK-B2DMEoo
   - title: "A voz da guitarra | Torcuato Mariano"
     url: https://www.youtube.com/embed/9ywC_NNcKJU
+  - title: "Cuidados para evitar lesões | João Gaspar"
+    url: https://www.youtube.com/embed/kyJ2O_nZ_jw
 ---
