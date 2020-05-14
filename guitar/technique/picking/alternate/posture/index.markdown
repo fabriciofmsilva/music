@@ -1,10 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: "Palhetada Alternada Postura"
-videos:
-  - title: "Ajustes e dicas | Roberto Barros"
-    url: https://www.youtube.com/embed/mz8YL2smY08
+layout: post
+title:  "Palhetada alternada postura"
+lead: "Palhetada alternada postura"
+lang: pt
+author:
+  - name: "Roberto Barros Cyborg"
+    url: "https://www.youtube.com/channel/UCt3LgbVBLZsc54R772DXD3Q"
+tags: [guitar, technique, picking, alternate]
+video:
+  url: https://www.youtube.com/embed/mz8YL2smY08
+  platform: youtube
 ---

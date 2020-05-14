@@ -5,14 +5,8 @@
 layout: page
 title: "Palhetada"
 links:
-  - title: Alternada
-    url: alternate
   - title: Sweep
     url: sweep
-  - title: Economy
-    url: economy
-  - title: Híbrida
-    url: hybrid
   - title: Rake
     url: rake
 ---

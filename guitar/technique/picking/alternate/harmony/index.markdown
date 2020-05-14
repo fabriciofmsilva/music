@@ -1,20 +1,29 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: "Palhetada Alternada sobre Harmonia"
+layout: post
+title:  "Palhetada alternada sobre harmonia"
+lead: "Palhetada alternada sobre harmonia com João Gaspar"
+lang: pt
+author:
+  - name: "Fica a Dica"
+    url: "https://www.youtube.com/channel/UCMqZJ-K9rq6zfzSnji_C_Gg"
+tags: [guitar, technique, picking, alternate]
 videos:
-  - title: "Palhetada alternada sobre harmonia, semínima | João Gaspar"
-    url: https://www.youtube.com/embed/roMWHXvHU_Q
-  - title: "Palhetada alternada sobre harmonia, colcheia | João Gaspar"
-    url: https://www.youtube.com/embed/duidwyum__0
-  - title: "Palhetada alternada sobre harmonia, semicolcheia | João Gaspar"
-    url: https://www.youtube.com/embed/SQryUZXmAZ8
-  - title: "Palhetada alternada sobre harmonia, sextina | João Gaspar"
-    url: https://www.youtube.com/embed/owReZZ2JT0k
-  - title: "Palhetada alternada sobre harmonia, todas as figuras | João Gaspar"
-    url: https://www.youtube.com/embed/hwO9Ls-1uJ4
-  - title: "Palhetada alternada sobre harmonia | João Gaspar"
+  - title: "Completo"
     url: https://www.youtube.com/embed/qtbHQOD6NJ8
+    platform: youtube
+  - title: "Semínima"
+    url: https://www.youtube.com/embed/roMWHXvHU_Q
+    platform: youtube
+  - title: "Colcheia"
+    url: https://www.youtube.com/embed/duidwyum__0
+    platform: youtube
+  - title: "Semicolcheia"
+    url: https://www.youtube.com/embed/SQryUZXmAZ8
+    platform: youtube
+  - title: "Sextina"
+    url: https://www.youtube.com/embed/owReZZ2JT0k
+    platform: youtube
+  - title: "Todas as figuras"
+    url: https://www.youtube.com/embed/hwO9Ls-1uJ4
+    platform: youtube
 ---

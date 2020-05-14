@@ -42,10 +42,34 @@ links:
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com João Gaspar](picking/alternate/joao-gaspar/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Leo Justen](picking/alternate/leo-justen/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada horizontal em 1 corda com João Gaspar](picking/alternate/horizontal/1/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada horizontal em 2 cordas com João Gaspar](picking/alternate/horizontal/2/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada na pentatônica com João Gaspar](picking/alternate/pentatonic/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada sobre harmonia com João Gaspar](picking/alternate/harmony/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skipping/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 
 ### Palhetada Sweep
 
-### Palhetada Economica
+### Palhetada Econômica
+
+* Gypsy Picking (One-way Economy)
+* <span class="badge badge-primary">vídeo</span> [Gambale Sweeping (Two-way economy)](picking/economy/gambale-sweeping/)
+
+#### DWPS
+
+* Downstroke Sweeping
+* Alternate String Change on Upstrokes
+
+#### UWPS
+
+* Upstroke Sweeping
+* Alternate String Change on Downstrokes
+
+#### Double Escape Mode
+
+* No Sweeping
+* Alternate String Change on Any Direction
 
 ### Palhetada Híbrida
 

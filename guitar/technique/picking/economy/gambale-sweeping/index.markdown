@@ -1,20 +1,26 @@
 ---
-layout: page
-title: "Gambale Sweeping | Economy Picking"
+layout: post
+title:  "Secrets of Gambale Sweeping (Two-way Economy)"
+lead: "Secrets of Gambale Sweeping (Two-way Economy) com Frank Gambale"
+lang: pt
+author:
+  - name: "Troy Grady"
+    url: "https://www.youtube.com/channel/UC4xYcl6mKTwdnuMV76lb_vQ"
+tags: [guitar, fretboard, picking, economy]
 videos:
-  - title: "Secrets of Gambale Sweeping, Introduction | Troy Grady"
+  - title: "Introduction"
     url: https://www.youtube.com/embed/vuHRzA1jYsY
-    lang: eng
-  - title: "Secrets of Gambale Sweeping, Ingredients of Economy | Troy Grady"
+    platform: youtube
+  - title: "Ingredients of economy"
     url: https://www.youtube.com/embed/PpQnEa1729Q
-    lang: eng
-  - title: "Secrets of Gambale Sweeping, The Mystery of Alternate Picking + John McLaughlin | Troy Grady"
+    platform: youtube
+  - title: "The mystery of alternate picking + John McLaughlin"
     url: https://www.youtube.com/embed/4bDohGbtwL8
-    lang: eng
-  - title: "The Mechanics of Pick Attack (Pickslanting vs Picking Motion) | Troy Grady"
+    platform: youtube
+  - title: "The mechanics of pick attack (Pickslanting vs Picking motion)"
     url: https://www.youtube.com/embed/sV8IeDOysp8
-    lang: eng
-  - title: "The Four Motions of Gambale Sweeping | Troy Grady"
+    platform: youtube
+  - title: "The four motions of Gambale Sweeping"
     url: https://www.youtube.com/embed/GhJNN7jgmdY
-    lang: eng
+    platform: youtube
 ---
