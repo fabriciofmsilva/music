@@ -1,22 +1,6 @@
 <header class="page-header">
   <div class="container">
-    <p class="post-meta">
-      {%- if page.author -%}
-      {% for author in page.author %}
-        {%- if author.url -%}
-        <a href="{{ author.url }}" itemprop="author" itemscope itemtype="http://schema.org/Person" target="_blank">
-          <span class="p-author h-card" itemprop="name">{{ author.name }}</span>
-        </a>
-        {%- else -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span class="p-author h-card" itemprop="name">{{ author.name }}</span>
-        </span>
-        {%- endif -%}
-      {%- if forloop.last == false %}, {% endif -%}
-      {% endfor %}
-      ·
-      {%- endif -%}
-
+    <!-- <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
@@ -28,12 +12,22 @@
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-    </p>
+    </p> -->
 
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    {%- if page.lead -%}
-    <p class="post-lead">{{ page.lead }}</p>
-    {%- endif -%}
+
+    <p class="post-lead">
+      {%- if page.lead -%}{{ page.lead }}{%- endif -%}
+      {%- if page.lead and page.author -%}&nbsp;·&nbsp;{%- endif -%}
+      {%- if page.author -%}
+      {% for author in page.author %}
+        {%- if author.url -%}<a href="{{ author.url }}" itemprop="author" itemscope itemtype="http://schema.org/Person" target="_blank"><span class="p-author h-card" itemprop="name">{{ author.name }}</span></a>
+        {%- else -%}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
+        {%- endif -%}
+      {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+      {%- endif -%}
+    </p>
 
     {%- if page.tags -%}
     {% for tag in page.tags %}

@@ -27,20 +27,32 @@ links:
 
 ## Aquecimento
 
-* <span class="badge badge-primary">vídeo</span> [Warm Up exercises](/music/2019/11/14/warm-up-exercises/)
+* <span class="badge badge-primary">vídeo</span> [Warm up exercises](warm-up/)
 
 ## Postura
 
-* <span class="badge badge-primary">vídeo</span> [Postura e técnica](/music/2010/06/08/postura-tecnica/)
-* <span class="badge badge-primary">vídeo</span> [Execução clara e limpa](/music/2010/06/07/execucao-clara-limpa/)
+* <span class="badge badge-primary">vídeo</span> [Postura e técnica](posture/)
+* <span class="badge badge-primary">vídeo</span> [Execução clara e limpa](posture/execution/)
 
 ## Palhetada
 
-* Palhetada Alternada
-* Palhetada Sweep
-* Palhetada Economica
-* Palhetada Híbrida
-* Rake
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada vs economy picking](/music/2020/01/28/palhetada-alternada-economica/)
+* <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](/music/2019/07/19/chirp/)
+
+### Palhetada Alternada
+
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com João Gaspar](picking/alternate/joao-gaspar/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Leo Justen](picking/alternate/leo-justen/)
+
+### Palhetada Sweep
+
+### Palhetada Economica
+
+### Palhetada Híbrida
+
+### Rake
+
 
 ## Mão digitadora
 

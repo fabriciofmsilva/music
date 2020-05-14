@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Warm Up exercises"
+title:  "Warm up exercises"
 lead: "Exercícios para aquecer"
 lang: eng
 author:
