@@ -10,4 +10,6 @@ videos:
     url: https://www.youtube.com/embed/DwaaPVsRUoU
   - title: "Exercício 1 2 3 4 | Marcinho Eiras"
     url: https://www.youtube.com/embed/_E0n727ybM8
+  - title: "Escala Pentatônica e tapping no Blues | Marcinho Eiras"
+    url: https://www.youtube.com/embed/T_Xne-w7L9E
 ---

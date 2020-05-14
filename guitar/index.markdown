@@ -9,10 +9,6 @@ videos:
     url: https://www.youtube.com/embed/gKH2e_AZ5kc
 ---
 
-<div class="alert alert-primary" role="alert">
-  Conteúdo em constante atualização.
-</div>
-
 ## Fluência no Braço
 
 * [Fluência no Braço](fretboard)

@@ -32,7 +32,6 @@ permalink: pretty
 
 header_pages:
   - about
-  - portfolio
 
 # Build settings
 theme: minima

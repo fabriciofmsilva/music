@@ -2,17 +2,6 @@
 layout: page
 title: "Fluência no Braço"
 lead: "É importante saber onde estão as notas e escalas na guitarra"
-links:
-  - title: Intervalos
-    url: interval
-  - title: Escalas
-    url: scales
-  - title: Modos
-    url: modes
-  - title: Arpejos
-    url: arpeggios
-  - title: Acordes
-    url: chords
 ---
 
 <div class="alert alert-primary" role="alert">
@@ -26,33 +15,50 @@ links:
 ## Intervalos
 
 * Intervalos no braço da guitarra
+* <span class="badge badge-primary">vídeo</span> [A nota não importa](interval/)
 
-## Escalas diatônicas
+## Escalas
 
-* Maior
-* Menor natural
-* Menor harmônica
-* Menor Melódica
+* <span class="badge badge-primary">vídeo</span> [Escalas horizontais](scales/horizontal/)
 
-## Escalas pentatônicas
+### Escalas diatônicas
 
-* Maior
-* Menor
+* Escala maior
+* Escala menor natural
+* Escala menor harmônica
+* Escala menor melódica
 
-## Escalas Blues
+### Escalas pentatônicas
 
-* Maior
-* Menor
+* <span class="badge badge-primary">vídeo</span> [Bobby McFerrin demonstrates the power of the pentatonic scale](scales/pentatonic/general/power/)
+* <span class="badge badge-primary">vídeo</span> [6 maneiras de estudar a pentatônica](scales/pentatonic/general/study/)
 
-## Escalas Simétricas
+#### Escala pentatônica maior
 
-* Diminuta
-* Tons inteiros
-* Cromáticas
+#### Escala pentatônica menor
+
+* <span class="badge badge-primary">vídeo</span> [Novas alternativas para a sonoridade menor 7](scales/pentatonic/minor/)
+
+### Escalas Blues
+
+* Escala Blues maior
+* Escala Blues menor
+
+### Escalas simétricas
+
+#### Escala diminuta
+
+#### Escala tons inteiros
+
+#### Escala cromáticas
+
+* <span class="badge badge-primary">vídeo</span> [Cromatismos na guitarra](scales/symmetric/cromatic/)
 
 ## Modos
 
-* Modos Gregos
+* <span class="badge badge-primary">vídeo</span> [Entendendo os modos gregos](modes/general/)
+
+* Modos gregos
 * Modos gerados pela menor harmônica
 * Modos gerados pela menor melódica
 
@@ -79,12 +85,25 @@ links:
 
 ## Acordes
 
-* Formação dos acordes
-* Inversões
-* Colocação de notas de tensão
-* Condução de vozes
-* Acordes em quartas
-* Acordes com corda solta
+* <span class="badge badge-primary">vídeo</span> [Mais de 700 shapes em 4 minutos](chords/general/shapes/)
+* <span class="badge badge-primary">vídeo</span> [10 levels of emotional chords](chords/general/level/)
+
+### Formação dos acordes
+
+### Inversões
+
+### Colocação de notas de tensão
+
+* <span class="badge badge-primary">vídeo</span> [Notas de tensão, turnaround](chords/tension/turnaround/)
+
+### Condução de vozes
+
+* <span class="badge badge-primary">vídeo</span> [Condução de vozes na progressão I VI ii V](chords/voicing/)
+
+### Acordes em quartas
+
+### Acordes com corda solta
+
 
 ## Livros
 
