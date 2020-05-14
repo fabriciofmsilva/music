@@ -19,9 +19,9 @@ links:
   Conteúdo em constante atualização.
 </div>
 
-* <span class="badge badge-primary">vídeo</span> [Isso vai fazer você dominar as notas do braço da guitarra](/music/2020/03/18/dominar-braco-guitarra/)
-* <span class="badge badge-primary">vídeo</span> [How to Master the Fretboard (and SHRED!)](/music/2020/03/29/master-fretboard-shred/)
-* <span class="badge badge-primary">vídeo</span> [Três áreas do estudo e tríades](/music/2019/09/02/estudo-triade/)
+* <span class="badge badge-primary">vídeo</span> [Isso vai fazer você dominar as notas do braço da guitarra](general/notes/)
+* <span class="badge badge-primary">vídeo</span> [How to Master the Fretboard (and SHRED!)](general/master/)
+* <span class="badge badge-primary">vídeo</span> [Três áreas do estudo e tríades](general/study/)
 
 ## Intervalos
 

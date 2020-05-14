@@ -36,8 +36,8 @@ links:
 
 ## Palhetada
 
-* <span class="badge badge-primary">vídeo</span> [Palhetada alternada vs economy picking](/music/2020/01/28/palhetada-alternada-economica/)
-* <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](/music/2019/07/19/chirp/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada vs economy picking](picking/general/alternate-economy/)
+* <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](picking/general/chirp/)
 
 ### Palhetada Alternada
 
@@ -56,8 +56,8 @@ links:
 
 ## Mão digitadora
 
-* <span class="badge badge-primary">vídeo</span> [The best exercise for a proper left hand technique](/music/2018/03/05/left-hand-technique/)
-* <span class="badge badge-primary">vídeo</span> [The minimal effort exercise you should know about](/music/2018/11/06/minimal-effort-exercise/)
+* <span class="badge badge-primary">vídeo</span> [The best exercise for a proper left hand technique](frethand/)
+* <span class="badge badge-primary">vídeo</span> [The minimal effort exercise you should know about](frethand/minimal-effort/)
 
 ## Slide
 
