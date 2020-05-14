@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wish You Were Here"
-lead: "Wish You Were Here"
+title:  "Money"
+lead: "Money"
 lang: pt
 author:
   - name: "Pink Floyd"
@@ -9,7 +9,7 @@ author:
     self: true
 tags: [guitar, repertorie, rock, riff]
 videos:
-  - title: "Riff com Vilmar Gusberti"
-    url: https://www.youtube.com/embed/5LrGc92skyQ
+  - title: "Riff com Marcos De Ros"
+    url: https://www.youtube.com/embed/x8Q_JZq5WmQ
     platform: youtube
 ---

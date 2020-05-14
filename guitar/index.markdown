@@ -2,49 +2,25 @@
 layout: page
 title: "Guitarra"
 lead: "Guia com materias para aprender guitarra"
-videos:
-  - title: "Pedal Point Patterns | Cesario Filho"
-    url: https://www.youtube.com/embed/T_pvlIE8sF0
-  - title: "As bases para o estudo musical | João Gaspar"
-    url: https://www.youtube.com/embed/gKH2e_AZ5kc
+links:
+  - title: Fluência no Braço
+    url: fretboard
+  - title: Técnica
+    url: technique
+  - title: Leitura
+    url: read
+  - title: Harmonia
+    url: harmony
+  - title: Improvisação
+    url: improvisation
+  - title: Repertório
+    url: repertoire
+  - title: Equipamento
+    url: equipment
+  - title: Cursos
+    url: course
+  - title: Guitarristas
+    url: player
+  - title: Outros
+    url: misc
 ---
-
-## Fluência no Braço
-
-* [Fluência no Braço](fretboard)
-
-## Técnica
-
-* [Técnica](technique)
-
-## Leitura
-
-* [Leitura](read)
-
-## Harmonia
-
-* [Harmonia](harmony)
-
-## Improvisação
-
-* [Improvisação](improvisation)
-
-## Repertório
-
-* [Repertório](repertoire)
-
-## Equipamento
-
-* [Equipamento](equipment)
-
-## Cursos
-
-* [Cursos](course)
-
-## Guitarristas
-
-* [Guitarristas](player)
-
-## Outros
-
-* [Outros](misc)

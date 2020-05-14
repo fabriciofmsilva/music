@@ -1,36 +1,11 @@
 ---
 layout: page
 title: "Bateria"
-videos:
-  - title: "10 levels of drumming | Adam Tuminaro"
-    url: https://www.youtube.com/embed/2fnNA8sMzTk
-    lang: eng
-  - title: "Células rítmicas | Kiko Freitas"
-    url: https://www.youtube.com/embed/_wNrqMihwnE
-  - title: "Variando entre pulsos | Kiko Freitas"
-    url: https://www.youtube.com/embed/yIc5sNeNKwM
-  - title: "Escondendo o pulso | Kiko Freitas"
-    url: https://www.youtube.com/embed/vgqqitTExEg
-  - title: "A caça ao metrônomo | Kiko Freitas"
-    url: https://www.youtube.com/embed/0VaHxKe7YKA
-  - title: "Primeiro exercício para tempo interno | Kiko Freitas"
-    url: https://www.youtube.com/embed/RbFNpRWdSfg
-  - title: "O tempo interno em qualquer instrumento | Kiko Freitas"
-    url: https://www.youtube.com/embed/cLBDN9Jg88g
-  - title: "Estudos para qualquer instrumento | Kiko Freitas"
-    url: https://www.youtube.com/embed/aGh-BbGxq_g
-  - title: "O que é quiáltera? | Kiko Freitas"
-    url: https://www.youtube.com/embed/LzJReJk-gko
-  - title: "Figuras rítmicas são mutáveis | Kiko Freitas"
-    url: https://www.youtube.com/embed/g4ghZW4KFQw
-  - title: "Clave rítmica | Kiko Freitas"
-    url: https://www.youtube.com/embed/BR-nUQYJhFc
-  - title: "Gonzalo Rubalcaba é percussionista | Kiko Freitas"
-    url: https://www.youtube.com/embed/Zw31_x1nlYY
-  - title: "Questione-se antes de tocar | Kiko Freitas"
-    url: https://www.youtube.com/embed/w5RLgGBamaA
-  - title: "Enxergando as subdivisões | Kiko Freitas"
-    url: https://www.youtube.com/embed/9b4EKWgJhI0
-  - title: "Workshop de Tempo Interno | Kiko Freitas"
-    url: https://www.youtube.com/embed/aZzEF67OPgA
+lead: "Bateria"
 ---
+
+* <span class="badge badge-primary">vídeo</span> [10 levels of drumming](level/)
+
+## Tempo
+
+* <span class="badge badge-primary">vídeo</span> [Workshop de tempo interno](time/)

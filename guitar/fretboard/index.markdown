@@ -23,15 +23,20 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Escalas diatônicas
 
-* Escala maior
-* Escala menor natural
-* Escala menor harmônica
-* Escala menor melódica
+## Escala maior
+
+## Escala menor natural
+
+## Escala menor harmônica
+
+## Escala menor melódica
+
 
 ### Escalas pentatônicas
 
 * <span class="badge badge-primary">vídeo</span> [Bobby McFerrin demonstrates the power of the pentatonic scale](scales/pentatonic/general/power/)
 * <span class="badge badge-primary">vídeo</span> [6 maneiras de estudar a pentatônica](scales/pentatonic/general/study/)
+* <span class="badge badge-primary">vídeo</span> [Como usar pentatônica?](scales/pentatonic/general/how/)
 
 #### Escala pentatônica maior
 
@@ -41,8 +46,10 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Escalas Blues
 
-* Escala Blues maior
-* Escala Blues menor
+## Escala Blues maior
+
+## Escala Blues menor
+
 
 ### Escalas simétricas
 
@@ -56,30 +63,44 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ## Modos
 
+## Modos gregos
+
 * <span class="badge badge-primary">vídeo</span> [Entendendo os modos gregos](modes/general/)
 
-* Modos gregos
-* Modos gerados pela menor harmônica
-* Modos gerados pela menor melódica
+## Modos gerados pela menor harmônica
+
+## Modos gerados pela menor melódica
+
 
 ## Arpejos
 
 ### Tríades
 
-* M
-* m
-* Dim
-* Aum
+## M
+
+## m
+
+## Dim
+
+## Aum
+
 
 ### Tétrades
 
-* 7M
-* m7
-* m7(b5)
-* 7M(#5)
-* 7
-* m7M
-* Dim
+## 7M
+
+## m7
+
+## m7(b5)
+
+## 7M(#5)
+
+## 7
+
+## m7M
+
+## Dim
+
 
 ### Superposições de arpejos
 

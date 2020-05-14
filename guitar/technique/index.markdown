@@ -3,8 +3,6 @@ layout: page
 title: "Técnica"
 lead: "É saber como tocar"
 links:
-  - title: Postura
-    url: posture
   - title: Rítmo
     url: rhythm
   - title: Palhetada
@@ -50,6 +48,9 @@ links:
 ### Palhetada Economica
 
 ### Palhetada Híbrida
+
+* <span class="badge badge-primary">vídeo</span> [Hybrid picking quick lick com Kiko Loureiro](picking/hybrid/quick-lick/)
+* <span class="badge badge-primary">vídeo</span> [How to play a metal riff using hybrid picking com Kiko Loureiro](picking/hybrid/metal-riff/)
 
 ### Rake
 

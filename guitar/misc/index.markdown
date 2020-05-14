@@ -22,4 +22,8 @@ videos:
     url: https://www.youtube.com/embed/9ywC_NNcKJU
   - title: "Cuidados para evitar lesões | João Gaspar"
     url: https://www.youtube.com/embed/kyJ2O_nZ_jw
+  - title: "As bases para o estudo musical | João Gaspar"
+    url: https://www.youtube.com/embed/gKH2e_AZ5kc
+  - title: "Pedal Point Patterns | Cesario Filho"
+    url: https://www.youtube.com/embed/T_pvlIE8sF0
 ---

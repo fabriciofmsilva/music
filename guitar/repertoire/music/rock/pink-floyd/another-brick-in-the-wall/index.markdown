@@ -1,8 +1,15 @@
 ---
-layout: page
-title:  "Another Brick In The Wall | Pink Floyd"
-categories: repertorie
+layout: post
+title:  "Another Brick In The Wall"
+lead: "Another Brick In The Wall"
+lang: pt
+author:
+  - name: "Pink Floyd"
+    url: "../"
+    self: true
+tags: [guitar, repertorie, rock, lick]
 videos:
-  - title: "Lick, David Gilmour | Vilmar Gusberti"
+  - title: "Lick do David Gilmour com Vilmar Gusberti"
     url: https://www.youtube.com/embed/jR3zpYwly14
+    platform: youtube
 ---
