@@ -2,21 +2,6 @@
 layout: page
 title: "Técnica"
 lead: "É saber como tocar"
-links:
-  - title: Rítmo
-    url: rhythm
-  - title: Palhetada
-    url: picking
-  - title: Slide
-    url: slide
-  - title: Bend
-    url: bend
-  - title: Vibrato
-    url: vibrato
-  - title: Ligados
-    url: legato
-  - title: Harmônicos
-    url: harmonic
 ---
 
 <div class="alert alert-primary" role="alert">
@@ -46,10 +31,13 @@ links:
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada horizontal em 2 cordas com João Gaspar](picking/alternate/horizontal/2/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada na pentatônica com João Gaspar](picking/alternate/pentatonic/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada sobre harmonia com João Gaspar](picking/alternate/harmony/)
-* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skipping/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skip/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 
 ### Palhetada Sweep
+
+* <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
+* <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
 
 ### Palhetada Econômica
 
@@ -78,6 +66,11 @@ links:
 
 ### Rake
 
+* <span class="badge badge-primary">vídeo</span> [Palhetada RAKE](picking/rake/)
+
+### Palm mute
+
+* <span class="badge badge-primary">vídeo</span> [Palm Mute](picking/palm-mute/)
 
 ## Mão digitadora
 
@@ -86,15 +79,40 @@ links:
 
 ## Slide
 
+* <span class="badge badge-primary">vídeo</span> [Slide com Cristiano Oliveira](slide/cristiano-oliveira/)
+* <span class="badge badge-primary">vídeo</span> [How to play slides on guitar](slide/how-to/)
+
 ## Ligados
+
+* <span class="badge badge-primary">vídeo</span> [Ligados com Kiko Loureiro](legato/)
+* <span class="badge badge-primary">vídeo</span> [Pull-off com Nelson Faria](legato/pull-off/)
+* <span class="badge badge-primary">vídeo</span> [Tapping com Kiko Loureiro](legato/tapping/)
+* <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)
 
 ## Bend
 
+* <span class="badge badge-primary">vídeo</span> [Bends e vibratos com Kiko Loureiro](bend/kiko-loureiro/)
+* <span class="badge badge-primary">vídeo</span> [Bends desafinados de propósito, bends com double-stops e double bends com Ricardo Marins](bend/ricardo-marins/)
+* <span class="badge badge-primary">vídeo</span> [Como limpar o som dos bends com Vilmar Gusberti](bend/vilmar-gusberti/)
+* <span class="badge badge-primary">vídeo</span> [Blues bends com Gil Manoel](bend/blues/)
+
 ## Vibrato
+
+* <span class="badge badge-primary">vídeo</span> [How to avoid embarrassing yourself during a solo with Kiko Loureiro](vibrato/)
 
 ## Harmônicos
 
+* <span class="badge badge-primary">vídeo</span> [Tudo sobre harmônicos com Marcos De Ros](harmonic/)
+* <span class="badge badge-primary">vídeo</span> [O que são harmônicos naturais com Marcos De Ros](harmonic/natural/)
+* <span class="badge badge-primary">vídeo</span> [O que são harmônicos artificiais (pinch harmonics) com Marcos De Ros](harmonic/pinch/)
+
 ## Precição rítmica
+
+* <span class="badge badge-primary">vídeo</span> [Firmando as semicolcheias](rhythm/semiquaver/)
+* <span class="badge badge-primary">vídeo</span> [Colcheia swingada](rhythm/quaver/)
+* <span class="badge badge-primary">vídeo</span> [Dispersão de oitavas](rhythm/dispersion/)
+* <span class="badge badge-primary">vídeo</span> [Estudo rítmico](rhythm/study/)
+* <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)
 
 ## Sonoridade
 

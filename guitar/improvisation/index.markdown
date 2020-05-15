@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Improvisação"
-links:
-  - title: Backtrack
-    url: backtrack
 videos:
   - title: "Contorno Melódico | Nelson Faria"
     url: https://www.youtube.com/embed/BEK_OTFxiBA
@@ -32,6 +29,10 @@ videos:
 * Desenvolvimento de motivos
 * Construção de solos
 * Transcrições
+
+## Backtrack
+
+* [Backtrack](backtrack/)
 
 ## Livros
 

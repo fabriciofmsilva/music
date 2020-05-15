@@ -1,10 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: "Harmônico Natural"
+layout: post
+title:  "O que são harmônicos naturais"
+lead: "O que são harmônicos naturais"
+lang: pt
+author:
+  - name: "Marcos De Ros"
+    url: "https://www.youtube.com/channel/UC8xkNdpZU1g2RkL-ao7HOGA"
+tags: [guitar, technique, harmonic]
 videos:
-  - title: "O que são harmônicos naturais | Marcos De Ros"
+  - title: "O que são harmônicos naturais"
     url: https://www.youtube.com/embed/pjypn58g37k
+    platform: youtube
 ---

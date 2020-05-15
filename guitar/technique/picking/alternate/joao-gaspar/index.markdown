@@ -6,7 +6,7 @@ lang: pt
 author:
   - name: "Fica a Dica"
     url: "https://www.youtube.com/channel/UCMqZJ-K9rq6zfzSnji_C_Gg"
-tags: [guitar, technique]
+tags: [guitar, technique, picking, alternate]
 videos:
   - title: "Completo"
     url: https://www.youtube.com/embed/noL9JLQRc7A

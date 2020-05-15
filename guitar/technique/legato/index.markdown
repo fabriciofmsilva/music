@@ -1,16 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: "Ligados"
-categories: technique
-links:
-  - title: Pull-Off
-    url: pull-off
-  - title: Tapping
-    url: tapping
-videos:
-  - title: "Ligados | Kiko Loureiro"
-    url: https://www.youtube.com/embed/HMexic6pbnU
+layout: post
+title:  "Ligados"
+lead: "Ligados"
+lang: en
+author:
+  - name: "Kiko Loureiro"
+    url: "https://www.youtube.com/channel/UCWu3gUxjwRVJCvSkSNBJGbw"
+tags: [guitar, technique, legato]
+video:
+  url: https://www.youtube.com/embed/HMexic6pbnU
+  platform: youtube
 ---

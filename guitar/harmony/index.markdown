@@ -4,9 +4,6 @@
 
 layout: page
 title: "Harmonia"
-links:
-  - title: Geral
-    url: general
 ---
 
 * Padrões modernos de cifragem

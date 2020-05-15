@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Palhetada RAKE"
-lead: "Palhetada RAKE"
+title: "Blues bends"
+lead: "Blues bends"
 lang: pt
 author:
   - name: "Gil Manoel"
     url: "https://www.youtube.com/channel/UCIotLAm9GZTk6-9UD1IJiqw"
-tags: [guitar, fretboard, picking, rake]
+tags: [guitar, fretboard, bend]
 videos:
-  - title: "RAKE"
-    url: https://www.youtube.com/embed/mXLvLdEjE7A
+  - title: "Blues bends"
+    url: https://www.youtube.com/embed/3KOcYJdSCNo
     platform: youtube
 ---
