@@ -1,11 +1,6 @@
 ---
 layout: page
 title: "Outros"
-links:
-  - title: "Como estudar"
-    url: study
-  - title: "Como tirar música de ouvido"
-    url: heard
 videos:
   - title: "10 levels of guitar │ Ichika Nito"
     url: https://www.youtube.com/embed/duqFO4wony8
@@ -27,3 +22,18 @@ videos:
   - title: "Pedal Point Patterns | Cesario Filho"
     url: https://www.youtube.com/embed/T_pvlIE8sF0
 ---
+
+## Estudo
+
+* <span class="badge badge-primary">vídeo</span> [Dicas para o estudo diário com Nelson Faria](study/nelson-faria/)
+* <span class="badge badge-primary">vídeo</span> [Dicas essenciais de como estudar guitarra com Roberto Barros](study/roberto-barros/)
+* <span class="badge badge-primary">vídeo</span> [Alguém estuda música 8 horas por dia?](study/mateus-starling/)
+* <span class="badge badge-primary">vídeo</span> [Tem que estudar 8 horas por dia! Mito ou verdade? com Kiko Loureiro](study/kiko-loureiro/)
+
+## Tirar música de ouvido
+
+* <span class="badge badge-primary">vídeo</span> [Como tocar de ouvido e tirar qualquer música!](heard/)
+
+## Carreira
+
+* <span class="badge badge-primary">vídeo</span> [O que eu faria se começasse minha carreira hoje com Kiko Loureiro](career/)
