@@ -4,9 +4,6 @@
 
 layout: page
 title: "Guitarra"
-links:
-  - title: "Guitarra CYBERPUNK 2077"
-    url: cyberpunk-2077
 videos:
   - title: "Anatomy of the Electric Guitar | Fender"
     url: https://www.youtube.com/embed/iE1Yf_82Vbo
@@ -50,3 +47,7 @@ videos:
     url: https://www.youtube.com/embed/8NS-MUfaac0
     lang: eng
 ---
+
+## Custom
+
+* <span class="badge badge-primary">vídeo</span> [Taking a great ki guitar and making it Cyberpunk 2077](cyberpunk-2077/)

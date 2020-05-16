@@ -2,12 +2,13 @@
 layout: page
 title: "Leitura"
 lead: "Tablatura e partitura"
-videos:
-  - title: "Leitura, parte 1 | Nelson Faria"
-    url: https://www.youtube.com/embed/zmf4VN7bIHA
-  - title: "Leitura, parte 2 | Nelson Faria"
-    url: https://www.youtube.com/embed/Kn8jg-Ybk0s
 ---
+
+<div class="alert alert-primary" role="alert">
+  Conteúdo em constante atualização.
+</div>
+
+* <span class="badge badge-primary">vídeo</span> [Praticando Leitura com Nelson Faria](practice/)
 
 * Notas naturais
 * Notas alteradas

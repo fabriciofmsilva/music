@@ -4,11 +4,13 @@
 
 layout: page
 title: "Guitarristas"
-videos:
-  - title: "Tom Morello"
-    url: https://www.youtube.com/embed/EZjtl8jGdac
-    lang: eng
 ---
+
+<div class="alert alert-primary" role="alert">
+  Conteúdo em constante atualização.
+</div>
+
+* <span class="badge badge-primary">vídeo</span> [Tom Morello](tom-morello/)
 
 1. Jimi Hendrix
 2. Eric Clapton
@@ -49,7 +51,6 @@ videos:
 37. Mick Taylor
 38. The Edge
 39. Steve Cropper
-40. Tom Morello
 41. Mick Ronson
 42. Mike Bloomfield
 43. Hubert Sumlin
