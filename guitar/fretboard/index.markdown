@@ -15,7 +15,9 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 ## Intervalos
 
 * <span class="badge badge-primary">vídeo</span> [O que é intervalo? com Nelson Faria](interval/what/)
+* <span class="badge badge-primary">vídeo</span> [Como calcular a distância entre duas notas? com Nelson Faria](interval/distance/)
 * <span class="badge badge-primary">vídeo</span> [Como classificar intervalos musicais? com Nelson Faria](interval/classification/)
+* <span class="badge badge-primary">vídeo</span> [Por que uns intervalos são justos e outros não? com Nelson Faria](interval/classification/perfect/)
 * <span class="badge badge-primary">vídeo</span> [A nota não importa com Nelson Faria](interval/)
 
 ### Intervalos no braço da guitarra
