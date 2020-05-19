@@ -37,3 +37,7 @@ videos:
 ## Carreira
 
 * <span class="badge badge-primary">vídeo</span> [O que eu faria se começasse minha carreira hoje com Kiko Loureiro](career/)
+
+## Jam
+
+* <span class="badge badge-primary">vídeo</span> [Como fazer sua Jam Online com Nelsinho Faria](jam/)

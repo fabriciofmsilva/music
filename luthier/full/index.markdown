@@ -48,6 +48,10 @@ videos:
     lang: eng
 ---
 
+## Colagem
+
+* <span class="badge badge-primary">vídeo</span> [6 Violões com o braço quebrado! Tem conserto? com Luthieria Brunelli](collage/)
+
 ## Custom
 
 * <span class="badge badge-primary">vídeo</span> [Taking a great ki guitar and making it Cyberpunk 2077](cyberpunk-2077/)
