@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Painkiller"
-lead: "Painkiller"
+title:  "Breaking the Law"
+lead: "Breaking the Law"
 lang: pt
 author:
   - name: "Judas Priest"
@@ -9,7 +9,7 @@ author:
     self: true
 tags: [guitar, repertorie, judas priest]
 videos:
-  - title: "Riff com Vilmar Gusberti"
-    url: https://www.youtube.com/embed/ndrvIyC6bjA
+  - title: "Riff com Marcos de Ros"
+    url: https://www.youtube.com/embed/3tSBNEFz8aw
     platform: youtube
 ---

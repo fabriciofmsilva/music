@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: "Trastes"
 videos:
@@ -45,3 +42,9 @@ videos:
     url: https://www.youtube.com/embed/4ZIMMAdDn3k
     lang: eng
 ---
+
+<div class="alert alert-primary" role="alert">
+  Conteúdo em constante atualização.
+</div>
+
+* <span class="badge badge-primary">vídeo</span> [Como calcular distância dos trastes, tamanho de escala e posição da ponte com Sergio Grassi](distance/)

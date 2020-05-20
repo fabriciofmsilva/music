@@ -1,18 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: "Luthier"
 videos:
-  - title: "Baixo Inteiriço/Neck through body, aula 1 | Luthier em Ação"
-    url: https://www.youtube.com/embed/-CZa0_X3kCA
-  - title: "Baixo Inteiriço/Neck through body, aula 2 | Luthier em Ação"
-    url: https://www.youtube.com/embed/hkVvp3Jnq58
-  - title: "Como instalar trastes, aula 3 | Luthier em Ação"
-    url: https://www.youtube.com/embed/C1D4hfIEew4
-  - title: "Nivelamento, acabamento e polimento dos Trastes, aula 04 | Luthier em Ação"
-    url: https://www.youtube.com/embed/VHGEzVlQwCI
   - title: "Transformando um Condor XB-12 em Headless (sem Headstock) | Alexandre Cesar Luthier"
     url: https://www.youtube.com/embed/MwcfUdHY1yI
   - title: "How to Build a P-style Bass Guitar - a Tutorial Ep 1 | Crimson Custom Guitars"
@@ -31,3 +20,7 @@ videos:
     url: https://www.youtube.com/embed/HVg1BwPCgz4
     lang: eng
 ---
+
+## Neck-thru
+
+* <span class="badge badge-primary">vídeo</span> [Baixo inteiriço (Neck through body)](neck-thru/)

@@ -3,7 +3,8 @@ layout: page
 title: "Harmonia"
 ---
 
-* <span class="badge badge-primary">vídeo</span> [Limite de intervalos graves com Alexandre Carvalho](limit/)
+* <span class="badge badge-primary">vídeo</span> [Saber acordes não é conhecer harmonia com Nelson Faria](general/)
+* <span class="badge badge-primary">vídeo</span> [Limite de intervalos graves com Alexandre Carvalho](general/limit/)
 
 * Padrões modernos de cifragem
 * Substituições diatônicas
