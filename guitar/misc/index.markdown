@@ -27,7 +27,8 @@ videos:
 
 * <span class="badge badge-primary">vídeo</span> [Dicas para o estudo diário com Nelson Faria](study/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Dicas essenciais de como estudar guitarra com Roberto Barros](study/roberto-barros/)
-* <span class="badge badge-primary">vídeo</span> [Alguém estuda música 8 horas por dia?](study/mateus-starling/)
+* <span class="badge badge-primary">vídeo</span> [Alguém estuda música 8 horas por dia? com Mateus Starling](study/mateus-starling/)
+* <span class="badge badge-primary">vídeo</span> [6 coisas que destroem sua evolução musical com Mateus Starling](study/mateus-starling/evolution/)
 * <span class="badge badge-primary">vídeo</span> [Tem que estudar 8 horas por dia! Mito ou verdade? com Kiko Loureiro](study/kiko-loureiro/)
 
 ## Tirar música de ouvido
@@ -37,6 +38,7 @@ videos:
 ## Carreira
 
 * <span class="badge badge-primary">vídeo</span> [O que eu faria se começasse minha carreira hoje com Kiko Loureiro](career/)
+* <span class="badge badge-primary">vídeo</span> [O fundamental para ser sideman com João Gaspar](career/sideman/)
 
 ## Jam
 

@@ -6,7 +6,7 @@ lang: pt
 author:
   - name: "Fica a Dica Premium"
     url: "https://www.youtube.com/channel/UCMqZJ-K9rq6zfzSnji_C_Gg"
-tags: [guitar, fretboard, chord]
+tags: [drum]
 videos:
   - title: "Workshop de tempo interno"
     url: https://www.youtube.com/embed/aZzEF67OPgA
@@ -52,5 +52,8 @@ videos:
     platform: youtube
   - title: "Pulso x tempo"
     url: https://www.youtube.com/embed/yt8dJrcyU8E
+    platform: youtube
+  - title: "Bossa nova não é samba"
+    url: https://www.youtube.com/embed/Ug6esurjAEc
     platform: youtube
 ---

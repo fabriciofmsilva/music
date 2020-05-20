@@ -59,6 +59,10 @@ lead: "É saber como tocar"
 * No Sweeping
 * Alternate String Change on Any Direction
 
+### Dedo
+
+* <span class="badge badge-primary">vídeo</span> [How to use fingerpicking for lead guitar with Matt Lake](picking/finger/)
+
 ### Palhetada Híbrida
 
 * <span class="badge badge-primary">vídeo</span> [Hybrid picking quick lick com Kiko Loureiro](picking/hybrid/quick-lick/)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Black Dog"
-lead: "Black Dog"
+title:  "Stairway to Heaven"
+lead: "Stairway to Heaven"
 lang: pt
 author:
   - name: "Led Zeppelin"
@@ -9,7 +9,7 @@ author:
     self: true
 tags: [guitar, repertorie, led zeppelin]
 videos:
-  - title: "Riff com Vilmar Gusberti"
-    url: https://www.youtube.com/embed/dQiN86F5fy4
+  - title: "Intro com Marcos De Ros"
+    url: https://www.youtube.com/embed/hinQGsl1jEU
     platform: youtube
 ---

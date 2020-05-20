@@ -13,6 +13,8 @@ links:
     url: kashmir
   - title: Rock and Roll
     url: rock-and-roll
+  - title: Stairway to Heaven
+    url: stairway-to-heaven
   - title: Whole Lotta Love
     url: whole-lotta-love
 ---
