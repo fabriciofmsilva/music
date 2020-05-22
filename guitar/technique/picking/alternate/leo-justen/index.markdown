@@ -11,6 +11,9 @@ videos:
   - title: "Completo"
     url: https://www.youtube.com/embed/7APBCajs1Mk
     platform: youtube
+  - title: "Corda abafada semínima"
+    url: https://www.youtube.com/embed/ChYluTIyrvQ
+    platform: youtube
   - title: "Arpejo C7M semicolcheia"
     url: https://www.youtube.com/embed/gswFcB4mcUI
     platform: youtube

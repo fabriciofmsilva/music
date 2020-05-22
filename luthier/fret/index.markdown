@@ -48,3 +48,4 @@ videos:
 </div>
 
 * <span class="badge badge-primary">vídeo</span> [Como calcular distância dos trastes, tamanho de escala e posição da ponte com Sergio Grassi](distance/)
+* <span class="badge badge-primary">vídeo</span> [Troca de trastes numa Gibson Explorer com Sergio Grassi](gibson/)

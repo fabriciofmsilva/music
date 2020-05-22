@@ -33,6 +33,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada sobre harmonia com João Gaspar](picking/alternate/harmony/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skip/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
+* <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
 
 ### Palhetada Sweep
 
@@ -98,6 +99,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Bends e vibratos com Kiko Loureiro](bend/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Bends desafinados de propósito, bends com double-stops e double bends com Ricardo Marins](bend/ricardo-marins/)
 * <span class="badge badge-primary">vídeo</span> [Como limpar o som dos bends com Vilmar Gusberti](bend/vilmar-gusberti/)
+* <span class="badge badge-primary">vídeo</span> [Segredo para bends e vibratos com Cesario Filho](bend/cesario-filho/)
 * <span class="badge badge-primary">vídeo</span> [Blues bends com Gil Manoel](bend/blues/)
 
 ## Vibrato

@@ -23,6 +23,8 @@ links:
     url: dio
   - title: Eric Clapton
     url: eric-clapton
+  - title: Europe
+    url: europe
   - title: Guns N'Roses
     url: guns-n-roses
   - title: Imagine Dragons

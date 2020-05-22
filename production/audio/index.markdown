@@ -22,3 +22,4 @@ videos:
 ---
 
 * <span class="badge badge-primary">vídeo</span> [Transforme seu microfone de R$150 em mic de R$3000 com Chrys Gringo](mic/equalization/)
+* <span class="badge badge-primary">vídeo</span> [Microfone usb funciona? Qual a diferença? com Chrys Gringo](mic/usb/)
