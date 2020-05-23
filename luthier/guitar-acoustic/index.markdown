@@ -7,4 +7,6 @@ title: "Violão"
 videos:
   - title: "Violão Takamine G Series - Troca de Trastes e Instalação Pré Fishman | Sergio Grassi Luthier"
     url: https://www.youtube.com/embed/oOaxX3LAC1A
+  - title: "How to Fix a Guitar Crack Caused by Humidity Damage | StewMac"
+    url: https://www.youtube.com/embed/a5F9tVqGCBg
 ---

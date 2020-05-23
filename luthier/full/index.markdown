@@ -41,8 +41,6 @@ videos:
   - title: "Making an Electric Guitar from Odds and Ends | TomboLP"
     url: https://www.youtube.com/embed/gt2zIGVHdhQ
     lang: eng
-  - title: "Projeto Alexandre, Quimera Tech e Malagoli - EP01 | Alexandre Cesar Luthier"
-    url: https://www.youtube.com/embed/dZn-7mB_wrs
   - title: "How to install a bold on Guitar Neck | Fabian's Tiny Workshop"
     url: https://www.youtube.com/embed/8NS-MUfaac0
     lang: eng
@@ -54,4 +52,5 @@ videos:
 
 ## Custom
 
+* <span class="badge badge-primary">vídeo</span> [Projeto Alexandre, Quimera Tech e Malagoli](alexandre-quimera/)
 * <span class="badge badge-primary">vídeo</span> [Taking a great ki guitar and making it Cyberpunk 2077](cyberpunk-2077/)
