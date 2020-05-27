@@ -122,6 +122,10 @@ lead: "É saber como tocar"
 
 ## Sonoridade
 
+## Geral
+
+* <span class="badge badge-primary">vídeo</span> [Shred Guitarra com Gustavo Guerra](general/shred/)
+
 ## Livros
 
 * The Frank Gambale technique book - Frank Gambale

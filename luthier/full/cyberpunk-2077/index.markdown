@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Taking a great ki guitar and making it Cyberpunk 2077"
-lead: "Taking a great ki guitar and making it Cyberpunk 2077"
+title:  "Taking a great kit guitar and making it Cyberpunk 2077"
+lead: "Taking a great kit guitar and making it Cyberpunk 2077"
 lang: en
 author:
   - name: "Crimson Custom Guitars"
@@ -28,5 +28,8 @@ videos:
     platform: youtube
   - title: "EP 7"
     url: https://www.youtube.com/embed/6s1ufTqjY0Q
+    platform: youtube
+  - title: "EP 8"
+    url: https://www.youtube.com/embed/ZHwvQ02Uw_g
     platform: youtube
 ---

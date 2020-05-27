@@ -16,4 +16,6 @@ videos:
     url: https://www.youtube.com/embed/_CUgXCJIwOs
   - title: "Aprendi com o violão | Ney Conceição"
     url: https://www.youtube.com/embed/iSUcvMJ6C6s
+  - title: "How To Play Hammer Ons for Bass | Fender Play | Fender"
+    url: https://www.youtube.com/embed/2atRFOXQEgA
 ---

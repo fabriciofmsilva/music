@@ -9,4 +9,6 @@ videos:
     url: https://www.youtube.com/embed/6fYboRzy0cs
   - title: "Como iluminar bem seus vídeos | Bruno Mello"
     url: https://www.youtube.com/embed/mi18lpfBbf0
+  - title: "NDI | USE PHONE para STREAM ou Gravação no OBS | Vini Manara"
+    url: https://www.youtube.com/embed/jsBh_uJQi8A
 ---

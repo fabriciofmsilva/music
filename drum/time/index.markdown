@@ -56,4 +56,7 @@ videos:
   - title: "Bossa nova não é samba"
     url: https://www.youtube.com/embed/Ug6esurjAEc
     platform: youtube
+  - title: "Matrizes africanas"
+    url: https://www.youtube.com/embed/sQuxvHt8TI4
+    platform: youtube
 ---

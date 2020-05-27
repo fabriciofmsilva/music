@@ -53,4 +53,4 @@ videos:
 ## Custom
 
 * <span class="badge badge-primary">vídeo</span> [Projeto Alexandre, Quimera Tech e Malagoli](alexandre-quimera/)
-* <span class="badge badge-primary">vídeo</span> [Taking a great ki guitar and making it Cyberpunk 2077](cyberpunk-2077/)
+* <span class="badge badge-primary">vídeo</span> [Taking a great kit guitar and making it Cyberpunk 2077](cyberpunk-2077/)
