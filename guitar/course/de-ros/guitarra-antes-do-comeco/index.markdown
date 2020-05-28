@@ -6,7 +6,7 @@ lang: pt
 author:
   - name: "Marcos De Ros"
     url: "https://www.youtube.com/channel/UC8xkNdpZU1g2RkL-ao7HOGA"
-tags: [guitar, course]
+tags: [guitar, course, beginner]
 videos:
   - title: "Dia 1"
     url: https://www.youtube.com/embed/aB_BRnI6s74

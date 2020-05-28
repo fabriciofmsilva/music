@@ -17,4 +17,7 @@ videos:
   - title: "Palhetada alternada com salto na pentatônica, digitação 2"
     url: https://www.youtube.com/embed/IMkCtmYgYSE
     platform: youtube
+  - title: "Palhetada alternada com salto na pentatônica, Encadeando digitações (105 bpm)"
+    url: https://www.youtube.com/embed/gtLtzCj9XVs
+    platform: youtube
 ---
