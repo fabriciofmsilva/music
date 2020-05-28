@@ -20,4 +20,7 @@ videos:
   - title: "Como estudar para obter velocidade?"
     url: https://www.youtube.com/embed/OgeEfbaOI0o
     platform: youtube
+  - title: "Como conectar as escalas?"
+    url: https://www.youtube.com/embed/unO3aE4dc7M
+    platform: youtube
 ---

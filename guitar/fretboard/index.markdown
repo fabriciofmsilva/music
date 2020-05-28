@@ -36,6 +36,8 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ## Escala menor harmônica
 
+* <span class="badge badge-primary">vídeo</span> [Songs that use the harmonic minor scale with David Bennett](scales/diatonic/minor/harmonic/)
+
 ## Escala menor melódica
 
 
