@@ -90,6 +90,7 @@ lead: "É saber como tocar"
 ## Ligados
 
 * <span class="badge badge-primary">vídeo</span> [Ligados com Kiko Loureiro](legato/)
+* <span class="badge badge-primary">vídeo</span> [Práticas de ligado com Nelson Faria](legato/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Pull-off com Nelson Faria](legato/pull-off/)
 * <span class="badge badge-primary">vídeo</span> [Tapping com Kiko Loureiro](legato/tapping/)
 * <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)

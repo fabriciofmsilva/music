@@ -21,6 +21,8 @@ links:
     url: dick-dale
   - title: Dio
     url: dio
+  - title: Eagles
+    url: eagles
   - title: Eric Clapton
     url: eric-clapton
   - title: Europe
