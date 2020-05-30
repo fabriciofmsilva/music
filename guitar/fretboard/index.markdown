@@ -8,12 +8,16 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
   Conteúdo em constante atualização.
 </div>
 
+* <span class="badge badge-primary">vídeo</span> [Notas musicais - Introdução à teoria musical com Cifra Club](general/intro/)
 * <span class="badge badge-primary">vídeo</span> [Isso vai fazer você dominar as notas do braço da guitarra](general/notes/)
+* <span class="badge badge-primary">vídeo</span> [Decore todas as notas do braço em 1 semana (15 min por dia) com Descomplicando a Música](general/notes/week/)
+* <span class="badge badge-primary">vídeo</span> [Como decorar as notas no braço da guitarra com Vilmar Gusberti](general/notes/fluency/)
 * <span class="badge badge-primary">vídeo</span> [How to Master the Fretboard (and SHRED!)](general/master/)
 * <span class="badge badge-primary">vídeo</span> [Três áreas do estudo e tríades](general/study/)
 
 ## Intervalos
 
+* <span class="badge badge-primary">vídeo</span> [Intervalos - Teoria musical com Cifra Club](interval/intro/)
 * <span class="badge badge-primary">vídeo</span> [O que é intervalo? com Nelson Faria](interval/what/)
 * <span class="badge badge-primary">vídeo</span> [Como calcular a distância entre duas notas? com Nelson Faria](interval/distance/)
 * <span class="badge badge-primary">vídeo</span> [Como classificar intervalos musicais? com Nelson Faria](interval/classification/)
@@ -119,6 +123,16 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 * <span class="badge badge-primary">vídeo</span> [10 levels of emotional chords](chords/general/level/)
 
 ### Formação dos acordes
+
+#### Bicordes
+
+Também são conhecidos como **power chords**, muito usados no rock. São excelentes por serem extremamente simples de tocar e a digitação ser a mesma (salvo uma excessão) por toda a extensão do braço da guitarra.
+
+* <span class="badge badge-primary">vídeo</span> [O acorde mais útil do mundo! Power chord com Heitor Castro](chords/power/heitor-castro/)
+* <span class="badge badge-primary">vídeo</span> [How to play power chords on guitar with Fender](chords/power/fender/)
+* <span class="badge badge-primary">vídeo</span> [How to practice power chords! with Fender](chords/power/fender/practice/)
+* <span class="badge badge-primary">vídeo</span> [Como tocar um powerchord sem tocar as outras cordas? com Cifra Club](chords/power/cifra-club/mute/)
+* <span class="badge badge-primary">vídeo</span> [Como substituir power chord por acordes normais? com Cifra Club](chords/power/cifra-club/)
 
 ### Inversões
 
