@@ -8,4 +8,6 @@ categories: repertorie
 links:
   - title: Rock
     url: rock
+  - title: Clássica, erudita, folclórica, ...
+    url: classic
 ---

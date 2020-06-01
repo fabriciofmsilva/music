@@ -124,6 +124,9 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Formação dos acordes
 
+* <span class="badge badge-primary">vídeo</span> [Formação de Acordes I - Tríades com Cifra Club](chords/formation/triads/)
+* <span class="badge badge-primary">vídeo</span> [Formação de Acordes II - Tétrades com Cifra Club](chords/formation/tetrads/)
+
 #### Bicordes
 
 Também são conhecidos como **power chords**, muito usados no rock. São excelentes por serem extremamente simples de tocar e a digitação ser a mesma (salvo uma excessão) por toda a extensão do braço da guitarra.

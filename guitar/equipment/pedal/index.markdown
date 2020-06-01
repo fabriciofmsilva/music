@@ -1,15 +1,37 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: "Pedal"
-links:
-  - title: "Drives"
-    url: drives
-videos:
-  - title: "Fontes de pedais | Roberto Torao"
-    url: https://www.youtube.com/embed/MmmDR2AqJfU
-  - title: "Como montar o seu pedalboard, ordem dos pedais | Marcos De Ros"
-    url: https://www.youtube.com/embed/qvjR6foyt0U
+lead: "Pedais de efeito"
 ---
+
+## Fonte
+
+* <span class="badge badge-primary">vídeo</span> [Fontes de pedais com Roberto Torao](power-supply/)
+
+## Afinador [Tuner]
+
+## Reforçador de sinal [Buffer]
+
+## Noise gate
+
+## Wah-wah, Envelope Filters e Volume
+
+## Compressão [Compression]
+
+## Fuzz, Distortion, Overdrive e Boosts
+
+* <span class="badge badge-primary">vídeo</span> [Blood is Love da Krozz Devices com Ozielzinho](drive/distortion/blood-is-love/)
+
+## Preamp simulator e Cab simulator
+
+## Efeitos de modulação: Chorus, Phasers, e Flangers
+
+### Rotary Speaker
+
+* <span class="badge badge-primary">vídeo</span> [A brief history of rotary speakers & pedals: from Leslie to Strymon & beyond](rotary-speaker/)
+
+## Efeitos de ambiência: Delay e Reverb
+
+## Pedalboard
+
+* <span class="badge badge-primary">vídeo</span> [Como montar o seu pedalboard, ordem dos pedais com Marcos De Ros](pedalboard/)

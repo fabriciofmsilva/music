@@ -10,7 +10,8 @@ lead: "É saber como tocar"
 
 ## Aquecimento
 
-* <span class="badge badge-primary">vídeo</span> [Warm up exercises](warm-up/)
+* <span class="badge badge-primary">vídeo</span> [Warm up exercises with Kiko Loureiro](warm-up/)
+* <span class="badge badge-primary">vídeo</span> [Aquecimento com Roger Franco](warm-up/roger-franco/)
 
 ## Postura
 
