@@ -38,4 +38,7 @@ videos:
   - title: "Palhetada alternada na pentatônica"
     url: https://www.youtube.com/embed/fSqr6aRwl2s
     platform: youtube
+  - title: "Arpejo C7M quiáltera de colcheia"
+    url: https://www.youtube.com/embed/g6UyGRucFnk
+    platform: youtube
 ---

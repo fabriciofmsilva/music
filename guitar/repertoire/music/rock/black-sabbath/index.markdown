@@ -11,4 +11,6 @@ links:
     url: iron-man
   - title: Paranoid
     url: paranoid
+  - title: Sabbath Black Sabbath
+    url: sabbath-black-sabbath
 ---

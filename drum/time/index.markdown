@@ -59,4 +59,7 @@ videos:
   - title: "Matrizes africanas"
     url: https://www.youtube.com/embed/sQuxvHt8TI4
     platform: youtube
+  - title: "Não tenha medo do 19/16"
+    url: https://www.youtube.com/embed/LU86aL4ykO0
+    platform: youtube
 ---

@@ -32,4 +32,7 @@ videos:
   - title: "EP 8"
     url: https://www.youtube.com/embed/ZHwvQ02Uw_g
     platform: youtube
+  - title: "EP 9"
+    url: https://www.youtube.com/embed/K4JsT7ZrY4A
+    platform: youtube
 ---

@@ -8,6 +8,7 @@ lead: "Tablatura e partitura"
   Conteúdo em constante atualização.
 </div>
 
+* <span class="badge badge-primary">vídeo</span> [A importância de saber ler partitura com João Gaspar](general/)
 * <span class="badge badge-primary">vídeo</span> [Praticando Leitura com Nelson Faria](practice/)
 
 * Notas naturais

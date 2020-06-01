@@ -22,6 +22,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada vs economy picking](picking/general/alternate-economy/)
 * <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](picking/general/chirp/)
+* <span class="badge badge-primary">vídeo</span> [Picking perfection with Jason Richardson](picking/general/perfect/)
 
 ### Palhetada Alternada
 

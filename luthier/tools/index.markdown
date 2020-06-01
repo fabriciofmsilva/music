@@ -22,4 +22,6 @@ videos:
     lang: eng
   - title: "Solda correta e cuidados com o ferro | Luthieria de Banheiro"
     url: https://www.youtube.com/embed/h4KtjXe0pMo
+  - title: "Como Fazer uma Serra de Trastes p/ Instrumentos c/ Friso (Binding) | Sergio Grassi Luthier"
+    url: https://www.youtube.com/embed/8cShvKaXZ84
 ---

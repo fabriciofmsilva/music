@@ -23,4 +23,7 @@ videos:
   - title: "Furação para instalação de ponte e tarraxas"
     url: https://www.youtube.com/embed/iH42RiTqY1w
     platform: youtube
+  - title: "Lixamento final e Inicio da aplicação de Verniz PU"
+    url: https://www.youtube.com/embed/994rjmmeaa8
+    platform: youtube
 ---
