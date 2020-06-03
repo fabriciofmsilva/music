@@ -8,6 +8,8 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
   Conteúdo em constante atualização.
 </div>
 
+## Notas musicais
+
 * <span class="badge badge-primary">vídeo</span> [Notas musicais - Introdução à teoria musical com Cifra Club](general/intro/)
 * <span class="badge badge-primary">vídeo</span> [Isso vai fazer você dominar as notas do braço da guitarra](general/notes/)
 * <span class="badge badge-primary">vídeo</span> [Decore todas as notas do braço em 1 semana (15 min por dia) com Descomplicando a Música](general/notes/week/)
@@ -17,7 +19,8 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ## Intervalos
 
-* <span class="badge badge-primary">vídeo</span> [Intervalos - Teoria musical com Cifra Club](interval/intro/)
+* <span class="badge badge-success">artigo</span> [Intervalos musicais: um guia completo e esclarecedor com Music Clan](https://musicclan.com.br/blog/intervalos-musicais/){:target="_blank"}
+* <span class="badge badge-primary">vídeo</span> [Intervalos - teoria musical com Cifra Club](interval/intro/)
 * <span class="badge badge-primary">vídeo</span> [O que é intervalo? com Nelson Faria](interval/what/)
 * <span class="badge badge-primary">vídeo</span> [Como calcular a distância entre duas notas? com Nelson Faria](interval/distance/)
 * <span class="badge badge-primary">vídeo</span> [Como classificar intervalos musicais? com Nelson Faria](interval/classification/)
@@ -34,15 +37,19 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Escalas diatônicas
 
-## Escala maior
+#### Escala maior
 
-## Escala menor natural
+* <span class="badge badge-success">artigo</span> [A escala maior natural na guitarra + shapes para estudo com Music Clan](https://musicclan.com.br/blog/escala-maior-natural/){:target="_blank"}
 
-## Escala menor harmônica
+#### Escala menor natural
+
+* <span class="badge badge-success">artigo</span> [A escala menor na guitarra + shapes para estudo com Music Clan](https://musicclan.com.br/blog/escala-menor-guitarra/){:target="_blank"}
+
+#### Escala menor harmônica
 
 * <span class="badge badge-primary">vídeo</span> [Songs that use the harmonic minor scale with David Bennett](scales/diatonic/minor/harmonic/)
 
-## Escala menor melódica
+#### Escala menor melódica
 
 
 ### Escalas pentatônicas
@@ -55,13 +62,14 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 #### Escala pentatônica menor
 
+* <span class="badge badge-success">artigo</span> [Pentatônica menor 7: aprenda os shapes, exercícios e 7 licks de grandes guitarristas com Music Clan](https://musicclan.com.br/blog/pentatonica-menor-7-shapes-licks/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Novas alternativas para a sonoridade menor 7](scales/pentatonic/minor/)
 
 ### Escalas Blues
 
-## Escala Blues maior
+#### Escala Blues maior
 
-## Escala Blues menor
+#### Escala Blues menor
 
 
 ### Escalas simétricas
@@ -72,50 +80,19 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 #### Escala cromáticas
 
+* <span class="badge badge-success">artigo</span> [Dominando facilmente a escala cromática na guitarra com Music Clan](https://musicclan.com.br/blog/dominando-a-escala-cromatica-na-guitarra/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Cromatismos na guitarra](scales/symmetric/cromatic/)
 
 ## Modos
 
-## Modos gregos
+### Modos gregos
 
+* <span class="badge badge-success">artigo</span> [Entendendo e desmistificando os modos gregos com Music Clan](https://musicclan.com.br/blog/tudo-sobre-modos-gregos/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Entendendo os modos gregos](modes/general/)
 
-## Modos gerados pela menor harmônica
+#### Modos gerados pela menor harmônica
 
-## Modos gerados pela menor melódica
-
-
-## Arpejos
-
-### Tríades
-
-## M
-
-## m
-
-## Dim
-
-## Aum
-
-
-### Tétrades
-
-## 7M
-
-## m7
-
-## m7(b5)
-
-## 7M(#5)
-
-## 7
-
-## m7M
-
-## Dim
-
-
-### Superposições de arpejos
+#### Modos gerados pela menor melódica
 
 ## Acordes
 
@@ -124,13 +101,16 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Formação dos acordes
 
-* <span class="badge badge-primary">vídeo</span> [Formação de Acordes I - Tríades com Cifra Club](chords/formation/triads/)
-* <span class="badge badge-primary">vídeo</span> [Formação de Acordes II - Tétrades com Cifra Club](chords/formation/tetrads/)
+* <span class="badge badge-primary">vídeo</span> [Formação de acordes I - tríades com Cifra Club](chords/formation/triads/)
+* <span class="badge badge-success">artigo</span> [Tríades: domine-as na guitarra e veja como 10 grandes bandas as utilizaram com Music Clan](https://musicclan.com.br/blog/triades-guitarra-entenda-e-confira-10-riffs/){:target="_blank"}
+* <span class="badge badge-success">artigo</span> [Tríades abertas: aumente seu vocabulário de acordes com Music Clan](https://musicclan.com.br/blog/triades-abertas/){:target="_blank"}
+* <span class="badge badge-primary">vídeo</span> [Formação de acordes II - tétrades com Cifra Club](chords/formation/tetrads/)
 
 #### Bicordes
 
 Também são conhecidos como **power chords**, muito usados no rock. São excelentes por serem extremamente simples de tocar e a digitação ser a mesma (salvo uma excessão) por toda a extensão do braço da guitarra.
 
+* <span class="badge badge-success">artigo</span> [Power chords: saiba tudo sobre o acorde mais poderoso do mundo com Music Clan](https://musicclan.com.br/blog/saiba-tudo-sobre-power-chords/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [O acorde mais útil do mundo! Power chord com Heitor Castro](chords/power/heitor-castro/)
 * <span class="badge badge-primary">vídeo</span> [How to play power chords on guitar with Fender](chords/power/fender/)
 * <span class="badge badge-primary">vídeo</span> [How to practice power chords! with Fender](chords/power/fender/practice/)
@@ -151,6 +131,49 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 
 ### Acordes com corda solta
 
+## Arpejos
+
+* <span class="badge badge-primary">vídeo</span> [Esqueça o sweep! Toque arpejos de maneira simples com Roger Franco](arpeggios/roger-franco/)
+* <span class="badge badge-primary">vídeo</span> [Como estudar os arpejos na guitarra? com Gustavo Guerra](arpeggios/gustavo-guerra/)
+* <span class="badge badge-primary">vídeo</span> [Como estudar arpejos com metrônomo com Vilmar Gusberti](arpeggios/vilmar-gusberti/)
+* <span class="badge badge-primary">vídeo</span> [3 arpejos fáceis com Rodrigo Flausino](arpeggios/rodrigo-flausino/)
+* <span class="badge badge-primary">vídeo</span> [Isso tornou-me fluente em qualquer arpejo com Roberto Barros](arpeggios/roberto-barros/)
+* <span class="badge badge-primary">vídeo</span> [Arpejos e sweep com Israel Rodrigues](arpeggios/israel-rodrigues/)
+* <span class="badge badge-primary">vídeo</span> [Arpejo fácil com Ozielzinho](arpeggios/ozielzinho/)
+
+### Tríades
+
+### Maior (M)
+
+### Menor (m)
+
+### Diminuto (Dim)
+
+### Aumentado (Aum)
+
+
+### Tétrades
+
+#### Com sétima maior (7M)
+
+#### Com sétima menor (m7)
+
+#### m7(b5)
+
+#### 7M(#5)
+
+#### Dominante (7)
+
+#### m7M
+
+#### Dim
+
+
+### Superposições de arpejos
+
+## CAGED
+
+* <span class="badge badge-success">artigo</span> [CAGED – Multiplique seu vocabulário de acordes na guitarra com Music Clan](https://musicclan.com.br/blog/caged-guitarra-acordes/){:target="_blank"}
 
 ## Livros
 

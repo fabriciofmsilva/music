@@ -62,4 +62,7 @@ videos:
   - title: "Não tenha medo do 19/16"
     url: https://www.youtube.com/embed/LU86aL4ykO0
     platform: youtube
+  - title: "O átomo rítmico"
+    url: https://www.youtube.com/embed/ICiH-w1R2aU
+    platform: youtube
 ---

@@ -8,6 +8,11 @@ lead: "É saber como tocar"
   Conteúdo em constante atualização.
 </div>
 
+## Geral
+
+* <span class="badge badge-success">artigo</span> [As 4 técnicas de guitarra solo essenciais que você precisa dominar com Music Clan](https://musicclan.com.br/blog/tecnicas-de-guitarra-solo-essenciais/){:target="_blank"}
+* <span class="badge badge-primary">vídeo</span> [Shred Guitarra com Gustavo Guerra](general/shred/)
+
 ## Aquecimento
 
 * <span class="badge badge-primary">vídeo</span> [Warm up exercises with Kiko Loureiro](warm-up/)
@@ -24,7 +29,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](picking/general/chirp/)
 * <span class="badge badge-primary">vídeo</span> [Picking perfection with Jason Richardson](picking/general/perfect/)
 
-### Palhetada Alternada
+### Palhetada alternada
 
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com João Gaspar](picking/alternate/joao-gaspar/)
@@ -37,12 +42,12 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 * <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
 
-### Palhetada Sweep
+### Palhetada sweep
 
 * <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
 
-### Palhetada Econômica
+### Palhetada econômica
 
 * Gypsy Picking (One-way Economy)
 * <span class="badge badge-primary">vídeo</span> [Gambale Sweeping (Two-way economy)](picking/economy/gambale-sweeping/)
@@ -57,7 +62,7 @@ lead: "É saber como tocar"
 * Upstroke Sweeping
 * Alternate String Change on Downstrokes
 
-#### Double Escape Mode
+#### Double escape mode
 
 * No Sweeping
 * Alternate String Change on Any Direction
@@ -66,7 +71,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [How to use fingerpicking for lead guitar with Matt Lake](picking/finger/)
 
-### Palhetada Híbrida
+### Palhetada híbrida
 
 * <span class="badge badge-primary">vídeo</span> [Hybrid picking quick lick com Kiko Loureiro](picking/hybrid/quick-lick/)
 * <span class="badge badge-primary">vídeo</span> [How to play a metal riff using hybrid picking com Kiko Loureiro](picking/hybrid/metal-riff/)
@@ -124,10 +129,6 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)
 
 ## Sonoridade
-
-## Geral
-
-* <span class="badge badge-primary">vídeo</span> [Shred Guitarra com Gustavo Guerra](general/shred/)
 
 ## Livros
 

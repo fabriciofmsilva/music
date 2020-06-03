@@ -19,6 +19,8 @@ videos:
     url: https://www.youtube.com/embed/zyGYA4bp6xs
   - title: "Microfone BM800 pra música REVIEW (Mic condensador Barato) | Chrys Gringo"
     url: https://www.youtube.com/embed/mpnfzg8o6q8
+  - title: "Masterização profissional em 3 minutos | Chrys Gringo"
+    url: https://www.youtube.com/embed/vHyEIJXfaWE
 ---
 
 * <span class="badge badge-primary">vídeo</span> [Transforme seu microfone de R$150 em mic de R$3000 com Chrys Gringo](mic/equalization/)

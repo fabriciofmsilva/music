@@ -17,3 +17,8 @@ videos:
   - title: "Um bom timbre de guitarra está na captação dos falantes! | Bruno Mello"
     url: https://www.youtube.com/embed/st22Lqf6Avk
 ---
+
+## Pedal
+
+* <span class="badge badge-success">artigo</span> [Tipos de pedais de efeito: conheça os mais importantes com Music Clan](https://musicclan.com.br/blog/tipos-de-pedais-de-efeito/){:target="_blank"}
+* <span class="badge badge-success">artigo</span> [5 Dicas de como montar um pedalboard com Music Clan](https://musicclan.com.br/blog/5-dicas-de-como-montar-um-pedalboard/){:target="_blank"}
