@@ -10,3 +10,4 @@ title:  "Cursos"
 * <span class="badge badge-primary">vídeo</span> [The John Petrucci guitar method](john-petrucci/)
 * <span class="badge badge-primary">vídeo</span> [The Joe Satriani guitar method](joe-satriani/)
 * <span class="badge badge-primary">vídeo</span> [The Steve Vai guitar method](steve-vai/)
+* <span class="badge badge-primary">vídeo</span> [String Theory with Jimmy Brown](string-theory/)

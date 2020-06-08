@@ -46,6 +46,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
+* <span class="badge badge-primary">vídeo</span> [Sweep picking 101 com Michael Angelo Batio](picking/sweep/michael-angelo-batio/)
 
 ### Palhetada econômica
 
@@ -99,8 +100,12 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Ligados com Kiko Loureiro](legato/)
 * <span class="badge badge-primary">vídeo</span> [Práticas de ligado com Nelson Faria](legato/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Pull-off com Nelson Faria](legato/pull-off/)
+
+### Tapping
+
 * <span class="badge badge-primary">vídeo</span> [Tapping com Kiko Loureiro](legato/tapping/)
 * <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)
+* <span class="badge badge-primary">vídeo</span> [O que fazer com a palheta no tapping? com Roger Franco](legato/tapping/pick/)
 
 ## Bend
 

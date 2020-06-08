@@ -3,13 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Repertório"
+title: "Riffs"
 categories: repertorie
 links:
-  - title: Licks
-    url: licks
-  - title: Riffs
-    url: riffs
-  - title: Músicas
-    url: music
+  - title: "Olly Steele"
+    url: olly-steele
 ---

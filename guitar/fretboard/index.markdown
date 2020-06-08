@@ -33,6 +33,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ## Escalas
 
+* <span class="badge badge-primary">vídeo</span> [Pensando escalas em números com Nelson Faria](scales/general/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Escalas horizontais](scales/horizontal/)
 
 ### Escalas diatônicas
@@ -174,6 +175,10 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 ## CAGED
 
 * <span class="badge badge-success">artigo</span> [CAGED – Multiplique seu vocabulário de acordes na guitarra com Music Clan](https://musicclan.com.br/blog/caged-guitarra-acordes/){:target="_blank"}
+
+## Shred
+
+* <span class="badge badge-primary">video</span> [Professor shred com Guthrie Govan](general/shred)
 
 ## Livros
 
