@@ -28,6 +28,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada vs economy picking](picking/general/alternate-economy/)
 * <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](picking/general/chirp/)
 * <span class="badge badge-primary">vídeo</span> [Picking perfection with Jason Richardson](picking/general/perfect/)
+* <span class="badge badge-primary">vídeo</span> [A melhor maneira de palhetar com João Gaspar](picking/general/best/)
 
 ### Palhetada alternada
 
@@ -41,6 +42,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skip/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 * <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada com salto em arpejo com João Gaspar](picking/alternate/joao-gaspar/skip/)
 
 ### Palhetada sweep
 

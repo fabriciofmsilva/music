@@ -65,4 +65,7 @@ videos:
   - title: "O átomo rítmico"
     url: https://www.youtube.com/embed/ICiH-w1R2aU
     platform: youtube
+  - title: "Condução Elvin Jones"
+    url: https://www.youtube.com/embed/LWOUWjWMvj0
+    platform: youtube
 ---

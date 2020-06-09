@@ -14,4 +14,7 @@ videos:
   - title: "Instalação dos trastes inox, EP 02"
     url: https://www.youtube.com/embed/UnaaP1sW4gI
     platform: youtube
+  - title: "Votação do escudo, EP 03"
+    url: https://www.youtube.com/embed/k-usmDDz0zE
+    platform: youtube
 ---

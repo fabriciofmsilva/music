@@ -65,6 +65,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 * <span class="badge badge-success">artigo</span> [Pentatônica menor 7: aprenda os shapes, exercícios e 7 licks de grandes guitarristas com Music Clan](https://musicclan.com.br/blog/pentatonica-menor-7-shapes-licks/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Novas alternativas para a sonoridade menor 7](scales/pentatonic/minor/)
+* <span class="badge badge-primary">vídeo</span> [Como solar com a pentatônica em qualquer tom com Vilmar Gusberti](scales/pentatonic/minor/solo/)
 
 ### Escalas Blues
 
@@ -83,6 +84,10 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 * <span class="badge badge-success">artigo</span> [Dominando facilmente a escala cromática na guitarra com Music Clan](https://musicclan.com.br/blog/dominando-a-escala-cromatica-na-guitarra/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Cromatismos na guitarra](scales/symmetric/cromatic/)
+
+### Escalas Exóticas
+
+* <span class="badge badge-primary">vídeo</span> [Soloing on one or two strings with the major hexatonic scale with Andy Aledort](scales/exotic/hexatonic/)
 
 ## Modos
 
