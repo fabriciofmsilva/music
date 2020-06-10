@@ -73,6 +73,8 @@ links:
     url: the-rolling-stones
   - title: The White Stripes
     url: the-white-stripes
+  - title: Trivium
+    url: trivium
   - title: Yngwie Malmsteen
     url: yngwie-malmsteen
   - title: ZZ Top

@@ -7,3 +7,5 @@ links:
   - title: "Vídeo"
     url: video
 ---
+
+* <span class="badge badge-primary">vídeo</span> [Como planejar o seu home studio com Chrys Gringo](home-studio/)

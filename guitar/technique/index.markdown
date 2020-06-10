@@ -108,6 +108,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Tapping com Kiko Loureiro](legato/tapping/)
 * <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)
 * <span class="badge badge-primary">vídeo</span> [O que fazer com a palheta no tapping? com Roger Franco](legato/tapping/pick/)
+* <span class="badge badge-primary">vídeo</span> [Learn to play Ichika style tapping in 7 steps with ichika Nito](legato/tapping/ichika/)
 
 ## Bend
 
