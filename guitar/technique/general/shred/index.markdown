@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Shred Guitarra"
-lead: "Shred Guitarra"
+title:  "Shred guitarra"
+lead: "Shred guitarra"
 lang: pt
 author:
   - name: "Gustavo Guerra"

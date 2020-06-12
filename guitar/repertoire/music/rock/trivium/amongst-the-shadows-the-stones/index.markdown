@@ -9,7 +9,10 @@ author:
     self: true
 tags: [guitar, repertorie, trivium]
 videos:
-  - title: "Guitar Solo Lesson with Chris Zoupa"
+  - title: "Part 1"
     url: https://www.youtube.com/embed/LvsuC5AL4pw
+    platform: youtube
+  - title: "Part 2"
+    url: https://www.youtube.com/embed/GTsDO6TDB5M
     platform: youtube
 ---

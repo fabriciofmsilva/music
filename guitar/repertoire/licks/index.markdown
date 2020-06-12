@@ -40,3 +40,5 @@ videos:
   - title: "Riffs | Kiko Loureiro"
     url: https://www.youtube.com/embed/S3MxfbmdPmg
 ---
+
+* <span class="badge badge-primary">vídeo</span> [Nossa olha esse lick com Cristiano Oliveira](cristiano-oliveira/)

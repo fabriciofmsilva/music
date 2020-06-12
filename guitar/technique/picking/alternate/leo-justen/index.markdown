@@ -41,4 +41,7 @@ videos:
   - title: "Arpejo C7M quiáltera de colcheia"
     url: https://www.youtube.com/embed/g6UyGRucFnk
     platform: youtube
+  - title: "Corda abafada semicolcheia"
+    url: https://www.youtube.com/embed/X0SxNginv_c
+    platform: youtube
 ---

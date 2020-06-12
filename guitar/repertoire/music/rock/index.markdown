@@ -7,6 +7,8 @@ links:
     url: acdc
   - title: Aerosmith
     url: aerosmith
+  - title: Akashic
+    url: akashic
   - title: Arkariot
     url: arkariot
   - title: Black Sabbath
@@ -27,7 +29,7 @@ links:
     url: eric-clapton
   - title: Europe
     url: europe
-  - title: Guns N'Roses
+  - title: Guns N' Roses
     url: guns-n-roses
   - title: Imagine Dragons
     url: imagine-dragons

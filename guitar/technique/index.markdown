@@ -11,12 +11,12 @@ lead: "É saber como tocar"
 ## Geral
 
 * <span class="badge badge-success">artigo</span> [As 4 técnicas de guitarra solo essenciais que você precisa dominar com Music Clan](https://musicclan.com.br/blog/tecnicas-de-guitarra-solo-essenciais/){:target="_blank"}
-* <span class="badge badge-primary">vídeo</span> [Shred Guitarra com Gustavo Guerra](general/shred/)
 
 ## Aquecimento
 
 * <span class="badge badge-primary">vídeo</span> [Warm up exercises with Kiko Loureiro](warm-up/)
 * <span class="badge badge-primary">vídeo</span> [Aquecimento com Roger Franco](warm-up/roger-franco/)
+* <span class="badge badge-primary">vídeo</span> [Warmup com power chords com João Gaspar](warm-up/joao-gaspar/)
 
 ## Postura
 
@@ -121,6 +121,7 @@ lead: "É saber como tocar"
 ## Vibrato
 
 * <span class="badge badge-primary">vídeo</span> [How to avoid embarrassing yourself during a solo with Kiko Loureiro](vibrato/)
+* <span class="badge badge-primary">vídeo</span> [Steve Vai circular vibrato technique with Guitar Interactive](vibrato/circular/)
 
 ## Harmônicos
 
@@ -137,6 +138,11 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)
 
 ## Sonoridade
+
+## Velocidade
+
+* <span class="badge badge-primary">vídeo</span> [Shred guitarra com Gustavo Guerra](general/shred/)
+* <span class="badge badge-primary">vídeo</span> [Ganho de velocidade com João Gaspar](general/speed/)
 
 ## Livros
 
