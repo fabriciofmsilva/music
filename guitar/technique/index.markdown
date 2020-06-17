@@ -16,7 +16,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Warm up exercises with Kiko Loureiro](warm-up/)
 * <span class="badge badge-primary">vídeo</span> [Aquecimento com Roger Franco](warm-up/roger-franco/)
-* <span class="badge badge-primary">vídeo</span> [Warmup com power chords com João Gaspar](warm-up/joao-gaspar/)
+* <span class="badge badge-primary">vídeo</span> [Warmup com João Gaspar](warm-up/joao-gaspar/)
 
 ## Postura
 
@@ -143,6 +143,10 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Shred guitarra com Gustavo Guerra](general/shred/)
 * <span class="badge badge-primary">vídeo</span> [Ganho de velocidade com João Gaspar](general/speed/)
+
+## Outros
+
+* <span class="badge badge-primary">vídeo</span> [Double stop + reverb na guitarra com Roger Franco](general/double-stop/)
 
 ## Livros
 

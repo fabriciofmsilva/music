@@ -10,4 +10,6 @@ links:
     url: rock
   - title: Clássica, erudita, folclórica, ...
     url: classic
+  - title: Outros
+    url: misc
 ---

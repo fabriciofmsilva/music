@@ -26,4 +26,7 @@ videos:
   - title: "Lixamento final e Inicio da aplicação de Verniz PU"
     url: https://www.youtube.com/embed/994rjmmeaa8
     platform: youtube
+  - title: "Aplicação de verniz PU com pistola, teoria e prática básica"
+    url: https://www.youtube.com/embed/NSJPl42IFt8
+    platform: youtube
 ---

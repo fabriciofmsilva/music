@@ -69,6 +69,8 @@ links:
     url: roy-orbison
   - title: Rush
     url: rush
+  - title: Steppenwolf
+    url: steppenwolf
   - title: Survivor
     url: survivor
   - title: The Rolling Stones

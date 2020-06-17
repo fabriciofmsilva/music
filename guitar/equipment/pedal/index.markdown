@@ -16,6 +16,8 @@ lead: "Pedais de efeito"
 
 ## Wah-wah, Envelope Filters e Volume
 
+* <span class="badge badge-primary">vídeo</span> [O pedal Wha com João Gaspar](wah-wah/)
+
 ## Compressão [Compression]
 
 ## Fuzz, Distortion, Overdrive e Boosts
