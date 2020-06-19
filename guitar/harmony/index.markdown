@@ -6,6 +6,7 @@ title: "Harmonia"
 * <span class="badge badge-success">artigo</span> [Campo harmônico – aprenda a tocar em todas as tonalidades sem o auxílio de cifraso com Music Clan](https://musicclan.com.br/blog/campo-harmonico/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Saber acordes não é conhecer harmonia com Nelson Faria](general/)
 * <span class="badge badge-primary">vídeo</span> [Limite de intervalos graves com Alexandre Carvalho](general/limit/)
+* <span class="badge badge-primary">vídeo</span> [Dominante secundário com Nelson Faria](general/dominant/)
 
 * Padrões modernos de cifragem
 * Substituições diatônicas

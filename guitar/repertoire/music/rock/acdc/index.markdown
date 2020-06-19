@@ -5,6 +5,8 @@ categories: repertorie
 links:
   - title: Back in Black
     url: back-in-black
+  - title: For Those About To Rock (We Salute You)
+    url: for-those-about-to-rock
   - title: Hells Bells
     url: hells-bells
   - title: Highway To Hell

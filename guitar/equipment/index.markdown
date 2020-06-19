@@ -9,8 +9,6 @@ links:
     url: guitar
   - title: Amplificador
     url: amp
-  - title: Pedal
-    url: pedal
 videos:
   - title: "Torpedo Live, Cab Simulator | Ozielzinho"
     url: https://www.youtube.com/embed/KvRQbuOAbvE
@@ -23,3 +21,41 @@ videos:
 * <span class="badge badge-success">artigo</span> [Tipos de pedais de efeito: conheça os mais importantes com Music Clan](https://musicclan.com.br/blog/tipos-de-pedais-de-efeito/){:target="_blank"}
 * <span class="badge badge-success">artigo</span> [5 Dicas de como montar um pedalboard com Music Clan](https://musicclan.com.br/blog/5-dicas-de-como-montar-um-pedalboard/){:target="_blank"}
 * <span class="badge badge-success">artigo</span> [Curso de timbres com Leo Jamess](pedal/general/tones/)
+
+### Fonte
+
+* <span class="badge badge-primary">vídeo</span> [Fontes de pedais com Roberto Torao](pedal/power-supply/)
+
+### Afinador [Tuner]
+
+### Reforçador de sinal [Buffer]
+
+### Noise gate
+
+### Wah-wah, Envelope Filters e Volume
+
+* <span class="badge badge-primary">vídeo</span> [O pedal Wha com João Gaspar](pedal/wah-wah/)
+
+### Compressão [Compression]
+
+### Fuzz, Distortion, Overdrive e Boosts
+
+* <span class="badge badge-primary">vídeo</span> [Blood is Love da Krozz Devices com Ozielzinho](pedal/drive/distortion/blood-is-love/)
+
+### Preamp simulator e Cab simulator
+
+### Efeitos de modulação: Chorus, Phasers, e Flangers
+
+#### Rotary Speaker
+
+* <span class="badge badge-primary">vídeo</span> [A brief history of rotary speakers & pedals: from Leslie to Strymon & beyond](pedal/rotary-speaker/)
+
+### Efeitos de ambiência: Delay e Reverb
+
+#### Reverb
+
+* <span class="badge badge-primary">vídeo</span> [Quais são os tipos de reverb? com João Gaspar](pedal/reverb/)
+
+### Pedalboard
+
+* <span class="badge badge-primary">vídeo</span> [Como montar o seu pedalboard, ordem dos pedais com Marcos De Ros](pedal/pedalboard/)

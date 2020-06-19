@@ -32,6 +32,7 @@ lead: "É saber como tocar"
 
 ### Palhetada alternada
 
+* <span class="badge badge-primary">vídeo</span> [10 levels of alternate picking - Beginner to advanced with Bernth](picking/alternate/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com João Gaspar](picking/alternate/joao-gaspar/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Leo Justen](picking/alternate/leo-justen/)
@@ -43,9 +44,12 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 * <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada com salto em arpejo com João Gaspar](picking/alternate/joao-gaspar/skip/)
+* <span class="badge badge-primary">vídeo</span> [Ultimate alternate picking exercises with Bernth](picking/alternate/bernth/)
+
 
 ### Palhetada sweep
 
+* <span class="badge badge-primary">vídeo</span> [10 levels of sweep picking - Beginner to advanced with Bernth](picking/sweep/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
 * <span class="badge badge-primary">vídeo</span> [Sweep picking 101 com Michael Angelo Batio](picking/sweep/michael-angelo-batio/)
@@ -105,6 +109,7 @@ lead: "É saber como tocar"
 
 ### Tapping
 
+* <span class="badge badge-primary">vídeo</span> [10 levels of tapping - Easy to hard with Bernth](legato/tapping/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Tapping com Kiko Loureiro](legato/tapping/)
 * <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)
 * <span class="badge badge-primary">vídeo</span> [O que fazer com a palheta no tapping? com Roger Franco](legato/tapping/pick/)
