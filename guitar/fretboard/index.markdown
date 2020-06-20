@@ -69,6 +69,8 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 ### Escalas Blues
 
+* <span class="badge badge-primary">vídeo</span> [Domine a penta blues (Método Prático) com Roger Franco](scales/blues/general/shapes/)
+
 #### Escala Blues maior
 
 #### Escala Blues menor

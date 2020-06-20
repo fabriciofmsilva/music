@@ -149,6 +149,10 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Shred guitarra com Gustavo Guerra](general/shred/)
 * <span class="badge badge-primary">vídeo</span> [Ganho de velocidade com João Gaspar](general/speed/)
 
+## Alavanca
+
+* <span class="badge badge-primary">vídeo</span> [Whammy bar tricks with John Petrucci of Dream Theater](general/whammy-bar/)
+
 ## Outros
 
 * <span class="badge badge-primary">vídeo</span> [Double stop + reverb na guitarra com Roger Franco](general/double-stop/)
