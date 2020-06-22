@@ -68,4 +68,7 @@ videos:
   - title: "Condução Elvin Jones"
     url: https://www.youtube.com/embed/LWOUWjWMvj0
     platform: youtube
+  - title: "Independência cruzada"
+    url: https://www.youtube.com/embed/ZS8CfAsK9f0
+    platform: youtube
 ---

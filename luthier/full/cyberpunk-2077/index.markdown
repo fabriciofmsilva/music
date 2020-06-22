@@ -35,4 +35,7 @@ videos:
   - title: "EP 9"
     url: https://www.youtube.com/embed/K4JsT7ZrY4A
     platform: youtube
+  - title: "EP 10"
+    url: https://www.youtube.com/embed/G6cpir06PfU
+    platform: youtube
 ---

@@ -20,6 +20,7 @@ videos:
     url: https://www.youtube.com/embed/WTNH4YkXKWE
 ---
 
+* <span class="badge badge-primary">vídeo</span> [Por onde se começa a improvisar? com Nelson Faria](general/start/)
 * <span class="badge badge-primary">vídeo</span> [Dicas para improvisar com outros músicos com Mateus Starling](general/hints/)
 
 * Improvisação por centros tonais

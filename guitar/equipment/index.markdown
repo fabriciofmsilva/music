@@ -54,7 +54,7 @@ videos:
 
 #### Reverb
 
-* <span class="badge badge-primary">vídeo</span> [Quais são os tipos de reverb? com João Gaspar](pedal/reverb/)
+* <span class="badge badge-primary">vídeo</span> [Tipos de reverb com João Gaspar](pedal/reverb/)
 
 ### Pedalboard
 
