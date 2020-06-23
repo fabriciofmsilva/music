@@ -45,17 +45,19 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada com salto em arpejo com João Gaspar](picking/alternate/joao-gaspar/skip/)
 * <span class="badge badge-primary">vídeo</span> [Ultimate alternate picking exercises with Bernth](picking/alternate/bernth/)
+* <span class="badge badge-primary">vídeo</span> [300 BPM Alternate picking technique - 15 notes per second with Bernth](picking/alternate/bernth/300/)
 
 
 ### Palhetada sweep (Sweep picking)
 
-* <span class="badge badge-primary">vídeo</span> [10 levels of sweep picking - Beginner to advanced with Bernth](picking/sweep/10-levels/)
+* <span class="badge badge-primary">vídeo</span> [10 levels of sweep picking - Beginner to advanced with Bernth](picking/sweep/bernth/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
 * <span class="badge badge-primary">vídeo</span> [Sweep picking 101 with Michael Angelo Batio](picking/sweep/michael-angelo-batio/)
-* <span class="badge badge-primary">vídeo</span> [How to sweep pick? The basics explained! with Bernth](picking/sweep/basics/)
+* <span class="badge badge-primary">vídeo</span> [How to sweep pick? The basics explained! with Bernth](picking/sweep/bernth/basics/)
+* <span class="badge badge-primary">vídeo</span> [How to improve your sweeping skills? with Bernth](picking/sweep/bernth/improve/)
 
-### Palhetada econômica
+### Palhetada econômica (Economy picking)
 
 * Gypsy Picking (One-way Economy)
 * <span class="badge badge-primary">vídeo</span> [Gambale Sweeping (Two-way economy)](picking/economy/gambale-sweeping/)
@@ -83,6 +85,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Hybrid picking quick lick com Kiko Loureiro](picking/hybrid/quick-lick/)
 * <span class="badge badge-primary">vídeo</span> [How to play a metal riff using hybrid picking com Kiko Loureiro](picking/hybrid/metal-riff/)
+* <span class="badge badge-primary">vídeo</span> [Creative hybrid picking - Spice up your comping & licks with Bernth](picking/hybrid/bernth/)
 
 ### Rake
 
@@ -115,6 +118,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Tapping no blues com Marcinho Eiras](legato/tapping/blues/)
 * <span class="badge badge-primary">vídeo</span> [O que fazer com a palheta no tapping? com Roger Franco](legato/tapping/pick/)
 * <span class="badge badge-primary">vídeo</span> [Learn to play Ichika style tapping in 7 steps with ichika Nito](legato/tapping/ichika/)
+* <span class="badge badge-primary">vídeo</span> [GruvGear Fretwrap and tapping - how does it work? with Bernth](legato/tapping/bernth/)
 
 ## Bend
 

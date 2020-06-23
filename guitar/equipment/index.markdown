@@ -63,3 +63,11 @@ videos:
 ### Pedalboard
 
 * <span class="badge badge-primary">vídeo</span> [Como montar o seu pedalboard, ordem dos pedais com Marcos De Ros](pedal/pedalboard/)
+
+## Palhetas (Picks)
+
+* <span class="badge badge-primary">vídeo</span> [Which picks to play faster? The picks that changed everything for me with Bernth](pick/fast/)
+
+## Cordas (Strings)
+
+* <span class="badge badge-primary">vídeo</span> [Nanoweb vs Polyweb - which strings sound better? with Bernth](string/elixir/)

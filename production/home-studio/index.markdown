@@ -20,4 +20,7 @@ videos:
   - title: "Como escolher o microfone certo para você"
     url: https://www.youtube.com/embed/QsOVdKi8TgM
     platform: youtube
+  - title: "Como escolher um teclado controlador MIDI barato para home studio"
+    url: https://www.youtube.com/embed/i8W--eDUvWE
+    platform: youtube
 ---

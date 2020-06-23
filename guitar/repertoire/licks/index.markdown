@@ -22,6 +22,8 @@ links:
     url: eric-johnson
   - title: "Gary Moore"
     url: gary-moore
+  - title: "Guthrie Govan"
+    url: guthrie-govan
   - title: "Jimi Hendrix"
     url: jimi-hendrix
   - title: "Jimmy Page"

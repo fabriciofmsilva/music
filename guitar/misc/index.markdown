@@ -63,3 +63,7 @@ videos:
 ## Composição
 
 * <span class="badge badge-primary">vídeo</span> [Jogue músicas fora! com Nelson Faria](composition/)
+
+## Lesões
+
+* <span class="badge badge-primary">vídeo</span> [Tendonitis - How to handle a guitarist's worst nightmare with Bernth](injuries/tendonitis/)
