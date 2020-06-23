@@ -7,4 +7,6 @@ links:
     url: greensleeves
   - title: Mozart
     url: mozart
+  - title: Beethoven
+    url: beethoven
 ---

@@ -30,7 +30,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Picking perfection with Jason Richardson](picking/general/perfect/)
 * <span class="badge badge-primary">vídeo</span> [A melhor maneira de palhetar com João Gaspar](picking/general/best/)
 
-### Palhetada alternada
+### Palhetada alternada (Alternate picking)
 
 * <span class="badge badge-primary">vídeo</span> [10 levels of alternate picking - Beginner to advanced with Bernth](picking/alternate/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
@@ -47,12 +47,13 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Ultimate alternate picking exercises with Bernth](picking/alternate/bernth/)
 
 
-### Palhetada sweep
+### Palhetada sweep (Sweep picking)
 
 * <span class="badge badge-primary">vídeo</span> [10 levels of sweep picking - Beginner to advanced with Bernth](picking/sweep/10-levels/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada sweep com Kiko Loureiro](picking/sweep/kiko-loureiro/)
 * <span class="badge badge-primary">vídeo</span> [Extreme sweep picking lesson com Cesario Filho](picking/sweep/cesario-filho/)
-* <span class="badge badge-primary">vídeo</span> [Sweep picking 101 com Michael Angelo Batio](picking/sweep/michael-angelo-batio/)
+* <span class="badge badge-primary">vídeo</span> [Sweep picking 101 with Michael Angelo Batio](picking/sweep/michael-angelo-batio/)
+* <span class="badge badge-primary">vídeo</span> [How to sweep pick? The basics explained! with Bernth](picking/sweep/basics/)
 
 ### Palhetada econômica
 
@@ -74,11 +75,11 @@ lead: "É saber como tocar"
 * No Sweeping
 * Alternate String Change on Any Direction
 
-### Dedo
+### Dedo (Finger pickingt)
 
 * <span class="badge badge-primary">vídeo</span> [How to use fingerpicking for lead guitar with Matt Lake](picking/finger/)
 
-### Palhetada híbrida
+### Palhetada híbrida (Hybrid picking)
 
 * <span class="badge badge-primary">vídeo</span> [Hybrid picking quick lick com Kiko Loureiro](picking/hybrid/quick-lick/)
 * <span class="badge badge-primary">vídeo</span> [How to play a metal riff using hybrid picking com Kiko Loureiro](picking/hybrid/metal-riff/)
@@ -128,10 +129,16 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [How to avoid embarrassing yourself during a solo with Kiko Loureiro](vibrato/)
 * <span class="badge badge-primary">vídeo</span> [Steve Vai circular vibrato technique with Guitar Interactive](vibrato/circular/)
 
-## Harmônicos
+## Harmônicos (Harmonics)
 
 * <span class="badge badge-primary">vídeo</span> [Tudo sobre harmônicos com Marcos De Ros](harmonic/)
+
+## Harmônicos naturais (Natural harmonics)
+
 * <span class="badge badge-primary">vídeo</span> [O que são harmônicos naturais com Marcos De Ros](harmonic/natural/)
+
+## Harmônicos artificiais (Pinch harmonics)
+
 * <span class="badge badge-primary">vídeo</span> [O que são harmônicos artificiais (pinch harmonics) com Marcos De Ros](harmonic/pinch/)
 
 ## Precição rítmica
@@ -141,6 +148,9 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Dispersão de oitavas](rhythm/dispersion/)
 * <span class="badge badge-primary">vídeo</span> [Estudo rítmico](rhythm/study/)
 * <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)
+* <span class="badge badge-primary">vídeo</span> [The 3 exercises that unlocked my right hand! with Bernth](general/right-hand/)
+
+## Slapping
 
 ## Sonoridade
 

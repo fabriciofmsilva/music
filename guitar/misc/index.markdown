@@ -59,3 +59,7 @@ videos:
 ## Lesões
 
 * <span class="badge badge-success">artigo</span> [Prevenção de lesões ao tocar guitarra](https://musicclan.com.br/blog/prevencao-de-lesoes-ao-tocar-guitarra/){:target="_blank"}
+
+## Composição
+
+* <span class="badge badge-primary">vídeo</span> [Jogue músicas fora! com Nelson Faria](composition/)

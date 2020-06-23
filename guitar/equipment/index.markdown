@@ -52,6 +52,10 @@ videos:
 
 ### Efeitos de ambiência: Delay e Reverb
 
+#### Delay
+
+* <span class="badge badge-primary">vídeo</span> [Tipos de delay com João Gaspar](pedal/delay/)
+
 #### Reverb
 
 * <span class="badge badge-primary">vídeo</span> [Tipos de reverb com João Gaspar](pedal/reverb/)

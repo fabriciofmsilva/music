@@ -71,4 +71,7 @@ videos:
   - title: "Independência cruzada"
     url: https://www.youtube.com/embed/ZS8CfAsK9f0
     platform: youtube
+  - title: "Percepção rítmica"
+    url: https://www.youtube.com/embed/SYhrsEFuvs8
+    platform: youtube
 ---
