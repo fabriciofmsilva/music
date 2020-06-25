@@ -11,4 +11,7 @@ videos:
   - title: Quais são os tipos de delay?
     url: https://www.youtube.com/embed/lU32M3bmUFc
     platform: youtube
+  - title: Como usar os tipos de delay?
+    url: https://www.youtube.com/embed/q9-Qi2TRsTM
+    platform: youtube
 ---

@@ -46,9 +46,10 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 * <span class="badge badge-success">artigo</span> [A escala menor na guitarra + shapes para estudo com Music Clan](https://musicclan.com.br/blog/escala-menor-guitarra/){:target="_blank"}
 
-#### Escala menor harmônica
+#### Escala menor harmônica (Harmonic Minor)
 
 * <span class="badge badge-primary">vídeo</span> [Songs that use the harmonic minor scale with David Bennett](scales/diatonic/minor/harmonic/)
+* <span class="badge badge-primary">vídeo</span> [A Harmonic Minor with Bernth](scales/diatonic/minor/harmonic/bernth/)
 
 #### Escala menor melódica
 
@@ -90,13 +91,17 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 ### Escalas Exóticas
 
 * <span class="badge badge-primary">vídeo</span> [Soloing on one or two strings with the major hexatonic scale with Andy Aledort](scales/exotic/hexatonic/)
+* <span class="badge badge-primary">vídeo</span> [A Hirajoshi scale - Japanese pentatonic with Bernth](scales/exotic/hirajoshi/)
 
-## Modos
+## Modos (Modes)
 
 ### Modos gregos
 
 * <span class="badge badge-success">artigo</span> [Entendendo e desmistificando os modos gregos com Music Clan](https://musicclan.com.br/blog/tudo-sobre-modos-gregos/){:target="_blank"}
 * <span class="badge badge-primary">vídeo</span> [Entendendo os modos gregos](modes/general/)
+* <span class="badge badge-primary">vídeo</span> [The Modes explained in one minute with Bernth](modes/general/one-minute/)
+* <span class="badge badge-primary">vídeo</span> [E Phrygian Dominant / Spanish Phrygian with Bernth](modes/phrygian/dominant/)
+* <span class="badge badge-primary">vídeo</span> [Acoustic/Lydian b7 scale lesson with Bernth](modes/lydian/dominant/)
 
 #### Modos gerados pela menor harmônica
 
@@ -139,7 +144,7 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 
 ### Acordes com corda solta
 
-## Arpejos
+## Arpejos (Arpeggios)
 
 * <span class="badge badge-primary">vídeo</span> [Esqueça o sweep! Toque arpejos de maneira simples com Roger Franco](arpeggios/roger-franco/)
 * <span class="badge badge-primary">vídeo</span> [Como estudar os arpejos na guitarra? com Gustavo Guerra](arpeggios/gustavo-guerra/)
@@ -161,6 +166,8 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 
 
 ### Tétrades
+
+* <span class="badge badge-primary">vídeo</span> [E Minor 9th Arpeggio with Bernth](arpeggios/tetrads/)
 
 #### Com sétima maior (7M)
 

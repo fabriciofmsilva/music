@@ -11,6 +11,9 @@ videos:
   - title: 4 - It's easy to play without looking when you understand this!
     url: https://www.youtube.com/embed/1OR8TEVWjc0
     platform: youtube
+  - title: 5 - Alternate picking scales. Is it REALLY useful for beginners?
+    url: https://www.youtube.com/embed/JcFgiS6KmHQ
+    platform: youtube
   - title: 6 - Easy & fun improvisation for beginners!
     url: https://www.youtube.com/embed/754To3ugAx8
     platform: youtube

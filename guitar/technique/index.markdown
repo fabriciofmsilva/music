@@ -153,6 +153,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Estudo rítmico](rhythm/study/)
 * <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)
 * <span class="badge badge-primary">vídeo</span> [The 3 exercises that unlocked my right hand! with Bernth](general/right-hand/)
+* <span class="badge badge-primary">vídeo</span> [How to write riffs & solos in an odd meter (Odd time signature) with Bernth](rhythm/odd/7-8/)
 
 ## Slapping
 
