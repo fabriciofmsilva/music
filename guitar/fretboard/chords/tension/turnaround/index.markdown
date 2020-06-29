@@ -7,7 +7,11 @@ author:
   - name: "Fica a Dica Premium"
     url: "https://www.youtube.com/channel/UCMqZJ-K9rq6zfzSnji_C_Gg"
 tags: [guitar, fretboard, chord]
-video:
-  url: https://www.youtube.com/embed/rZ4IDQ0ObHw
-  platform: youtube
+videos:
+  - title: "Notas de tensão #1"
+    url: https://www.youtube.com/embed/rZ4IDQ0ObHw
+    platform: youtube
+  - title: "Notas de tensão #4"
+    url: https://www.youtube.com/embed/EnCrVzJ40BM
+    platform: youtube
 ---

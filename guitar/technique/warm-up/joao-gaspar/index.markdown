@@ -11,7 +11,13 @@ videos:
   - title: Warmup com power chords
     url: https://www.youtube.com/embed/srDMBo7mfIM
     platform: youtube
+  - title: Warmup para palhetada alternada
+    url: https://www.youtube.com/embed/GSzvGOJCQys
+    platform: youtube
   - title: Warmup de mão esquerda com legato
     url: https://www.youtube.com/embed/hyfcJSEwebg
+    platform: youtube
+  - title: Warmup com abertura de mão esquerda
+    url: https://www.youtube.com/embed/JXx9NaXZWBI
     platform: youtube
 ---

@@ -23,4 +23,7 @@ videos:
   - title: "Como escolher um teclado controlador MIDI barato para home studio"
     url: https://www.youtube.com/embed/i8W--eDUvWE
     platform: youtube
+  - title: "Como escolher o melhor programa de gravação de áudio e produção musical"
+    url: https://www.youtube.com/embed/ZAiXgZcGxsE
+    platform: youtube
 ---
