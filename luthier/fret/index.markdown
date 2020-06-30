@@ -41,6 +41,9 @@ videos:
   - title: "How to use glue for guitar frets | StewMac"
     url: https://www.youtube.com/embed/4ZIMMAdDn3k
     lang: eng
+  - title: "Fix fret buzz without removing the strings | StewMac"
+    url: https://www.youtube.com/embed/XiUJxrLAd44
+    lang: eng
 ---
 
 <div class="alert alert-primary" role="alert">

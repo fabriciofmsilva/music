@@ -20,4 +20,7 @@ videos:
   - title: Warmup com abertura de mão esquerda
     url: https://www.youtube.com/embed/JXx9NaXZWBI
     platform: youtube
+  - title: Warmup de mão esquerda com oitavas cromáticas
+    url: https://www.youtube.com/embed/41_gkD6_Wzg
+    platform: youtube
 ---

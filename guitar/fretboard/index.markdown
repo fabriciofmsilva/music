@@ -59,6 +59,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 * <span class="badge badge-primary">vídeo</span> [Bobby McFerrin demonstrates the power of the pentatonic scale](scales/pentatonic/general/power/)
 * <span class="badge badge-primary">vídeo</span> [6 maneiras de estudar a pentatônica](scales/pentatonic/general/study/)
 * <span class="badge badge-primary">vídeo</span> [Como usar pentatônica?](scales/pentatonic/general/how/)
+* <span class="badge badge-primary">vídeo</span> [Guitarra base com pentatônica com João Gaspar](scales/pentatonic/general/rhythm/)
 
 #### Escala pentatônica maior
 
@@ -111,6 +112,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 
 * <span class="badge badge-primary">vídeo</span> [Mais de 700 shapes em 4 minutos](chords/general/shapes/)
 * <span class="badge badge-primary">vídeo</span> [10 levels of emotional chords](chords/general/level/)
+* <span class="badge badge-primary">vídeo</span> [Aprenda tocar nas 3 regiões da guitarra com Roger Franco](chords/general/regions/)
 
 ### Formação dos acordes
 

@@ -38,4 +38,7 @@ videos:
   - title: "EP 10"
     url: https://www.youtube.com/embed/G6cpir06PfU
     platform: youtube
+  - title: "EP 11 - Back to square one?"
+    url: https://www.youtube.com/embed/ry4Crz_wYZw
+    platform: youtube
 ---

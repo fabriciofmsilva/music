@@ -43,7 +43,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com salto de corda](picking/alternate/string-skip/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada postura](picking/alternate/posture/)
 * <span class="badge badge-primary">vídeo</span> [Olli Soikkeli's amazing alternate picking feat. Cesar Garabini](picking/alternate/troy-grady/olli-soikkeli/)
-* <span class="badge badge-primary">vídeo</span> [Palhetada com salto em arpejo com João Gaspar](picking/alternate/joao-gaspar/skip/)
+* <span class="badge badge-primary">vídeo</span> [Palhetada com salto com João Gaspar](picking/alternate/joao-gaspar/skip/)
 * <span class="badge badge-primary">vídeo</span> [Ultimate alternate picking exercises with Bernth](picking/alternate/bernth/)
 * <span class="badge badge-primary">vídeo</span> [300 BPM Alternate picking technique - 15 notes per second with Bernth](picking/alternate/bernth/300/)
 

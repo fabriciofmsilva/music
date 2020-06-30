@@ -7,7 +7,7 @@ author:
   - name: "Guns N' Roses"
     url: "../"
     self: true
-tags: [guitar, repertorie, akashic]
+tags: [guitar, repertorie, guns-n-roses]
 videos:
   - title: "Riff com Marcos De Ros"
     url: https://www.youtube.com/embed/UvFI078wdQs

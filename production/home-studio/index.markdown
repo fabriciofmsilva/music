@@ -26,4 +26,7 @@ videos:
   - title: "Como escolher o melhor programa de gravação de áudio e produção musical"
     url: https://www.youtube.com/embed/ZAiXgZcGxsE
     platform: youtube
+  - title: "Como escolher monitores para home studio"
+    url: https://www.youtube.com/embed/cqMdsHrmcjI
+    platform: youtube
 ---
