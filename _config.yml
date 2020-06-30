@@ -36,6 +36,7 @@ header_pages:
 # Build settings
 theme: minima
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
 
 # Collections
