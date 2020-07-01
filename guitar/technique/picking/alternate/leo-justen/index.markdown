@@ -47,4 +47,7 @@ videos:
   - title: "Corda abafada semicolcheia"
     url: https://www.youtube.com/embed/X0SxNginv_c
     platform: youtube
+  - title: "Corda abafada quiáltera de semínima"
+    url: https://www.youtube.com/embed/xJVv-ChuGsA
+    platform: youtube
 ---

@@ -155,6 +155,7 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 * <span class="badge badge-primary">vídeo</span> [Isso tornou-me fluente em qualquer arpejo com Roberto Barros](arpeggios/roberto-barros/)
 * <span class="badge badge-primary">vídeo</span> [Arpejos e sweep com Israel Rodrigues](arpeggios/israel-rodrigues/)
 * <span class="badge badge-primary">vídeo</span> [Arpejo fácil com Ozielzinho](arpeggios/ozielzinho/)
+* <span class="badge badge-primary">vídeo</span> [This exercise solved my biggest theory frustration! with Bernth](arpeggios/general/3-levels/)
 
 ### Tríades
 
