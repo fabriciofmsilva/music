@@ -12,4 +12,7 @@ videos:
   - title: "Riff com Marcos De Ros"
     url: https://www.youtube.com/embed/PQESSSVaeBk
     platform: youtube
+  - title: "Arpejos de elastano com Marcos De Ros"
+    url: https://www.youtube.com/embed/pkbQLNWeQBg
+    platform: youtube
 ---

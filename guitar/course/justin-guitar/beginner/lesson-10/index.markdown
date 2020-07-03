@@ -8,6 +8,9 @@ author:
     url: "https://www.youtube.com/channel/UCBNkm8o5LiEVLxO8w0p2sfQ"
 tags: [guitar, course, beginner]
 videos:
+  - title: "1 - The weak finger G solution"
+    url: https://www.youtube.com/embed/AWA5C2MCu2Q
+    platform: youtube
   - title: "4 - It's easy to play without looking when you understand this!"
     url: https://www.youtube.com/embed/1OR8TEVWjc0
     platform: youtube

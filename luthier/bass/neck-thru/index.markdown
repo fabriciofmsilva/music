@@ -29,4 +29,7 @@ videos:
   - title: "Aplicação de verniz PU com pistola, teoria e prática básica"
     url: https://www.youtube.com/embed/NSJPl42IFt8
     platform: youtube
+  - title: "Ficou pronto! Baixo neck through"
+    url: https://www.youtube.com/embed/aS8c1rn0-Go
+    platform: youtube
 ---

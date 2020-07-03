@@ -149,6 +149,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Firmando as semicolcheias](rhythm/semiquaver/)
 * <span class="badge badge-primary">vídeo</span> [Colcheia swingada](rhythm/quaver/)
+* <span class="badge badge-primary">vídeo</span> [Colcheia Jazz](rhythm/quaver/jazz/)
 * <span class="badge badge-primary">vídeo</span> [Dispersão de oitavas](rhythm/dispersion/)
 * <span class="badge badge-primary">vídeo</span> [Estudo rítmico](rhythm/study/)
 * <span class="badge badge-primary">vídeo</span> [Mão direita impressionante com Cacau Santos](rhythm/rigthhand/)

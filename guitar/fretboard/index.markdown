@@ -30,6 +30,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 ### Intervalos no braço da guitarra
 
 * <span class="badge badge-primary">vídeo</span> [Intervalos na escala maior com Nelson Faria](interval/major/)
+* <span class="badge badge-primary">vídeo</span> [Prática de oitavas com João Gaspar](interval/distance/octaves/)
 
 ## Escalas
 
