@@ -14,4 +14,7 @@ videos:
   - title: "Mão direita impressionante"
     url: https://www.youtube.com/embed/dZYfRFNLfoE
     platform: youtube
+  - title: "Usar o dedo e a palheta"
+    url: https://www.youtube.com/embed/kc9de64qKLU
+    platform: youtube
 ---

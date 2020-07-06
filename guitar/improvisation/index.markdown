@@ -22,6 +22,7 @@ videos:
 
 * <span class="badge badge-primary">vídeo</span> [Por onde se começa a improvisar? com Nelson Faria](general/start/)
 * <span class="badge badge-primary">vídeo</span> [Dicas para improvisar com outros músicos com Mateus Starling](general/hints/)
+* <span class="badge badge-primary">vídeo</span> [3 coisas que te impedem de improvisar bem com Roger Franco](general/hints/three/)
 
 * Improvisação por centros tonais
 * Improvisação por dominantes secundários e substitutos
