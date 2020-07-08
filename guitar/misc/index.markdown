@@ -51,6 +51,7 @@ videos:
 * <span class="badge badge-primary">vídeo</span> [O que eu faria se começasse minha carreira hoje com Kiko Loureiro](career/)
 * <span class="badge badge-primary">vídeo</span> [O fundamental para ser sideman com João Gaspar](career/sideman/)
 * <span class="badge badge-primary">vídeo</span> [Um pouco de como penso com Roberto Barros](career/focus/)
+* <span class="badge badge-primary">vídeo</span> [5 habits that radically improved my guitar playing! with Bernth](career/habits/)
 
 ## Jam
 

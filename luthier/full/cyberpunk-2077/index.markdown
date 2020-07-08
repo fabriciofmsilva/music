@@ -41,4 +41,7 @@ videos:
   - title: "EP 11 - Back to square one?"
     url: https://www.youtube.com/embed/ry4Crz_wYZw
     platform: youtube
+  - title: "EP 12 - Coming together"
+    url: https://www.youtube.com/embed/btP5WzrIvgs
+    platform: youtube
 ---
