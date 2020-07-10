@@ -140,6 +140,7 @@ lead: "É saber como tocar"
 ## Harmônicos naturais (Natural harmonics)
 
 * <span class="badge badge-primary">vídeo</span> [O que são harmônicos naturais com Marcos De Ros](harmonic/natural/)
+* <span class="badge badge-primary">vídeo</span> [How to play natural harmonics with Sydney Ellen](harmonic/natural/how/)
 
 ## Harmônicos artificiais (Pinch harmonics)
 

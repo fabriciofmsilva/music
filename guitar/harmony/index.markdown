@@ -27,6 +27,10 @@ title: "Harmonia"
 * Harmonia Blues
 * Ciclos Harmônicos
 
+## Riffs
+
+* <span class="badge badge-primary">vídeo</span> [How to write amazing modern metal riffs! with Bernth](riffs/)
+
 ## Livros
 
 * Harmônia e Improvisação vol 1 e 2 - Almir Chediak
