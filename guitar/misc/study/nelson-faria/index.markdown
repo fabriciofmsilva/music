@@ -11,4 +11,7 @@ videos:
   - title: "Dicas para o estudo diário"
     url: https://www.youtube.com/embed/2kWmPuTb1Lk
     platform: youtube
+  - title: "Estudar 3 minutos é suficiente?"
+    url: https://www.youtube.com/embed/S688WK8j8Tc
+    platform: youtube
 ---

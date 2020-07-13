@@ -61,6 +61,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 * <span class="badge badge-primary">vídeo</span> [6 maneiras de estudar a pentatônica](scales/pentatonic/general/study/)
 * <span class="badge badge-primary">vídeo</span> [Como usar pentatônica?](scales/pentatonic/general/how/)
 * <span class="badge badge-primary">vídeo</span> [Guitarra base com pentatônica com João Gaspar](scales/pentatonic/general/rhythm/)
+* <span class="badge badge-primary">vídeo</span> [Ganhe velocidade com a pentatônica com Roger Franco](scales/pentatonic/general/speed/)
 
 #### Escala pentatônica maior
 

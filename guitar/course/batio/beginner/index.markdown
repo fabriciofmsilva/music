@@ -11,4 +11,7 @@ videos:
   - title: "#1 - Where to begin?"
     url: https://www.youtube.com/embed/Qza3OqnS1zs
     platform: youtube
+  - title: "#2 - Strumming & how to hold a guitar"
+    url: https://www.youtube.com/embed/APRR9TqrnpM
+    platform: youtube
 ---

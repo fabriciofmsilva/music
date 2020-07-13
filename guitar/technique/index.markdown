@@ -22,6 +22,7 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [Postura e técnica](posture/)
 * <span class="badge badge-primary">vídeo</span> [Execução clara e limpa](posture/execution/)
+* <span class="badge badge-primary">vídeo</span> [Como segurar a palheta/apoiar a mão na guitarra com Bruno Mello](posture/pick/)
 
 ## Palhetada
 
