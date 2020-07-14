@@ -44,4 +44,7 @@ videos:
   - title: "EP 12 - Coming together"
     url: https://www.youtube.com/embed/btP5WzrIvgs
     platform: youtube
+  - title: "EP 13 - Puppy power!"
+    url: https://www.youtube.com/embed/z3hp6gjuVvA
+    platform: youtube
 ---
