@@ -17,4 +17,7 @@ videos:
   - title: "Votação do escudo, EP 03"
     url: https://www.youtube.com/embed/k-usmDDz0zE
     platform: youtube
+  - title: "Final, EP 04"
+    url: https://www.youtube.com/embed/PsV5_JU2ZjI
+    platform: youtube
 ---

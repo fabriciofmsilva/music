@@ -23,4 +23,7 @@ videos:
   - title: "Aula Final"
     url: https://www.youtube.com/embed/nwW7JEVA4Es
     platform: youtube
+  - title: "Aula bônus"
+    url: https://www.youtube.com/embed/fR1Yv4MPTQE
+    platform: youtube
 ---

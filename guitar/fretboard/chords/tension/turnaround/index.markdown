@@ -14,4 +14,7 @@ videos:
   - title: "Notas de tensão #4"
     url: https://www.youtube.com/embed/EnCrVzJ40BM
     platform: youtube
+  - title: "Notas de tensão #6"
+    url: https://www.youtube.com/embed/CKck523pYYI
+    platform: youtube
 ---
