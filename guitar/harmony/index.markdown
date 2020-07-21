@@ -23,9 +23,14 @@ title: "Harmonia"
 * Baixo pedal e ostinato
 * Modulações
 * Harmonia quartal
-* Modalismo
-* Harmonia Blues
-* Ciclos Harmônicos
+
+## Modalismo
+
+* <span class="badge badge-primary">vídeo</span> [Harmonia modal (Sem mistérios) com Mateus Starling](modal/)
+
+## Harmonia Blues
+
+## Ciclos Harmônicos
 
 ## Riffs
 

@@ -29,6 +29,8 @@ links:
     url: eric-clapton
   - title: Europe
     url: europe
+  - title: Extreme
+    url: extreme
   - title: Guns N' Roses
     url: guns-n-roses
   - title: Imagine Dragons

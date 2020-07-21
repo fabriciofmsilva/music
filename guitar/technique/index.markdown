@@ -78,8 +78,9 @@ lead: "É saber como tocar"
 * No Sweeping
 * Alternate String Change on Any Direction
 
-### Dedo (Finger pickingt)
+### Dedo (Finger picking)
 
+* <span class="badge badge-primary">vídeo</span> [10 levels of fingerstyle guitar with ichika Nito](picking/finger/fingerstyle/)
 * <span class="badge badge-primary">vídeo</span> [How to use fingerpicking for lead guitar with Matt Lake](picking/finger/)
 
 ### Palhetada híbrida (Hybrid picking)

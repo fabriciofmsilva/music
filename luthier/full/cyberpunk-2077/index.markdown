@@ -47,4 +47,7 @@ videos:
   - title: "EP 13 - Puppy power!"
     url: https://www.youtube.com/embed/z3hp6gjuVvA
     platform: youtube
+  - title: "EP 14 - Falling at the final hurdle?"
+    url: https://www.youtube.com/embed/MayENILJYcM
+    platform: youtube
 ---

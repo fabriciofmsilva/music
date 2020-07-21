@@ -197,7 +197,8 @@ Também são conhecidos como **power chords**, muito usados no rock. São excele
 
 ## Shred
 
-* <span class="badge badge-primary">video</span> [Professor shred com Guthrie Govan](general/shred)
+* <span class="badge badge-primary">video</span> [Professor shred with Guthrie Govan](general/shred)
+* <span class="badge badge-primary">video</span> [Top 3 shred tricks for insane neoclassical guitar licks! with Bernth](general/shred/neoclassical)
 
 ## Livros
 
