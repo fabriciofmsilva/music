@@ -17,4 +17,7 @@ videos:
     - title: "Como improvisar no tom menor"
       url: https://www.youtube.com/embed/8V544xl3iVU
       platform: youtube
+    - title: "Eu posso tocar qualquer nota?"
+      url: https://www.youtube.com/embed/ZsyjhVx6Rg8
+      platform: youtube
 ---
