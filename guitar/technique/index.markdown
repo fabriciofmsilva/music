@@ -30,6 +30,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Perceiving pick noise: can you hear the chirp? 16 picks compared!](picking/general/chirp/)
 * <span class="badge badge-primary">vídeo</span> [Picking perfection with Jason Richardson](picking/general/perfect/)
 * <span class="badge badge-primary">vídeo</span> [A melhor maneira de palhetar com João Gaspar](picking/general/best/)
+* <span class="badge badge-primary">vídeo</span> [Golden ratio: the 5 steps to perfect picking technique! with Bernth](picking/general/golden-ratio/)
 
 ### Palhetada alternada (Alternate picking)
 

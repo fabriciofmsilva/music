@@ -32,6 +32,8 @@ title: "Harmonia"
 
 ## Ciclos Harmônicos
 
+* <span class="badge badge-primary">vídeo</span> [Ciclo diatônico das quartas com Nelson Faria](cycles/4/)
+
 ## Riffs
 
 * <span class="badge badge-primary">vídeo</span> [How to write amazing modern metal riffs! with Bernth](riffs/)

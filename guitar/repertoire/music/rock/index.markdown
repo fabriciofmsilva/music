@@ -23,6 +23,8 @@ links:
     url: dick-dale
   - title: Dio
     url: dio
+  - title: Dream Theater
+    url: dream-theater
   - title: Eagles
     url: eagles
   - title: Eric Clapton
@@ -49,6 +51,8 @@ links:
     url: kansas
   - title: Led Zeppelin
     url: led-zeppelin
+  - title: Lynyrd Skynyrd
+    url: lynyrd-skynyrd
   - title: Metallica
     url: metallica
   - title: Michael Jackson
@@ -81,6 +85,8 @@ links:
     url: the-white-stripes
   - title: Trivium
     url: trivium
+  - title: Van Halen
+    url: van-halen
   - title: Yngwie Malmsteen
     url: yngwie-malmsteen
   - title: ZZ Top
