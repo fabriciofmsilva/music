@@ -12,3 +12,4 @@ tags: [guitar, course, beginner]
 * <span class="badge badge-primary">vídeo</span> [Introduction](intro/)
 * <span class="badge badge-primary">vídeo</span> [Lesson 1](lesson-1/)
 * <span class="badge badge-primary">vídeo</span> [Lesson 10](lesson-10/)
+* <span class="badge badge-primary">vídeo</span> [Lesson 11](lesson-11/)

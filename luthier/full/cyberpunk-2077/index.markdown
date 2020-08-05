@@ -53,4 +53,7 @@ videos:
   - title: "EP 15 - Road to Recovery"
     url: https://www.youtube.com/embed/wwICmlbMi4A
     platform: youtube
+  - title: "EP 16 - Together at last?"
+    url: https://www.youtube.com/embed/rZ4mPntATGA
+    platform: youtube
 ---

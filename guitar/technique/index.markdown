@@ -35,6 +35,7 @@ lead: "É saber como tocar"
 ### Palhetada alternada (Alternate picking)
 
 * <span class="badge badge-primary">vídeo</span> [10 levels of alternate picking - Beginner to advanced with Bernth](picking/alternate/10-levels/)
+* <span class="badge badge-primary">vídeo</span> [Best 5-minute alternate picking workout! (for intermediate players) with Bernth](picking/alternate/workout/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Nelson Faria](picking/alternate/nelson-faria/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com João Gaspar](picking/alternate/joao-gaspar/)
 * <span class="badge badge-primary">vídeo</span> [Palhetada alternada com Leo Justen](picking/alternate/leo-justen/)
@@ -83,6 +84,10 @@ lead: "É saber como tocar"
 
 * <span class="badge badge-primary">vídeo</span> [10 levels of fingerstyle guitar with ichika Nito](picking/finger/fingerstyle/)
 * <span class="badge badge-primary">vídeo</span> [How to use fingerpicking for lead guitar with Matt Lake](picking/finger/)
+
+#### Slap
+
+* <span class="badge badge-primary">vídeo</span> [Best slap & thump guitar tricks you need to know! with Bernth](picking/finger/slap/)
 
 ### Palhetada híbrida (Hybrid picking)
 

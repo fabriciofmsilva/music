@@ -23,6 +23,8 @@ links:
     url: dick-dale
   - title: Dio
     url: dio
+  - title: Dire Straits
+    url: dire-straits
   - title: Dream Theater
     url: dream-theater
   - title: Eagles
