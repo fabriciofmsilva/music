@@ -40,6 +40,7 @@ videos:
 * <span class="badge badge-success">artigo</span> [Como se manter motivado a tocar guitarra todos os dias com Music Clan](https://musicclan.com.br/blog/como-tocar-guitarra-todos-os-dias/){:target="_blank"}
 * <span class="badge badge-success">artigo</span> [Dicas de como evoluir na guitarra – Para guitarristas de todos os níveis com Music Clan](https://musicclan.com.br/blog/dicas-de-como-evoluir-na-guitarra-para-guitarristas-de-todos-os-niveis/){:target="_blank"}
 * <span class="badge badge-success">artigo</span> [Por quanto tempo você deve estudar guitarra diariamente? com Music Clan](https://musicclan.com.br/blog/por-quanto-tempo-estudar-guitarra/){:target="_blank"}
+* <span class="badge badge-primary">vídeo</span> [5 worst beginner guitar mistakes with Bernth](study/bernth/)
 
 ## Tirar música de ouvido
 

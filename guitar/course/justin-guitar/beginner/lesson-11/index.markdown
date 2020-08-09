@@ -14,4 +14,7 @@ videos:
   - title: "2 - Use this simple chord to energize your songs!"
     url: https://www.youtube.com/embed/otjuDwSMRjk
     platform: youtube
+  - title: "4 - Learn to improvise your guitar playing by ear!"
+    url: https://www.youtube.com/embed/OkTBizvNWoI
+    platform: youtube
 ---
