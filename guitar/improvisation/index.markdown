@@ -31,7 +31,13 @@ videos:
 * Uso de escalas simétricas
 * Notas de aproximação cromatica
 * Fraseado
-* Desenvolvimento de motivos
+
+## Desenvolvimento de motivos
+
+* <span class="badge badge-primary">vídeo</span> [Desenvolvendo motivos rítmicos (Perguntas e respostas) com Tiago Graciotin](motif/rhythmic/)
+* <span class="badge badge-primary">vídeo</span> [Motivos melódicos na improvisação com Bruno Mello e Vilmar Gusberti](motif/rhythmic/2/)
+* <span class="badge badge-primary">vídeo</span> [Usando motivos e respostas em solos e improvisos na guitarra com Alex Martinho](motif/rhythmic/3/)
+
 * Construção de solos
 * Transcrições
 

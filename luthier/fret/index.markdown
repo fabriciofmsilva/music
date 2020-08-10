@@ -44,6 +44,8 @@ videos:
   - title: "Fix fret buzz without removing the strings | StewMac"
     url: https://www.youtube.com/embed/XiUJxrLAd44
     lang: eng
+  - title: "Como fazer uma escala de guitarra | Sergio Grassi Luthier"
+    url: https://www.youtube.com/embed/3ZJweIFizI4
 ---
 
 <div class="alert alert-primary" role="alert">

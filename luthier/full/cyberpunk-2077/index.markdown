@@ -56,4 +56,7 @@ videos:
   - title: "EP 16 - Together at last?"
     url: https://www.youtube.com/embed/rZ4mPntATGA
     platform: youtube
+  - title: "EP 17 - Don't fret...it's a Guitar!"
+    url: https://www.youtube.com/embed/QO-xJp1exE4
+    platform: youtube
 ---

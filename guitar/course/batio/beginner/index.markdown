@@ -14,4 +14,7 @@ videos:
   - title: "#2 - Strumming & how to hold a guitar"
     url: https://www.youtube.com/embed/APRR9TqrnpM
     platform: youtube
+  - title: "#3 - My warm up exercise & knowing whats inside the box"
+    url: https://www.youtube.com/embed/RVH0vUKHbEI
+    platform: youtube
 ---
