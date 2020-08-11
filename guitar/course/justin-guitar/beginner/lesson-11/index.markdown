@@ -17,4 +17,7 @@ videos:
   - title: "4 - Learn to improvise your guitar playing by ear!"
     url: https://www.youtube.com/embed/OkTBizvNWoI
     platform: youtube
+  - title: "5 - Finger picking on guitar is easier than you might have thought!"
+    url: https://www.youtube.com/embed/2WB8otOcz78
+    platform: youtube
 ---
