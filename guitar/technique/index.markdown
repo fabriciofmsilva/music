@@ -153,6 +153,7 @@ lead: "É saber como tocar"
 ## Harmônicos artificiais (Pinch harmonics)
 
 * <span class="badge badge-primary">vídeo</span> [O que são harmônicos artificiais (pinch harmonics) com Marcos De Ros](harmonic/pinch/)
+* <span class="badge badge-primary">vídeo</span> [Como fazer harmônicos artificiais com Thiago Oliveira](harmonic/pinch/2/)
 
 ## Precição rítmica
 
