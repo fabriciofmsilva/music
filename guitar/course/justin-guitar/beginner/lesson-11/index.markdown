@@ -20,4 +20,7 @@ videos:
   - title: "5 - Finger picking on guitar is easier than you might have thought!"
     url: https://www.youtube.com/embed/2WB8otOcz78
     platform: youtube
+  - title: "6 - Easily learn happy birthday on guitar!"
+    url: https://www.youtube.com/embed/P2Y4n9H55wI
+    platform: youtube
 ---

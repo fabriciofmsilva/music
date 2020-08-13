@@ -9,6 +9,10 @@ links:
     url: aerosmith
   - title: Akashic
     url: akashic
+  - title: Andre Nieri
+    url: andre-nieri
+  - title: Anthrax
+    url: anthrax
   - title: Arkariot
     url: arkariot
   - title: Black Sabbath
