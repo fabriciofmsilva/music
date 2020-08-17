@@ -10,3 +10,7 @@ lead: "Bateria"
 ## Tempo
 
 * <span class="badge badge-primary">vídeo</span> [Workshop de tempo interno](time/)
+
+## Vassourinha
+
+* <span class="badge badge-primary">vídeo</span> [Workshop de tempo interno](vassourinha/)
