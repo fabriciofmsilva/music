@@ -122,6 +122,7 @@ lead: "É importante saber onde estão as notas e escalas na guitarra"
 * <span class="badge badge-primary">vídeo</span> [Formação de acordes I - tríades com Cifra Club](chords/formation/triads/)
 * <span class="badge badge-success">artigo</span> [Tríades: domine-as na guitarra e veja como 10 grandes bandas as utilizaram com Music Clan](https://musicclan.com.br/blog/triades-guitarra-entenda-e-confira-10-riffs/){:target="_blank"}
 * <span class="badge badge-success">artigo</span> [Tríades abertas: aumente seu vocabulário de acordes com Music Clan](https://musicclan.com.br/blog/triades-abertas/){:target="_blank"}
+* <span class="badge badge-success">artigo</span> [Tríades abertas com Marcelo Barbosa](chords/open/triads/)
 * <span class="badge badge-primary">vídeo</span> [Formação de acordes II - tétrades com Cifra Club](chords/formation/tetrads/)
 
 #### Bicordes
