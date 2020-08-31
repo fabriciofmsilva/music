@@ -24,6 +24,7 @@ videos:
 * <span class="badge badge-primary">vídeo</span> [Dicas para improvisar com outros músicos com Mateus Starling](general/hints/)
 * <span class="badge badge-primary">vídeo</span> [3 coisas que te impedem de improvisar bem com Roger Franco](general/hints/three/)
 * <span class="badge badge-primary">vídeo</span> [Improvisation harmonic implications with triads with Tomo Fujita](general/triads/)
+* <span class="badge badge-primary">vídeo</span> [10 levels of metal guitar solos! - Easy to hard with Bernth](general/10-levels/)
 
 * Improvisação por centros tonais
 * Improvisação por dominantes secundários e substitutos
