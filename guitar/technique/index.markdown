@@ -49,6 +49,7 @@ lead: "É saber como tocar"
 * <span class="badge badge-primary">vídeo</span> [Palhetada com salto com João Gaspar](picking/alternate/joao-gaspar/skip/)
 * <span class="badge badge-primary">vídeo</span> [Ultimate alternate picking exercises with Bernth](picking/alternate/bernth/)
 * <span class="badge badge-primary">vídeo</span> [300 BPM Alternate picking technique - 15 notes per second with Bernth](picking/alternate/bernth/300/)
+* <span class="badge badge-primary">vídeo</span> [Alternate picking: how to play faster! (speed burst exercises) with Bernth](picking/alternate/bernth/speed-burst/)
 
 
 ### Palhetada sweep (Sweep picking)
