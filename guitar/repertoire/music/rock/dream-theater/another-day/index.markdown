@@ -12,4 +12,7 @@ videos:
   - title: "Solo com Andre Nieri"
     url: https://www.youtube.com/embed/Qj8xKoxwUc8
     platform: youtube
+  - title: "Solo with Chris Zoupa"
+    url: https://www.youtube.com/embed/1H5CZkyOvKA
+    platform: youtube
 ---
