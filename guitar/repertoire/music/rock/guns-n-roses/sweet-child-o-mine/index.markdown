@@ -18,4 +18,7 @@ videos:
   - title: "Lick com Vilmar Gusberti"
     url: https://www.youtube.com/embed/SKz9rQS-Wa4
     platform: youtube
+  - title: "Solo with David Escobar"
+    url: https://www.youtube.com/embed/w6Y3mKy8s2k
+    platform: youtube
 ---
