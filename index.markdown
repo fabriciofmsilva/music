@@ -6,7 +6,7 @@ links:
   - title: Guitarra
     url: guitar
   - title: Violão
-    url: guitar-acoustic
+    url: ../violao
   - title: Viola
     url: ../viola
   - title: Baixo
