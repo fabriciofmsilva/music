@@ -7,6 +7,8 @@ links:
     url: guitar
   - title: Violão
     url: guitar-acoustic
+  - title: Viola
+    url: ../viola
   - title: Baixo
     url: bass
   - title: Piano
