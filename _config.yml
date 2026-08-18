@@ -26,7 +26,7 @@ baseurl: "/music" # the subpath of your site, e.g. /blog
 url: "https://fabriciofmsilva.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-google_analytics: UA-22890269-1
+google_analytics: G-RJRKX4EWM7
 
 permalink: pretty
 
